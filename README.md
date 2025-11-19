@@ -12,7 +12,7 @@ A Scrapy spider for crawling and extracting content from the TU Wien Informatics
 ### Usage
 
 ```bash
-scrapy runspider tuwien_informatics_spider.py -o output.json -a download_dir_path="my_downloads"
+scrapy crawl tuwien_informatics_spider.py -o output.json -a download_dir_path="downloads"
 ````
 
 ### Output Structure
