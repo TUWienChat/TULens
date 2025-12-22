@@ -7,6 +7,14 @@ pip install -r requirements.txt
 playwright install chromium
 ```
 
+## Demo
+
+Start the interactive demo by running:
+(Note: Set the *GROQ_API_KEY* first in the script)
+``` python
+python demo.py
+```
+
 ## Web scraping
 A Scrapy spider for crawling and extracting content from the TU Wien Informatics website.
 ### Usage
