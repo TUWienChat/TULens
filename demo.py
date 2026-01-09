@@ -6,10 +6,11 @@ from langchain_community.document_loaders import JSONLoader
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # --- CONFIGURATION ---
 # Get your free key from console.groq.com
-os.environ["GROQ_API_KEY"] = ""
+os.environ["GROQ_API_KEY"] = "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"
 
 # 1. SETUP MODEL & EMBEDDINGS
 # We use HuggingFace (Local/Free) for embeddings
@@ -21,23 +22,38 @@ llm = ChatGroq(
     temperature=0
 )
 
+
+json_files = [
+    "tuwien_informatics_scrape_msc_demo.json",
+    "tuwien_informatics_pdf_demo.json"
+]
 # 2. LOAD DATA
 # Using your spider's output format
-loader = JSONLoader(
-    file_path='tuwien_informatics_scrape_msc_demo.json',
-    jq_schema='.[]',
-    content_key='content',
-    metadata_func=lambda record, meta: {**meta, "source": record.get("url")}
-)
-docs = loader.load()
+all_docs = []
+for json_file in json_files:
+    loader = JSONLoader(
+        file_path=json_file,
+        jq_schema='.[]',
+        content_key='content',
+        metadata_func=lambda record, meta: {**meta, "source": record.get("url")}
+    )
+    all_docs.extend(loader.load())
 
-# 3. VECTOR STORE
-# This works without importing 'langchain.chains'
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+splits = text_splitter.split_documents(all_docs)
+
 vectorstore = Chroma.from_documents(
-    documents=docs,
-    embedding=embeddings,
-    # persist_directory="./chroma_db"
+    documents=splits,
+    embedding=embeddings
 )
+
+# # 3. VECTOR STORE
+# # This works without importing 'langchain.chains'
+# vectorstore = Chroma.from_documents(
+#     documents=docs,
+#     embedding=embeddings,
+#     # persist_directory="./chroma_db"
+# )
 retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
 # 4. DEFINE THE PROMPT
