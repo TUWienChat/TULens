@@ -1,0 +1,2043 @@
+[
+  {
+    "content": "Bachelor\n\n###### Master\n\n\nDoctorate\n\n\nUniversity course\n\n\n### Study plan (curriculum) for the master's program\n## Media and Human-Centered Computing\n#UE 066 935\n\n###### Vienna University of Technology Resolution of the Senate of the Vienna University of Technology on June 16, 2025 Valid from October 1, 2025",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 1,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **Table of Contents**\n\n§ 1 Basis and scope 3\n\n\n§ 2 Qualification profile 3\n\n\n§ 3 Duration and scope 5\n\n\n§ 4 Admission to the master's program 5\n\n\n§ 5 Structure of the course 6\n\n\n§ 6 Courses 11\n\n\n§ 7 Examination regulations 14\n\n\n§ 8 Studyability and mobility 16\n\n\n§ 9 Diploma thesis 17\n\n\n§ 10 Academic degree 17\n\n\n§ 11 Quality management 17\n\n\n§ 12 Entry into force 19\n\n\n§ 13 Transitional provisions 19\n\n\nA Module descriptions 20\n\n\nB Transitional provisions 42\n\n\nC Semester division of courses 44\n\n\nD Examination subjects with the assigned modules and courses 45\n\n\nE Elective subject catalog “Transferable Skills” 47\n\n\nF Extension course Innovation 48\n\n\n2",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 2,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 1 Basis and scope**\n\nThis study plan defines and regulates the engineering, English-language master's program _Media and Human-Centered Computing_ at the Technical University\nUniversity of Vienna. It is based on the University Act 2002 BGBl. I No. 120/2002\n(UG) and the part of the statutes _Study regulations_ of the Technical University\nVienna in the currently valid version. The structure and design of the course\nare based on the following qualification profile.\n\n#### **§ 2 Qualification profile**\n\nThe master's program _Media and Human-Centered Computing_ provides an in-depth,\nscientifically and methodologically high-quality, aimed at lasting knowledge\nEducation that the graduates need for further qualification, especially in...\nAs part of a relevant doctoral program as well as for employment in\nfor example, in the following areas of activity and internationally competitive\ndoes:",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Scientific and industrial research in areas such as human computers\nInteraction, augmented reality, etc.\n\n\n\n\n- Interaction Design/Interactive Media Design\n\n\n\n\n- Design of application-oriented (industrial) multimedia systems\n\n\n\n\n- Carrying out usability studies and evaluations\n\n\n\n\n- Critical reflection and technology assessment\n\n\n\n\n- User experience design and accessible design",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Key fields of application: e-learning, medical applications, game design,\nUniversal access, advertising, visual analytics/information visualization, design\nArtificial Intelligence/Augmented Reality systems. However, _Media and Human-_\n_Centered Computing_ is not limited to these areas, but is increasingly being used as well\nused in industrial environments.\nGraduates of this course often work in one of the following roles: User\nExperience (UX) Designer, User Interface (UI) Designer, Human Factors Specialist,\nUsability Analyst, Accessibility Specialist, Mobile App Designer; Human-Centered AI\nEngineer, Embedded Systems Developer, Game Developer, XR (AR/VR) Developer;\nHuman-Computer Interaction (HCI) Researcher, Multimedia Developer, Digital Media Specialist, Creative Technologist, Virtual/Augmented Reality Designer, Game UX\nDesigners.\n_Media and Human-Centered Computing_ combines the discussion with theory",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Designers.\n_Media and Human-Centered Computing_ combines the discussion with theory\nand practice of research in the field of human-computer interaction with the imparting of comprehensive theoretical, methodological, technical and practical knowledge\nand skills for design, implementation, evaluation and/or critical reflection\ncomplex interactive systems.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "In particular, new forms of interaction between humans and computers are being developed\ntopics (e.g. tangible computing, virtual and augmented reality, human-centered\nAI). _Media and Human-Centered Computing_ is based on an interdisciplinary approach that includes, among other things, computer science, media theory, design science, psychology\nand sociology integrated.\nDue to the professional requirements, the Master's program _Media and Human-_\n_Centered Computing_ qualifications are conveyed in the following categories.\n\n**Expertise**\n\n\n\n\n- Theory and practice of design in the context of interactive technical systems\n\n\n\n\n- Scientific examination of the interaction between people and\nmachines\n\n\n\n\n- Design and implementation of special computer and sensor systems\n\n\n\n\n- Sustainable understanding of design theory, design thinking and design practice\n\n\n\n\n- Ability to consider social, cognitive, cultural and ethical aspects in design\ninteractive systems must be taken into account",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Ability to consider social, cognitive, cultural and ethical aspects in design\ninteractive systems must be taken into account\n\n- Motivation, knowledge and ability to apply the essential conceptual and methodological foundations of RRI (Responsible Research and Innovation)\n\n- Ability to understand and apply the essential values of science: openness, comprehensibility, critical discourse\n\n- Ability to develop systems allowing different access modalities\ntake into account\n\n\n\n**Interdisciplinary skills**\n\n\n\n\n- Development and use of theoretical foundations and methods for model building, solution finding and evaluation, as well as knowledge of the limits of each\nApproaches\n\n- Selection, application and expansion of qualitative, participatory and selected social science methods\n\n\n\n\n- Complex interdisciplinary and system-oriented approaches\n\n\n\n\n- Methodological foundation of approaches to problems, especially in\nDealing with open/unspecified problem situations",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Methodological foundation of approaches to problems, especially in\nDealing with open/unspecified problem situations\n\n- Proficiency in a wide range of design and implementation strategies\n\n\n\n\n- Multidisciplinary teamwork\n\n\n\n\n- Ability to collaborate and recognize future users\nof their problems\n\n\n\n\n- Creativity and innovation skills\n\n\n\n\n- Self-organization, personal responsibility\n\n\n\n\n- Higher problem formulation and problem solving skills\n\n\n\n\n- Responsibility in complex projects or activities\n\n\n\n\n- Knowledge of one's own abilities and limitations, ability to take criticism\n\n\n\n\n- Reflection on one's own work and its consequences in a social context, as well\nIncorporating this reflection into the design work\n\n\n\n4",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "A particular focus is on training those necessary for the job\nAdditional skills as well as the special promotion of high levels of creativity and\nInnovation potential.\n\n#### **§ 3 Duration and scope**\n\nThe workload for the master's program _Media and Human-Centered Computing_\nis 120 ECTS points. This corresponds to a planned full-time study period of 4 semesters.\nECTS points (ECTS) are a measure of the students' workload. An academic year includes 60 ECTS points, with one ECTS point corresponding to 25 hours of work\n(according to Section 54 Paragraph 2 UG).\n\n#### **§ 4 Admission to the master's program**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 4 Admission to the master's program**\n\nAdmission to the master's program _Media and Human-Centered Computing_ requires completion of a relevant bachelor's degree or another subject\neligible studies of at least the same level of higher education\nat a recognized domestic or foreign post-secondary educational institution. A course of study is technically possible if at least 90 ECTS from the\nAt least one of these has been completed in the fields of computer science and IT\n\n1. 20 ECTS from mathematics and statistics, as well as the theoretical basics\nin computer science, with imparted knowledge, skills and competencies\ncorresponding to the modules _Algebra and Discrete Mathematics_, _Analysis_, _Statistics_\n_and probability theory_ of the bachelor's degree in computer science at the TU Vienna;",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "2. 24 ECTS from algorithms, data structures and programming, with imparted knowledge, skills and competencies corresponding to the modules\n_Algorithms and data structures_, and _Introduction to programming_\nBachelor's degree in computer science at the TU Vienna.\n\n3. 18 ECTS from the theoretical, technical and practical fundamentals of computer science, with appropriate knowledge, skills and competencies\nthe modules _Thinking in Computer Science_, _Introduction to Security_ and _Basics_\n_digital systems_ of the bachelor's degree in computer science at the TU Vienna.\n\n4. 18 ECTS from Media and Human-Centered Computing, with imparted knowledge, skills and competencies corresponding to the modules of the specializations\n_Human-Centered Computing_ and _Visual Computing_ of the bachelor's program _Infor-_\n_matik_ of the TU Vienna.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "In any case, graduates of the bachelor's degree program in Computer Science can be admitted without additional examinations if the specialization in Human-Centered Computing was chosen.\n\n\n5",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "as well as the bachelor's degree programs _Media Informatics and Visual Computing_ and _Medical_\n_Computer Science_ of the Vienna University of Technology.\nTo compensate for significant technical differences, supplementary examinations can be carried out\nA maximum of 30 ECTS points are required, which must be awarded by the end of the year\nmust be completed in the second semester of the master's degree. These can be to the extent of\na maximum of 4.5 ECTS in the module _Free Elective Subjects and Transferable Skills_ as free elective subjects,\nHowever, they cannot be used as transferable skills. Furthermore, services can be provided for\nAcquisition of the necessary knowledge, skills and competencies in the area of _Human-_\n_Centered Computing_ or _Media IT and Visual Computing_ according to point 4 up to\nA total of 12 ECTS is used in the Extension module as part of the master's degree\nbecome.\nThe language of instruction is English. Applicants whose first language is not",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "become.\nThe language of instruction is English. Applicants whose first language is not\nIf you speak English, you must demonstrate the required language skills. The shape of the\nProof of this is set out in a regulation from the Rectorate.\nSome elective courses can be offered in German. For this one\nKnowledge of German is required according to the reference level B1 of the Common European\nFramework of reference for languages is recommended.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 5 Structure of the course**\n\nThe content and qualifications of the course are conveyed through _modules_. A module\nis a teaching and learning unit, which is characterized by entry and exit qualifications,\nContent, teaching and learning methods, standard workload and performance assessment\nis marked. Modules are completed in the form of one or more modules\ncontent-related _courses_. Thematically similar modules will be available\nsummarized into _examination subjects_, their names including scope and overall grade\nis shown on the graduation certificate.\n\n##### **Examination subjects and associated modules**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Examination subjects and associated modules**\n\nThe master's program _Media and Human-Centered Computing_ is divided into the following\nExamination subjects with the modules assigned to them. The examination subjects _Foundation,_\n_Free electives and transferable skills_ and _diploma thesis_ must be completed in any case.\nFrom the examination subject _Design and Implementation of Media and Human-Centered_\n_Computing_ modules worth at least 60 ECTS must be completed.\nThere are so many courses in the _Free Electives and Transferable Skills_ module\nto complete that its scope together with the scope of the other compulsory modules,\nthe diploma thesis and the scope of the selected modules result in 120 ECTS or more.\nIf a total of more than 60 ECTS are completed in the selected modules, you can:\nModule _Free Elective Subjects and Transferable Skills_ must be completed to the same extent as fewer ECTS, but at least 4.5 ECTS are from the area of transferable skills\nskills to complete.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Foundation**\n\nArtifact-based Design (6.0 ECTS)\nResponsible Digital Ethics (6.0 ECTS)\nUser Research Methods (6.0 ECTS)\nSeminar Media and Human-Centered Computing (3.0 ECTS)\n\n\n**Design and Implementation of Media and Human-Centered Computing**\n\nAssistive Technologies (12.0 ECTS)\nComputer Vision (12.0 ECTS)\nCritical Theory and Design (12.0 ECTS)\nDesign Thinking (12.0-18.0 ECTS)\nGameful Design (12.0 ECTS)\nEmbodied Systems: A Human-Drone Interaction Perspective (12.0 ECTS)\nExtension (up to 12.0 ECTS)\nHuman-Centered AI (12.0 ECTS)\nHuman-Agent Interaction (12.0 ECTS)\nVirtual, Augmented and Mixed Reality (12.0-24.0 ECTS)\nVisualization (12.0-24.0 ECTS)\nWellbeing Technologies (12.0 ECTS)\n\n\n**Free electives and transferable skills**\n\nFree electives and transferable skills (9.0 ECTS)\n\n\n**Diploma thesis**\n\nSee section § 9.\n\n##### **Focusing**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 7,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Free electives and transferable skills (9.0 ECTS)\n\n\n**Diploma thesis**\n\nSee section § 9.\n\n##### **Focusing**\n\nTo support a sensible selection in the examination subject _Design and Implementation_\n_of Media and Human-Centered Computing_ we propose three areas of focus\nStudents can orientate themselves:\n\n  - _Smart Interaction_\n\n**–** Design Thinking\n\n**–** Embodied Systems: A Human-Drone Interaction Perspective\n\n**–** Human-Centered AI\n\n**–** Wellbeing Technologies\n\n  - _Immersive Technologies_\n\n\n7",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 7,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**–** Computer Vision\n\n**–** Gameful Design\n\n**–** Virtual, Augmented and Mixed Reality\n\n**–** Visualization\n\n  - _Inclusive Design_\n\n**–** Assistive Technologies\n\n**–** Critical Theory and Design\n\n**–** Human-Agent Interaction\n\n**–** Wellbeing Technologies\n\n##### **Kurzbeschreibung der Module**\n\nDieser Abschnitt charakterisiert die Module des Masterstudiums _Media and Human-_\n_Centered Computing_ in Kürze. Eine ausführliche Beschreibung ist in Anhang A zu\nfinden.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Artifact-based Design (6,0 ECTS)** By engaging in hands-on prototyping, testing,\nand iterative design, students will develop skills in designing and implementing tangible\nand digital artifacts that reflect user needs and societal contexts. Through lectures,\ncollaborative projects, and reflective critiques, participants will learn to develop artifacts\nas tools for understanding problems, communicating ideas, and evaluating concepts. This\nmodule emphasizes a practical, research-oriented approach to design, enabling students to\ntranslate theoretical knowledge into meaningful and impactful integrated physical-digital\nconcepts.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Assistive Technologies (12,0 ECTS)** This module deals with the general principles\nand applied methods of assistive technologies (AT) that are prerequisite for being able to\noffer and make devices, systems and services available to disabled and elderly people in an\nappropriate manner. It covers the basic knowledge required to create a general barrier-free\nICT landscape designed according to the principles of universal design, and to develop\nspecial solutions to support and promote disabled and elderly people. Students should\nbe interested in the social implications of computer science and have a basic knowledge\nof anatomy and physiology (high school level). After completing this module, students\nwill have a comprehensive overview of the field of assistive technologies in general, its\npractical application (assistive systems) and the sub-field of web accessibility), which is\nparticularly important for students of this module, with the theoretical knowledge being",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "particularly important for students of this module, with the theoretical knowledge being\ndeepened in practical exercises and case studies.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Computer Vision (12,0 ECTS)** This module is designed for students interested in\ncomputer vision, artificial intelligence, or machine learning. It offers a thorough introduction to the field, addressing key challenges, foundational theories, essential mathematical\nconcepts, and practical algorithms. Students will have numerous opportunities to apply\ntheir knowledge through hands-on exercises.\n\n**Critical Theory and Design (12,0 ECTS)** This module enables students to develop\nan understanding of technology and media in society through a critical theory lens. A\n\n\n8",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "philosophical foundation is provided, discussing a wide range of thinkers and their central\nideas. Students will be able to discuss cutting edge trends in digital technology and\nmedia along perspectives such as power, oppression, meaning, culture and the political\ndimensions of technology. They will further learn how to translate such critical thinking\ninto a future oriented design practice to develop alternative technological futures.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Design Thinking (12,0-18,0 ECTS)** This module deals with an evaluative implementation of an interactive and tangible system. The complexity of a design process is\nunderstood in a predefined project setting. Several research and creative methods are\nlearned and applied, which are necessary to carry out creative design teamwork during the\nwhole semester. After successful completion of the module, students are able to develop\niteratively and user-centered an executable innovative prototype and present the results\nof this explorative prototyping process in groups. The students can apply several design\nthinking methods to achieve their goals. Methodologies applied in the module: Literature\nreview, interviews with experts, cultural probes or provocative requisites, design games,\nscenarios, design workshops, sketches, wireframes, (video) mockups, technology probes,\nprototyping, and product development with Corporate Identity. This module deals with",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "prototyping, and product development with Corporate Identity. This module deals with\nan evaluative implementation of an interactive and tangible system. The complexity\nof a design process is understood in a predefined project setting. Several research and\ncreative methods are learned and applied, which are necessary to carry out creative\ndesign teamwork during the whole term.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Embodied Systems: A Human-Drone Interaction Perspective (12,0 ECTS)**\nThis module offers a cutting-edge exploration of how humans and intelligent embodied\nsystems—such as robots, autonomous vehicles, and drones—interact in shared physical\nenvironments. Rooted in human-centered AI and human-robot interaction, the class\nprovides a deep dive into the design and technical challenges of enabling intuitive and\neffective collaboration between humans and machines. Students will investigate how\nhumans and drones perceive and respond to one another, focusing on key topics such as\nsensors, autonomy, and behavior. Through engaging lectures, hands-on technical exercises,\nand projects, students will develop the expertise to design and study intelligent systems\nthat are not only able to perform efficiently but that can further improve the lives of\npeople around them. Whether you’re passionate about robotics, autonomous systems, or",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "people around them. Whether you’re passionate about robotics, autonomous systems, or\ncutting-edge interaction design, this module provides the tools and insights to shape the\nfuture of human-machine collaboration.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Extension (up to 12,0 ECTS)** This module allows students to extend their profile\neither by choosing courses from other Master curricula that fit the qualification profile of\n_Media and Human-Centered Computing_ .\n\n**Freie Wahlfächer und Transferable Skills (9,0 ECTS)** Die Lehrveranstaltungen\ndieses Moduls dienen der Vertiefung des Faches sowie der Aneignung außerfachlicher\nKenntnisse, Fähigkeiten und Kompetenzen.\n\n**Gameful Design (12,0 ECTS)** The goal of this module is to understand and experiment\nwith the use of game mechanics and game dynamics in non-game contexts. By designing\n\n\n9",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "and implementing a series of prototypes that are then evaluated and reflected, students\ngain deep knowledge about the applicability of game design principles in non-game areas.\n\n**Human-Agent Interaction (12,0 ECTS)** This module explores the research field of\nHuman-Agent Interaction (HAI) from a human-centered perspective. It examines the\nsocio-technical complexities of interacting with systems with apparent agency, such as\nrobots, chatbots, and other intelligent systems. Students explore how humans perceive\nand interact with these agents, the design of engaging and effective interactions, and\nevaluation methods from a human-centered perspective. Topics include embodiment,\nanthropomorphism, socio-morphism, agent design, multimodal communication, and realworld applications. The module integrates lectures, critical readings, discussions, and\npractical user research techniques.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Human-Centered AI (12,0 ECTS)** This module provides foundational knowledge\nof user interfaces, “human in the loop” systems, and artificial intelligence, including\nsupervised and unsupervised learning, as well as reinforcement learning. Students will\nexplore key domains of human-AI interaction, such as recommender systems, chatbots,\nintelligent text entry, explainable AI, user modeling, and personalized and adaptive user\ninterfaces.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Responsible Digital Ethics (6,0 ECTS)** This module addresses the critical importance\nof responsible digital ethics in the age of pervasive digital systems and increasing regulatory requirements. Students explore foundational concepts such as trust, fairness,\naccountability, digital rights, and ethical design principles. Through lectures, interactive\nseminars, and student-led activities, participants engage with real-world challenges and\ndiverse literature to develop a nuanced, experiential understanding of digital ethics and\ntheir role in fostering ethical digital practices.\n\n**Seminar Media and Human-Centered Computing (3,0 ECTS)** The seminar\ncovers methods, theories and approaches that contribute to our understanding of the\nrelationship between people and digital technologies with the aim to inform the design,\ndevelopment and evaluation of human-centered, interactive systems.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**User Research Methods (6,0 ECTS)** The module consists of a group project where\nstudents conduct two studies and report the results, focusing on how these findings\nimpact the design process. The emphasis is on empirical accuracy rather than design\nquality. The primary objective is the correct application of research methods and the\ninterpretation of results within the context of the project.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Virtual, Augmented and Mixed Reality (12,0-24,0 ECTS)** This area introduces\nVirtual, Augmented, and Mixed Reality (VR/AR/MR). Students gain basic knowledge\nabout VR/AR/MR hardware and software, 3D input, output methods, and user-specific\naspects. In addition, psychological and basic neurosciences aspects are presented to help\nstudents understanding the importance of human factors in the design of VR/AR/MR\nsystems. The area includes an overview of current research areas and applications in\norder to provide students with the technical and scientific skills to design and develop\nVR/AR/MR applications. The area also aims to provide a deeper understanding of design\n\n\n10",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "methods, production methods, reception, and use of concrete forms of VR/AR/MR systems. In combination to VR/AR/MR technologies, multimodal interfaces such as haptics\n(tangible user interfaces and objects), mobile devices and infrastructures, ubiquitous\ncomputing, embedded sensors and screens, large multi-touch systems or interaction using\ngestures are covered.\n\n**Visualization (12,0-24,0 ECTS)** This module focuses on visualization and visual\nanalytics. Modern information systems generate and store enormous amounts of information and data. One of the biggest challenges of the emerging information age is to\nmake these data sets efficiently usable. The human perceptual system is exceptionally\npowerful in processing visual stimuli. Therefore, information design, visualization, and\nvisual analytics are well-suited for understanding data, exploring complex information\nspaces, or recognizing patterns and relationships in the data.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Wellbeing Technologies (12,0 ECTS)** This module explores the design and evaluation\nof technologies that promote wellbeing and a healthy lifestyle. Students learn theoretical\nfoundations of wellbeing, personal informatics, and physical activity, and gain hands-on\nexperience in designing and prototyping interfaces that foster wellbeing. The module\nincorporates an ethics component, focusing on the responsibilities of designers working\nwith health-related technologies, and addresses the challenges of creating technologies\nthat support positive behaviour change. Through interactive lectures, workshops, and a\nproject, participants work with sports sensors, motion tracking, and physiological sensing\nto develop and evaluate technologies aimed at enhancing quality of life. The module\nis highly design-driven, emphasising practical application and showcasing numerous\nexamples.\n\n#### **§ 6 Lehrveranstaltungen**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 6 Lehrveranstaltungen**\n\nDie Stoffgebiete der Module werden durch Lehrveranstaltungen vermittelt. Die Lehrveranstaltungen der einzelnen Module sind in Anhang A in den jeweiligen Modulbeschreibungen\nspezifiziert. Lehrveranstaltungen werden durch Prüfungen im Sinne des Universitätsgesetzes beurteilt. Die Arten der Lehrveranstaltungsbeurteilungen sind in der Prüfungsordnung\n(§ 7) festgelegt.\nBetreffend die Möglichkeiten der Studienkommission, Module um Lehrveranstaltungen\nfür ein Semester zu erweitern, und des Studienrechtlichen Organs, Lehrveranstaltungen individuell für einzelne Studierende Wahlmodulen zuzuordnen, wird auf § 27 des\nstudienrechtlichen Teils der Satzung der TU Wien verwiesen.\n\n##### **Vorgaben zu Lehrveranstaltungen und Prüfungen aus dem** **Universitätsgesetz 2002**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Vorgaben zu Lehrveranstaltungen und Prüfungen aus dem** **Universitätsgesetz 2002**\n\nVor Beginn jedes Semesters ist ein elektronisches Verzeichnis der Lehrveranstaltungen zu\nveröffentlichen (Titel, Name der Leiterin oder des Leiters, Art, Form inklusive Angabe\ndes Ortes und Termine der Lehrveranstaltung). Dieses ist laufend zu aktualisieren.\n\n\n11",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "In addition to the published directory, the course instructors must inform students in an appropriate manner before the start of each semester\nthe objectives, form, content, dates and methods of your courses\nas well as about the content, the form, the methods, the dates and the assessment criteria\nand to provide information about the assessment criteria for the examinations.\nFor tests that are carried out in the form of a single test procedure,\nExamination dates are at least three times in each semester (according to the statutes at the beginning,\nin the middle and at the end), with students before the start of each semester\nabout the content, the form, the methods, the dates, the assessment criteria and the\nassessment standards for the examinations must be provided.\nIn the case of examinations using electronic communication means, proper execution of the examination must be ensured, in addition to the general",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "In the case of examinations using electronic communication means, proper execution of the examination must be ensured, in addition to the general\nThe following minimum requirements must be adhered to in the regulations for examinations:",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Before the start of the semester, announcement of the standards that govern the technical devices\nStudents must meet the requirements in order for students to take part in these examinations\ncan.\n\n  - To ensure the independent provision of the examination service by the\nTechnical or organizational measures must be provided for students.\n\n  - In the event of technical problems that occur through no fault of the student, the examination must be canceled and not counted towards the permitted number of examination attempts.\n\n##### **Specifications for courses from the statutes of the TU Vienna**\n\nIn the following, SSB stands for _Statutes of the TU Vienna, Study Law Regulations_.\n\n  - The scope of a course is in ECTS credit points and in\nSpecify semester hours. [§ 9 SSB (modules and courses)]\n\n  - Holding a course as a “block course” is permitted\nApproval by the dean of studies possible. [§ 9 SSB (modules and\ncourses)]",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Holding a course as a “block course” is permitted\nApproval by the dean of studies possible. [§ 9 SSB (modules and\ncourses)]\n\n  - The holding of courses and examinations in a foreign language is\npossible after approval by the dean of studies. [§ 11 SSB (Foreign Languages)]\n\n  - Course examinations serve to demonstrate the learning results achieved through\na single course was taught. [§ 12 SSB (course examination)]\n\n  - The course examinations are by the leader of the course\nto deter. If necessary, the study law body has another specialist\nto appoint suitable examiners. [§ 12 SSB (course examination)]\n\n  - In any case, for examinations in compulsory and elective courses, the\nend in a single examination act, three examination dates for the beginning, for\n\n\n12",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "the middle and the end of each semester. These are dated\nto announce the start of the semester. [§ 15 SSB (examination dates)]\n\n- Examinations may also take place at the beginning and end of non-course times\nbe held. [§ 15 SSB (examination dates)]\n\n- The examination dates must be announced in an appropriate manner. [§ 15 SSB\n(exam dates)]\n\n\n##### **Description of course types**\n\n**VO:** Lectures are courses in which the content and methods of a\nsubject with particular consideration of its specific questions, terminology and solution approaches. The exam will be with\ncarried out in a single test procedure. In the module description it is\nExamination process for each course (written or oral, or written\nand verbally). Attendance at lectures is not compulsory\nAchievement of the learning outcomes must still be ensured.\n\n**EX:** Excursions are courses that take place outside the TU premises\nVienna. They serve to deepen the teaching content in the respective local area\nContext.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**LU:** Laboratory exercises are courses in which students attend individually or in groups\nGroups solve experimental tasks under the guidance of supervisors\nthe handling of equipment and materials as well as the experimental methodology\nto learn subject. The experimental facilities and workplaces become\nprovided.\n\n**PR:** Projects are courses in which the understanding of sub-areas of a\nSubject by solving concrete experimental, numerical, theoretical\nor artistic tasks are deepened and supplemented. Projects are oriented\non the qualification profile of the course and supplement the previous professional training or\nscientific training.\n\n**SE:** Seminars are courses in which students have to deal with a question\nDeal with a topic or project and use scientific methods\nedit, with a reflection on problem solving as well as a scientific\nDiscourse is required.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**UE:** Exercises are courses in which concrete tasks - for example computational, constructive, artistic or experimental - are to be worked on\nare. The skills and abilities are developed under professional guidance or supervision\nStudents' skills for application to specific tasks\ndeveloped.\n\n\n13",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**VU:** Lectures with integrated exercises are courses in which the two\nCourse types VO and UE can be combined in a single course. The respective exercise and lecture portion may be a quarter of that\nThe scope of the entire courses should not be less than this. In the case of the VU course type, the exercise part is part of the examination and the lecture part is\ncan be examined in one examination file or as part of the examination. Inadmissible\nis therefore to combine the exercise part and the lecture part in one\nto check the examination process.\n\n##### **Description of courses and examinations in** **Information system for studies and teaching**\n\n\n\n\n- Type of course (VO, EX, LU, PR, SE, UE, VU)\n\n\n\n\n- Form (presence, online, hybrid, blended)\n\n\n\n\n- Dates (if applicable, also the attendance required for successful completion)\n\n\n\n\n- Content (description of content, previous knowledge)\n\n\n\n\n- Literature references\n\n\n\n\n- Learning outcomes (comprehensive description of learning outcomes)",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Literature references\n\n\n\n\n- Learning outcomes (comprehensive description of learning outcomes)\n\n\n\n\n- Methods (description of the methods in coordination with learning outcomes and\nproof of performance)\n\n\n\n\n- Proof of performance (in coordination with learning outcomes and methods)\n\n\n\n\n**–** Identification of partial services, including identification of which partial services\nare repeatable. This point does not apply to type VO.\n\n  - Exams:\n\n**–** Contents (description of contents, literature references)\n\n**–** Form (presence, online)\n\n**–** Exam type or mode\n\n∗Type VO: written, oral or written and oral;\n∗ for all other types: identification of partial services including type and\nMode referring to the intended in the course\nLearning outcomes.\n\n**–** Dates\n\n**–** Assessment criteria and assessment standards\n\n#### **§ 7 Examination regulations**\n\nThe positive completion of the master's degree requires:",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**–** Assessment criteria and assessment standards\n\n#### **§ 7 Examination regulations**\n\nThe positive completion of the master's degree requires:\n\n1. the positive completion of the modules prescribed in the study plan, whereby\nA module is considered to have been successfully completed if it is completed in accordance with the module description\n\n\n14",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The courses to be attributed were completed positively, as well as the positive ones\nCompletion of the course _Seminar for diploma students_,\n\n2. the writing of a positively assessed diploma thesis and\n\n3. positive completion of the final examination before a committee. This takes place\nOrally before an examination senate in accordance with § 13 and § 19 of the _Study Law_\n_Provisions of the statutes of the Vienna University of Technology_ and serves the presentation and defense of the diploma thesis and proof of mastery\nof the scientific environment. The main focus is on understanding and overview knowledge. The registration requirements for the commission\nFinal examination in accordance with Section 17 (1) of the _Study Law Provisions of the Statutes_\n_of the Vienna University of Technology_ are fulfilled if points 1 and 2 are achieved\nare.\n\nThe graduation certificate includes\n\n(a) the examination subjects with their respective scope in ECTS points and their\ngrades,",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The graduation certificate includes\n\n(a) the examination subjects with their respective scope in ECTS points and their\ngrades,\n\n(b) the topic and grade of the diploma thesis,\n\n(c) the grade of the final examination before a committee,\n\n(d) the overall assessment as well\n\n(e) at the student's request, the overall grade of the completed course of study\n§72a UG.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The grade for the examination subject “Diploma Thesis” results from the grade for the Diploma Thesis.\nThe grade of each other examination subject is determined by averaging the grades of that subject\nCourses that can be assigned to the examination subject via the modules it contains, with the grades being weighted based on the ECTS amount of the courses\nbecome. If there is a decimal part less than or equal to 0.5, it will be rounded down, otherwise it will be\nrounded up. If none of the examination subjects is worse than “good” and at least the\nHalf was graded “very good”, the overall rating was “with distinction”.\npassed” and otherwise “passed”.\nCourses of the type VO (lecture) are based on a final\nassessed in an oral and/or written examination. All other courses\nhave an immanent examination character, i.e. the assessment is carried out on an ongoing basis\nan accompanying success control and optionally an additional final one\nPartial exam.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "an accompanying success control and optionally an additional final one\nPartial exam.\nThe positive success of exams and scientific and artistic work\nis with “very good” (1), “good” (2), “satisfactory” (3) or “sufficient” (4), the negative\nSuccess should be assessed as “not sufficient” (5). In courses where\nIf an assessment in the form mentioned above is not possible, these are indicated by “with\nParticipated successfully” (E) or “participated without success” (O).",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "15",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 8 Studyability and Mobility**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Students of the master's program _Media and Human-Centered Computing_ should\nBe able to complete your studies in the time allotted with reasonable effort.\nStudents are recommended to complete their studies according to the semester proposal in Appendix C.\nThe assessment and attendance modalities for courses of the types UE, LU, PR, VU, SE and EX are included in the teaching agreements\nthe study law body and in the information system for studies and\nTeaching announced. Regarding the repeatability of partial services, the following applies\nthe study law provisions of the statutes are referred to.\nThe recognition of study achievements completed abroad is carried out by the\nStudy law body. To facilitate mobility, the provisions in Section 27 Paragraphs 1 to 3 are provided\nthe _Study Law Provisions_ of the statutes of the Vienna University of Technology\nthe options listed are available. These provisions may apply in individual cases\ncan also be used to improve studyability.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "the options listed are available. These provisions may apply in individual cases\ncan also be used to improve studyability.\nThe ECTS points achieved during mobility can be used to:\nthe transferable skills required in the “Free Elective Subjects and Transferable Skills” module\nto be covered to the appropriate extent. In particular, you can also join the topic pool\nTechnology assessment, technology genesis, scientific ethics, gender mainstreaming\nand diversity management.\nIs it necessary to limit the number of participants in a course?\nand can this lead to delays in study time, are in accordance with UG § 58 Paragraph 8\nthe number of places and the allocation modalities in the study plan in each case\nModule description noted.\nThis occurs in a course without an explicitly regulated allocation of places\nIn the event of unforeseen rush, the course management can do so in consultation with the\nthe study law body imposes participation restrictions. Students who",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "the study law body imposes participation restrictions. Students who\nMaster's program _Media and Human-Centered Computing_ are approved and for one\nIn any case, non-participation could lead to a delay in the study time\nrecorded. The allocation of any remaining places is based on the following criteria\n(with descending priority).",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Preference will be given to those students who meet the formal and content-related requirements. The content requirements can be about:\nChecked by exams already taken or by an entrance test\nbecome.\n\n  - Among these, the use of the course as a compulsory subject has priority\nbefore using it as an elective subject and this before using it as an optional subject.\n\n  - Within these three groups, preference should be given to those students who:\ndespite meeting all the requirements in an earlier semester\nwere rejected.\n\nThe students must be informed about this as soon as possible.\n\n\n16",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 9 Diploma thesis**\n\nThe diploma thesis is an artistic-scientific work that demonstrates the\nThe ability to independently approach a topic in a way that is justifiable in terms of content and method\nedit. The student can freely choose the topic of the diploma thesis\nand must be consistent with the qualification profile.\nThe examination subject _diploma thesis_ comprises 30 ECTS points and consists of the scientific work (diploma thesis), which is valued at 27 ECTS points\nthe final board examination worth 1.5 ECTS points and one\n“Seminar for diploma students” worth 1.5 ECTS points.\n\n#### **§ 10 Academic degree**\n\nThe graduates of the master's program _Media and Human-Centered Computing_ will\nthe academic degree “Diplom-Ingenieur”/“Diplom-Ingenieurin” – abbreviated “Dipl.-Ing.”\nor “DI” (internationally comparable to “Master of Science”) – awarded.\n\n#### **§ 11 Quality management**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 11 Quality management**\n\nThe quality management of the master's program _Media and Human-Centered Computing_\nensures that the course meets the study-related quality objectives of the\nTU Wien is designed consistently and is processed efficiently and effectively and is regularly reviewed. The quality management of the course is carried out in accordance with this\nPlan-Do-Check-Act model based on standardized processes and is designed to be target group-oriented. The target groups of quality management are within the university\nStudents and teachers as well as externally society, the economy and the\nAdministration, including the job market for graduates.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Considering the defined target groups, six goals are set for the quality of the\nStudies at the Vienna University of Technology determined: (1) With regard to quality\nand the timeliness of the curriculum ensures the relevance of the qualification profile for society and the labor market. With regard to the quality of the content\nThe implementation of the study plan is (2) the learning outcomes in the modules of the study plan\ndesigned appropriately to implement the qualification profile, (3) the learning activities and\n-methods chosen appropriately to achieve the learning outcomes, and (4) the evidence of performance appropriate to verify the achievement of the learning outcomes. (5) In view\nThe framework conditions are in place to ensure that the study plans can be studied\nto ensure. (6) With regard to teachability, the teaching staff has\ntechnical and time resources to ensure high-quality teaching.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "In order to ensure the quality of the studies, progress in planning,\nDevelopment and assurance of all six quality goals collected and published separately. The\nQuality assurance checks whether the six quality goals are achieved. To measure the\nThe first and second quality goals are determined by the study commission at least once per year\n\n\n17",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "A review of the qualification profile and module descriptions was carried out during the period of office. To check the quality goals two to five, the ongoing one provides\nEvaluation by students, as well as individual feedback on study operations to the study law body, an ongoing overall picture of the process\nof the study plan. The ongoing review also serves to identify critical ones\nCourses for which suitable adaptation measures are required in coordination between the study law body, the study committee and the course instructor\nderived and implemented. The sixth quality goal is achieved through quality assurance\nHuman resources instruments covered. In addition to internal quality assurance\nAn external evaluation of the studies is carried out every seven years.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Each module has a module manager. This person is responsible for the coherence of content and the quality of the courses assigned to the module\nresponsible. This is achieved in particular through cyclical controls, fine-tuning of content with previous and subsequent modules and through comparison with\nAnalogue courses or modules from other universities at home and abroad\nensured.\n\n##### **Course capacities**\n\nIn order to ensure the quality of the implementation of the courses, the following group sizes are used for the different types of courses (see page 13).\nas a guideline:\n\n\nGroup size\nCourse type per leader per tutor\n\nVO 100\nUE with tutors 30 15\nUE 15\nLU with tutors 20 8\nLU8\nEX, PR, SE 10\n\n\nFor courses of the VU type, the lecture or exercise part is:\nGroup sizes for VO or UE are used. The teaching staff is appointed\naccording to the actual event.\n\n##### **Gender, Ethics and Diversity**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Gender, Ethics and Diversity**\n\n\n**Context:** To create teaching and learning environments in which all students –\nRegardless of gender, origin, abilities or social background - being equally valued, supported and challenged is an inclusive teaching based on\n\n\n18",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "diversity-sensitive didactics required. This cannot be covered in separate courses, but must be implemented at all levels of the course\n– as “Embedded Gender, Ethics and Diversity”.\nThis includes embedding ethical and social topics in the curriculum,\nas well as the discussion of these topics in every course. Leave it like that\ncreate framework conditions that enable a non-discriminatory learning environment.\nThis also includes measures against discrimination and harassment, for example\nexplicit codes of conduct.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 19,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Course Content:** Inclusivity and diversity are promoted by including different perspectives across a broad spectrum in all courses\nfrom authors and role models. The ethical reflection of core areas\nis embedded in all courses by addressing and taking it into account in lectures and practical examples, for example by discussing ethical aspects\nand social impacts. In addition, reference is made to the offer from the Department of Gender Competence at the TU Vienna, which is available for completing an additional catalogue\nCertificate _Gender and Diversity Competence_ is issued.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 19,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Teaching methods:** The teaching methods promote gender inclusivity and diversity and\ncreate a learning environment in which all students feel equally welcome.\nThis includes, among other things, the use of inclusive, non-judgmental language,\nto avoid reinforcing stereotypes; Teaching materials with examples, case studies or visual aids that reflect our diverse society; the\nHolding the teaching in a form that is suitable for people with different abilities\nis suitable and ensures equal participation; as well as the integration\nby guest speakers with different backgrounds.\n\n#### **§ 12 Entry into force**\n\nThis study plan comes into force on October 1, 2025.\n\n#### **§ 13 Transitional provisions**\n\nThe transitional provisions can be found in Appendix B.\n\n\n19",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 19,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **A Module descriptions**\n\nThe courses assigned to the modules are listed in the following form:\n9.9/9.9 XX Title of the course\nThe first number indicates the scope of the course in ECTS points\nand the second its scope in semester hours. ECTS points are a measure of the\nThe workload of the students, with one academic year comprising 60 ECTS points\nand one ECTS point corresponds to 25 hours of 60 minutes each. One semester hour\ncorresponds to as many teaching units as the semester contains teaching weeks.\nA lesson lasts 45 minutes. The type of course (XX) is in\n§ 6 under _Course types_ on page 13 explained in detail.\n\n##### **Artifact-based Design**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Expertise:_ After successful completion of the module, students are able to:\n\n  - apply iterative design methodologies, including prototyping, testing, and refinement,\nto create tangible and digital artifacts",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 20,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- apply iterative design methodologies, including prototyping, testing, and refinement,\nto create tangible and digital artifacts\n\n  - understand the concepts of ubiquitous computing describing the deployment and\nintegration of computing technology into everyday objects and environments\n\n  - understand and apply the relevant concepts and fundamental technologies (e.g.,\ncontext-awareness, localization and sensing technologies, machine learning on the\nedge, microprocessor programming, and design of ubiquitous computing applications)\n\n  - understand the specific topics of activity recognition, privacy concerns and preserving approaches, business applications, and related business models\n\n  - apply your theoretical knowledge from the class to develop a specific ubiquitous\ncomputing project\n\n  - investigate working principles of sensors and their application for context detection\n\n\n_Interdisciplinary skills:_",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 20,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- investigate working principles of sensors and their application for context detection\n\n\n_Interdisciplinary skills:_\n\n\n\n\n- analyze user needs and societal challenges to identify design opportunities\n\n- evaluate the effectiveness of design solutions through testing and iteration\n\n- synthesize theoretical frameworks with hands-on design practices to develop impactful artifacts\n\n- demonstrate critical thinking in balancing user requirements, technical feasibility,\nand societal impact\n\n- collaborate effectively in interdisciplinary teams to address complex design problems\n\n- reflect on the societal implications of their design work and make informed, ethical\ndecisions\n\n\n20",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 20,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- communicate design concepts and processes clearly and persuasively to diverse\naudiences\n\n  - adapt to feedback and iterative processes with resilience and a growth mindset",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- adapt to feedback and iterative processes with resilience and a growth mindset\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content. Students will\ncultivate the ability to design and implement both tangible and digital artifacts that\nare informed by user needs and broader societal contexts. Through analyzing user\nrequirements and societal challenges, they will identify meaningful design opportunities\nand demonstrate critical thinking by balancing user expectations, technical feasibility,\nand potential societal impact. Ethical reflection will play a key role, as students consider\nthe broader implications of their work, including privacy-related concerns, and make\nresponsible design choices. Additionally, they will learn to communicate their design\nconcepts and processes clearly and persuasively to a variety of audiences.\n\n**Inhalt:**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Inhalt:**\n\n\n\n\n- introduction to artifact-based computing, the history of computing disappearing\ninto the background and serving the user’s needs proactively; critical review of the\nvision of ubiquitous computing in the context of today’s developments.\n\n- notion of context-aware computing, the principle of integrating implicit input from\nthe user and environment for providing more meaningful services to the user.\n\n- investigation of working principles of sensors and their application for context\ndetection.\n\n\n\n\n- review of location technologies, discussion of privacy-preserving approaches.\n\n\n\n\n- data models and standards for resource-constrained devices.\n\n\n\n\n- revisiting design, prototyping, and evaluation methods.\n\n\n\n\n- review of Internet of Things business models.\n\n\n\n\n- discussion of privacy-related implications.\n\n\n\n\n- state of the art of (physical) fabrication technologies.\n\n\n\n\n- outlook on emerging technologies.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- state of the art of (physical) fabrication technologies.\n\n\n\n\n- outlook on emerging technologies.\n\n\n\n**Angewendete Lehr- und Lernformen und geeignete Leistungsbeurteilung:**\nDie angewendeten Lehr- und Lernformen sind im Informationssystem zu Studien und\nLehre bei jeder Lehrveranstaltung vor Beginn des Semesters anzugeben; ebenso die\nPrüfungsmodalitäten.\n\n**Lehrveranstaltungen des Moduls:**\n6,0/4,0 VU Artifact-based Design\n\n##### **Assistive Technologies**\n\n\n**Regelarbeitsaufwand:** 12,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ After successful completion of the module, students are able to:\n\n\n21",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- apply the necessary knowledge of anatomy and physiology to understand disabilities\nand technical solutions, as well as knowledge of the causes and effects of physical\ndisabilities and age-related functional limitations.\n\n- understand models of disabilities, basic rehabilitation technology and gerontechnology\n\n- communicate with disabled people (alternative and augmentative communication)\n\n\n\n\n- compare social and assistive robots\n\n\n\n\n- describe aspects of HCI/HRI in the area of assistive systems, proxemics\n\n\n\n\n- explain ambient/active assisted living (AAL) and smart environment technologies\n\n\n\n\n- plan and to apply participatory user involvement, data protection and ethics\n\n\n\n\n- give examples for relevant support tools for disabled and elderly people\n\n\n\n\n- refer to guidelines for barrier-free web content and web sites\n\n\n\n\n- use partially automated tools for checking websites and web content\n\n\n\n_Überfachliche Kompetenzen:_",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 22,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- use partially automated tools for checking websites and web content\n\n\n\n_Überfachliche Kompetenzen:_\n\n\n\n\n- select suitable methods for abstraction, solution finding and evaluation\n\n\n\n\n- apply interdisciplinary and system-oriented approaches and flexible ways of thinking\n\n\n\n\n- handle technologies, software tools and standards\n\n\n\n\n- precisely write documentation of solutions\n\n\n\n\n- provide convincing technical presentations and communication in an interdisciplinary environment\n\n- raise awareness of the challenges faced by people with disabilities and older people,\nas well as the importance of accessible design for technical products.\n\n\n\n\n- understand challenges arising from disability and age\n\n\n\n\n- interact and cooperate with disabled and elderly people\n\n\n\n\n- assess impact and evaluate ethics\n\n\n\n\n- increase individual creativity and innovation potential\n\n\n\n\n- communicate and accept criticism\n\n\n\n\n- reflect their own abilities and limitations",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 22,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- communicate and accept criticism\n\n\n\n\n- reflect their own abilities and limitations\n\n\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content. This includes, among\nother things, aspects such as access to assistive technology as a right, issues of distributive\njustice and gender equality in the provision of assistive technology, consideration of\ndiversity beyond disability, and the demand for appropriate diversity in design teams.\n\n**Inhalt:**\n\n\n\n\n- terms, classifications and definitions of disability and aging\n\n\n\n\n- medical basics, primarily physiology of the sensory organs and their damage\n\n\n\n\n- demographic aspects of disability and aging\n\n\n\n\n- theoretical basics and methodology of assistive technologies\n\n\n\n\n- special aspects of HCI for disabled and elderly people",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 22,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- theoretical basics and methodology of assistive technologies\n\n\n\n\n- special aspects of HCI for disabled and elderly people\n\n\n\n\n- design and use of technical aids (e.g. orientation aids and everyday aids for blind\nand visually impaired people, special aids and techniques for deaf-blind people,\n\n\n\n22",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 22,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "electronic systems for people with mobility and movement disabilities), case studies\nand social/economic aspects\n\n\n\n\n- basics of communication technology and special features of alternative and augmentative communication (vocal, auditory, motor and visual communication disabilities)\n\n- systematics of communication aids and methods of alternative and augmentative communication (tactile representations, speech synthesis, image and symbol\nlanguages, visual and tactile languages)\n\n\n\n\n- assistive technologies in the use of media and mass media\n\n\n\n\n- introduction to the functional principles of socially assistive robots (SAR), assisted\nliving and smart environments and sensor based systems\n\n\n\n\n- examples of current developments and trends in SAR and AAL\n\n\n\n\n- introduction to special interaction aspects of autonomous assistive systems, multimodal communication with autonomous systems\n\n\n\n\n- introduction to guidelines for creating accessible web pages and web content",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 23,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- introduction to guidelines for creating accessible web pages and web content\n\n\n\n\n- introduction to using semi-automated tools to check websites and web content\n\n\n\n**Erwartete Vorkenntnisse:**\n\n  - basic knowledge of anatomy and physiology\n\n  - basic knowledge of HTML and CSS\n\n\nThese prerequisites are taught in the modules _Access Computing_ of the _Informatics_\nbachelor program.\n\n**Angewendete Lehr- und Lernformen und geeignete Leistungsbeurteilung:**\nDie angewendeten Lehr- und Lernformen sind im Informationssystem zu Studien und\nLehre bei jeder Lehrveranstaltung vor Beginn des Semesters anzugeben; ebenso die\nPrüfungsmodalitäten.\n\n**Lehrveranstaltungen des Moduls:**\n6,0/4,0 VU Assistive Technologies\n6,0/4,0 PR Assistive Technologies\n\n##### **Computer Vision**\n\n\n**Regelarbeitsaufwand:** 12,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ After successful completion of the module, students are able to:",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 23,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Regelarbeitsaufwand:** 12,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ After successful completion of the module, students are able to:\n\n  - identify, explain and contrast the most important theories, principles, concepts and\nalgorithms of computer vision. Their knowledge and understanding corresponds\nto the state of the art literature in the field of computer vision. They are able to\napply appropriate formal-mathematical methods for modeling, abstraction, solution\nfinding and evaluation, and gain problem-formulation and problem-solving skills\n\n\n23",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 23,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "_Überfachliche Kompetenzen:_\n\n\n\n\n- apply scientific analysis, design, and implementation strategies (inclusion of the\nstate of the art, critical evaluation, and reflection of solutions)\n\n- select suitable formal mathematical methods for modeling, abstraction, solution\nfinding, and evaluation\n\n\n\n\n- approach problems in an interdisciplinary and system-oriented way\n\n\n\n\n- practice a flexible way of thinking\n\n\n\n\n- work goal-oriented and methodologically\n\n\n\n\n- handle technologies, software tools, and standards\n\n\n\n\n- write precise documentation of solutions\n\n\n\n\n- provide convincing technical presentations and communication in an interdisciplinary environment.\n\n\n\n\n- self-organize, realize initiative, and personal responsibility\n\n\n\n\n- increase individual creativity and innovation potential (curiosity)\n\n\n\n\n- formulate and solve problems\n\n\n\n\n- communicate and accept criticism\n\n\n\n\n- reflect their own abilities and limitations\n\n\n\n\n- take responsibility in complex team projects",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- communicate and accept criticism\n\n\n\n\n- reflect their own abilities and limitations\n\n\n\n\n- take responsibility in complex team projects\n\n\n\n\n- make decisions responsibly, exercise leadership skills in complex projects or activities\n\n\n\n\n- assess impact, evaluate ethics\n\n\n\n\n- think and plan strategically",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Furthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content. The computer vision\nmodule underscores the significant implications of EGD, particularly how algorithms can\neither reflect or exacerbate societal biases. For instance, facial recognition technology\noften demonstrates reduced accuracy for underrepresented groups, such as women and\npeople of color, largely because of skewed datasets that predominantly feature white male\nfaces. Students will cultivate skills to tackle these challenges by diversifying training data,\nthereby avoiding the reinforcement of gender stereotypes. Recognition systems must also\naccount for non-binary identities and cultural diversity, as models trained primarily on\nWestern norms may misinterpret traditional attire. Ultimately, students will learn to\ntake responsibility for the impacts of EGD and ensure the accountable application of",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "take responsibility for the impacts of EGD and ensure the accountable application of\ncomputer vision systems.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Inhalt:** The module begins by defining the field and its core concepts, emphasizing the\ninterpretation of visual data from images and videos. It starts with a discussion on the\nStructure of Images, which includes topics such as image formation, texture, scenes,\nand context. The module then advances to Local and Multiscale Representations and\nImage Analysis, where techniques for processing and comprehending image content are\nexamined. Subsequently, Scene Analysis and machine learning methods for computer\nvision, including deep learning, are introduced. Finally, the module explores advanced\ntopics such as Depth Perception, Reconstruction Techniques, and Multiview Geometry,\nwith a focus on 3D understanding and its applications.\n\n\n24",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0VU Computer Vision\n6.0/4.0VU 3D Vision\n\n##### **Critical Theory and Design**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:**\n_Expertise:_ After successful completion of the module, students are able to:\n\n\n\n\n- name and explain historical and current day approaches to critical theories as\npresented in class\n\n- assess technologies using critical lenses regarding different axes of power such as\ngender, class, race, disability & colonialism\n\n\n\n\n- explain classical work of critical and speculative design\n\n\n\n\n- assess different goals and methods of critical design\n\n\n\n_Interdisciplinary skills:_",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 25,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- assess different goals and methods of critical design\n\n\n\n_Interdisciplinary skills:_\n\n\n\n\n- analyze and discuss the potential societal effects and impacts of technologies\n\n\n\n\n- identify and argue for design changes to technological development in front of a\ntechnical audience\n\n- assess and position academic and general media publications critiquing technologies\n\n- plan and construct technological artifacts and/or audiovisual media by applying\ncritical design as a form of answering such questions\n\n- present their assessment in a written manner that is grounded in the literature\npresented in class\n\n\n\n\n- articulate valid critical questions concerning the future of technology in society\n\n\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content.\n\n**Content:**\n\n\n\n\n- introduction to epistemologies in computer science",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 25,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Content:**\n\n\n\n\n- introduction to epistemologies in computer science\n\n\n\n\n- discussion of different critical theories along different schools of thoughts\n\n\n\n\n- connecting theoretical concepts to design activities\n\n\n\n\n- focused discussion and analysis of topics changing along current topics relevant to\ninformatics (e.g., emerging technologies and their assessment)\n\n\n\n\n- practical exercises to develop a critical reflective practice\n\n\n\n\n- critical design investigations\n\n\n\n25",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 25,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0 VU Critical Theory and Design\n6.0/4.0 PR Critical Theory and Design\n\n##### **Design Thinking**\n\n\n**Standard workload:** 12.0-18.0 ECTS\n\n**Learning outcomes:**\n_Expertise:_ After successful completion of the module, students are able to:\n\n  - develop iteratively and user-centered an executable innovative prototype and present\nthe results of this exploratory prototyping process in groups. The students can\napply several design thinking methods to achieve their goals\n\n  - prepare and present the results as well as reflect on the methodologies and design\nprocesses\n\n\n_Interdisciplinary skills:_",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 26,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- prepare and present the results as well as reflect on the methodologies and design\nprocesses\n\n\n_Interdisciplinary skills:_\n\n\n\n\n- apply several design thinking methods and approaches in a real design project in a\ndesign team\n\n- reflect on several design thinking methods and approaches by considering the\ncurrent design challenges\n\n- select and evaluate several design thinking methods and approaches in a given\ndesign context\n\n\n\n\n- develop and communicate their ideas within a group\n\n\n\n\n- be creative in design-based project work\n\n- present the ideas within a design project\n\n\n\n\n- organize and coordinate workload within a group\n\n\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 26,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Contents:** The module consists of method-based group work throughout a subject for\ntwo semesters. The lecturers will give input and additional material to each of the\nmethods and techniques on a regular basis, by stressing out the application areas and\nproviding explanatory examples. Students work in groups of max. 4-5 members. During\nthe module the intermediaries and other artifacts created will be presented, evaluated,\nand accompanied by a reflection of methods applied. The module contains the following\nmethods and activities: identifying the subject/theme of the project per group, literature\nreview, interviews with experts, cultural probes or provocative requisites, design games,\n\n\n26",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 26,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "scenarios, narrative posters, design workshops, sketches, wireframes, (video) mockups,\ntechnology probes, prototyping, product development with corporate identity.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:** Courses marked with asterisk (*) are optional.\n6.0/4.0 VU Design Thinking: Ideation\n6.0/4.0 VU Design Thinking: Exploratory Prototyping\n\n- 6.0/4.0 VU Design Studies\n\n##### **Embodied Systems: A Human-Drone Interaction Perspective**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:**\n_Expertise:_ After successful completion of the module, students are able to:\n\n  - design a robot that can successfully interact with humans, including non-verbally\nrobot behavior",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 27,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- design a robot that can successfully interact with humans, including non-verbally\nrobot behavior\n\n  - develop physical prototypes of embodied systems that can support collaborative\ndecision making\n\n  - implement interaction techniques for intelligent embodied systems, integrating\nhardware and software components\n\n  - design experiments to assess and improve human-machine interaction in shared\nenvironments.environments\n\n  - conduct a scientifically rigorous human-subject research to test for HRI-related\n(human-robot interaction) research questions and hypotheses\n\n  - apply interdisciplinary approaches to address challenges in human-centered AI and\nrobotics\n\n\n_Interdisciplinary skills:_\n\n\n\n\n- solve complex design and technical challenges by integrating principles from interaction design and human-machine interaction\n\n- evaluate and compare the performance of embodied systems in terms of criteria\nsuch as: efficiency and usability",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 27,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- evaluate and compare the performance of embodied systems in terms of criteria\nsuch as: efficiency and usability\n\n- adapt and iterate design solutions based on study participants’ feedback and\nempirical findings from human-robot interaction studies\n\n- critically assess the impact of intelligent embodied systems in real-world applications,\nincluding ethical considerations\n\n- collaborate effectively in interdisciplinary teams to address technical and societal\nchallenges in embodied systems design\n\n- communicate complex concepts in human-robot interaction to diverse audiences\n\n\n27",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 27,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- reflect on their own learning processes and approaches, fostering continuous personal\nand professional development in the field of intelligent systems\n\n  - demonstrate sensitivity to cultural, ethical, and societal considerations when designing and deploying embodied systems\n\n  - take responsibility for shaping the future of human-machine collaboration with a\nfocus on human well-being and societal benefit\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content.\n\n**Inhalt:**\n\n\n\n\n- fundamentals of human-centered AI and intelligent embodied systems\n\n\n\n\n- contexts and shared physical environments\n\n\n\n\n- humans and their needs : users and non-users\n\n\n\n\n- human-machine perception: sensing and feedback\n\n\n\n\n- decision-making in human-machine teams\n\n\n\n\n- design and prototyping of intuitive robotic behaviors and communication strategies\n\n\n\n\n- evaluation of human-embodied system interactions",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 28,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- design and prototyping of intuitive robotic behaviors and communication strategies\n\n\n\n\n- evaluation of human-embodied system interactions\n\n\n\n\n- applications of embodied systems in real-world scenarios\n\n\n\n\n- hands-on prototyping and evaluation with users and non-users\n\n\n\n\n- final project integrating design, implementation, and evaluation of an interactive\nembodied system\n\n\n\n**Erwartete Vorkenntnisse:**\n\n  - Programming in C\n\n\nThese prerequisites are taught in the module _Betriebssysteme_ of the _Informatics_ bachelor\nprogram.\n\n**Angewendete Lehr- und Lernformen und geeignete Leistungsbeurteilung:**\nDie angewendeten Lehr- und Lernformen sind im Informationssystem zu Studien und\nLehre bei jeder Lehrveranstaltung vor Beginn des Semesters anzugeben; ebenso die\nPrüfungsmodalitäten.\n\n**Lehrveranstaltungen des Moduls:**\n6,0/4,0 VU Embodied Systems: A Human-Drone Interaction Perspective\n6,0/4,0 PR Embodied Systems: A Human-Drone Interaction Perspective\n\n##### **Extension**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 28,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Extension**\n\n\n**Regelarbeitsaufwand:** up to 12,0 ECTS\n\n**Lernergebnisse:** This module allows students to extend their profile by choosing courses\nfrom other Master curricula that fit the qualification profile of _Media and Human-Centered_\n\n\n28",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 28,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "_Computing_ and from Bachelor curricula that contain knowledge required for successfully\ncompleting the modules in this curriculum as specified below.\n_Expertise:_ Depends on the chosen courses.\n_Interdisciplinary skills:_ Depends on the chosen courses.\n\n**Content:** Depends on the chosen courses.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 29,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses in the module:** The courses in this module can be chosen\nfrom other Master curricula, provided they fit the qualification profile. Courses from\nother Informatics Master Curricula at TU Wien can always be chosen. Courses from\nBachelor curricula can be chosen if they contain necessary prerequisites for modules of\n_Media and Human-Centered Computing_ and correspond to modules explicitly listed in\nitem 4 in § 4.\n\n##### **Free Electives and Transferable Skills**\n\n**Standard workload:** 9.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen the\nsubject as well as the acquisition of non-disciplinary knowledge, skills and competencies.\n\n**Content:** Depending on the courses selected.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 29,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses in the module:** The courses in this module are free\nfrom the range of scientific and artistic courses offered by the\nDeepening of the subject or the acquisition of non-disciplinary knowledge, skills and\nCompetencies are selected from all recognized domestic and foreign post-secondary educational institutions, with the restriction that at least 4.5 ECTS are required\nthe subject areas of transferable skills must be chosen. For the subject areas of\nTransferable skills are, in particular, courses from the elective catalog\n“Transferable Skills” from the Faculty of Computer Science (Appendix E) and from the central\nTU Wien elective catalog recommended for “transferable skills”.\n\n##### **Gameful Design**\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:**\n_Expertise:_ After successful completion of the module, students are able to:\n\n\n29",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 29,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- understand the potentials, recognize the limits, and identify the pitfalls of gamification\n\n  - know how to conduct a methodologically sound evaluation of gameful design\nsolutions\n\n  - understand the value of game mechanics and game dynamics in non-game contexts\n\n\n_Überfachliche Kompetenzen:_\n\n\n\n\n- design game elements into non-game applications\n\n\n\n\n- apply modern iterative, agile design and development methodologies\n\n\n\n\n- recognize their strengths and weaknesses regarding these processes\n\n\n\n\n- unlock creativity and learn to evaluate ideas",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 30,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- recognize their strengths and weaknesses regarding these processes\n\n\n\n\n- unlock creativity and learn to evaluate ideas\n\n\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content. In this module,\naspects of Gender, Ethics and Diversity are included by raising suitable questions, and\nfostering the inclusion of relevant considerations in the design of gameful interactions\nand systems. Additionally, Gender and Diversity are included through a focus on equal\ntreatment of the participants.\n\n**Inhalt:** The module addresses current topics and issues in gameful design. Theoretical\nbackgrounds from the fields of serious games, gamification, and game-based learning are\nlearned and reflected upon in the context of the practical application of game design\nmethods (e.g., exploratory design, prototyping, modding, and rapid game development).",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 30,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Angewendete Lehr- und Lernformen und geeignete Leistungsbeurteilung:**\nDie angewendeten Lehr- und Lernformen sind im Informationssystem zu Studien und\nLehre bei jeder Lehrveranstaltung vor Beginn des Semesters anzugeben; ebenso die\nPrüfungsmodalitäten.\n\n**Lehrveranstaltungen des Moduls:** Courses marked with asterisk (*) are optional.\n6,0/4,0 VU Gameful Design\n6,0/4,0 PR Gameful Design\n\n- 6,0/4,0 VU Game Design\n\n- 6,0/4,0 PR Game Production\n\n##### **Human-Agent Interaction**\n\n\n**Regelarbeitsaufwand:** 12,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ After successful completion of the module, students are able to:\n\n  - understand foundational concepts in Human-Agent Interaction, including embodiment, anthropomorphism, socio-morphism, trust and authenticity\n\n  - critically evaluate the effectiveness of agent interactions through user research\nmethods\n\n\n30",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 30,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- synthesize findings on human perception of agency to create conceptual prototypes\nand define detailed system requirements\n\n_Überfachliche Kompetenzen:_\n\n\n\n\n- analyze human perceptions of and responses to agents across different contexts\n\n\n\n\n- plan, execute, and interpret user studies of multimodal Human-Agent Interaction\n\n\n\n\n- communicate design processes and evaluation findings to diverse audiences\n\n\n\n\n- recognize and understand the impact of design cues that foster apparent agency\n\n\n\n\n- evaluate and reflect on the societal and ethical implications of integrating technology\nwith apparent agency into everyday life",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- evaluate and reflect on the societal and ethical implications of integrating technology\nwith apparent agency into everyday life\n\n\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content. Ethics, Gender,\nand Diversity in Human-Agent Interaction are addressed through critical reflection on\nthe societal implications of agent technologies, with emphasis on user perceptions across\ndiverse contexts. Students learn to identify, articulate, and discuss ethical issues related\nto agency, trust, and inclusivity in design. The module integrates ethical analysis and\ninclusive design principles into the evaluation and development of human-centered agent\nsystems.\n\n**Inhalt:**\n\n  - Introduction to HAI: Overview of intelligent systems with agency and their integration into daily life.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Inhalt:**\n\n  - Introduction to HAI: Overview of intelligent systems with agency and their integration into daily life.\n\n  - Key Concepts: Embodiment, anthropomorphism, socio-morphism, agent design,\nmultimodal communication, trust, and authenticity\n\n  - Human Perception and Emergent Interaction: Understanding how humans perceive\nand interact with agents in various roles (e.g., assistants, teammates, companions).\n\n  - Designing for HAI: Principles for creating engaging, effective, and human-centered\ninteractions.\n\n  - Evaluation Methods: Utilize and adapt diverse user research methods to evaluate Human-Agent Interaction in terms of usability, acceptance, engagement, and\nlikability\n\n  - Application Contexts: Real-world uses of HAI in fields such as healthcare, education,\ncustomer service, and entertainment.\n\n\n**Erwartete Vorkenntnisse:**\n\n  - Experience in conducting quantitative and qualitative user studies\n\n  - Basic knowledge of descriptive and inferential statistics",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Experience in conducting quantitative and qualitative user studies\n\n  - Basic knowledge of descriptive and inferential statistics\n\nThese prerequisites are taught in the module _User Research Methods_ .\n\n**Angewendete Lehr- und Lernformen und geeignete Leistungsbeurteilung:**\nDie angewendeten Lehr- und Lernformen sind im Informationssystem zu Studien und\nLehre bei jeder Lehrveranstaltung vor Beginn des Semesters anzugeben; ebenso die\nPrüfungsmodalitäten.\n\n\n31",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Lehrveranstaltungen des Moduls:**\n6,0/4,0 VU Human-Agent Interaction\n6,0/4,0 PR Human-Agent Interaction\n\n##### **Human-Centered AI**\n\n\n**Regelarbeitsaufwand:** 12,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ After successful completion of the module, students are able to:\n\n\n\n\n- understand user interface basics and AI system design principles\n\n\n\n\n- understand fundamentals of supervised, unsupervised, and reinforcement learning\n\n- understand and apply gesture recognition (sequence classification, Markov property,\ngesture and pose detection from video)\n\n- implement adaptive user interfaces (automated optimization based on human factor\nparameters)\n\n\n\n\n- work with tools and frameworks (TensorFlow, Unity ML-Agents)\n\n\n\n_Überfachliche Kompetenzen:_\n\n\n\n\n- analyze parameter estimation and model selection to suit specific scenarios\n\n\n\n\n- evaluate human-AI interaction from a human-centered perspective",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 32,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- evaluate human-AI interaction from a human-centered perspective\n\n\n\n\n- Demonstrate critical thinking in balancing user requirements, technical feasibility,\nand societal impact\n\n- collaborate effectively in interdisciplinary teams to address complex design problems\n\n\n\n\n- designing AI systems that effectively support or cooperate with human users\n\n\n\n\n- communicate design concepts and processes clearly and persuasively to diverse\naudiences\n\n\n\n\n- adapt to feedback and iterative processes with resilience and a growth mindset",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 32,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- adapt to feedback and iterative processes with resilience and a growth mindset\n\n\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content. Ethics, gender, and\ndiversity are core topics of the Human-Centered AI module. Students critically examine\nhow AI systems can reinforce or mitigate social inequalities, with focused discussions on\nalgorithmic bias, fairness, and inclusive design. The module emphasizes the importance\nof considering diverse user perspectives. Through case studies, ethical frameworks, and\nparticipatory design methods, students learn to build AI systems that are not only\neffective, but also equitable and socially responsible.\n\n**Inhalt:**\n\n\n\n\n- Basics of AI systems: supervised, unsupervised, and reinforcement learning.\n\n\n\n\n- Recommender systems: definitions, collaborative filtering, similarity measures.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 32,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Recommender systems: definitions, collaborative filtering, similarity measures.\n\n\n\n\n- Natural language processing: syntax, semantics, tokenization, normalization, stemming, chatbot interaction.\n\n\n\n32",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 32,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Gesture recognition: sequence classification, Markov property, gesture and pose\nrecognition from video.\n\n  - Adaptive user interfaces: automated optimization based on human factor parameters.\n\n  - Explainable AI: local and global interpretability, LIME, SHAP, automated rationale\ngeneration.\n\n\n**Expected prior knowledge:**\n\n  - Probability Theory\n\n\nThese prerequisites are taught in the module _Statistics and Probability Theory_ of\nthe _Informatics_ bachelor program.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0 VU Human-Centered AI\n6.0/4.0 VU Beyond the desktop: from concepts to implementation\n\n##### **Responsible Digital Ethics**\n\n\n**Standard workload:** 6.0 ECTS",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 33,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Responsible Digital Ethics**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Expertise:_ After successful completion of the module, students are able to:\n\n  - understand key concepts of digital ethics, including trust, fairness, accountability,\nand digital rights\n\n  - recognize and apply regulatory frameworks and their implications for ethical digital\npractices\n\n  - evaluate ethical design principles in the development and deployment of digital\nsystems\n\n\n_Interdisciplinary skills:_\n\n\n\n\n- analyze real-world digital ethics challenges using case studies and scholarly literature\n\n\n\n\n- critically evaluate ethical trade-offs in complex technological environments\n\n\n\n\n- create actionable strategies to incorporate ethical principles into the design, audit,\nand deployment of digital systems\n\n- understand and reflect on personal and professional responsibilities as practitioners\nshaping the digital landscape",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 33,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- understand and reflect on personal and professional responsibilities as practitioners\nshaping the digital landscape\n\n- apply effective communication strategies about ethical challenges and solutions to\ndiverse audiences\n\n\n\n33",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 33,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Design and implement frameworks for ethical practices in interdisciplinary and\norganizational contexts\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content. Ethics, Gender, and\nDiversity in Responsible Digital Ethics are addressed through the exploration of fairness,\naccountability, and digital rights in technological systems. The module equips students\nwith the ability to evaluate ethical trade-offs, regulatory frameworks, and biases, ensuring\ninclusive and responsible digital practices. Case studies and ethical design principles help\nstudents develop strategies for embedding ethical considerations into real-world digital\nsystems.\n\n**Inhalt:**\n\n\n\n\n- Introduction to Digital Ethics: The rise of digital systems and the imperative for\nethical practices.\n\n\n\n\n- Core Principles: Trust, fairness, accountability, transparency, and digital rights.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 34,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Core Principles: Trust, fairness, accountability, transparency, and digital rights.\n\n\n\n\n- Ethical Design: Principles and methodologies for designing ethical systems.\n\n\n\n\n- Regulatory Landscapes: Overview of regulatory efforts and their impact on system\nperformance and ethical audits.\n\n- Practical Challenges: Case studies on ethical dilemmas in digital technology (e.g.,\nAI bias, privacy concerns, algorithmic accountability).\n\n- Roles and Responsibilities: The critical role of practitioners in fostering responsible\ndigital ethics.\n\n\n\n**Erwartete Vorkenntnisse:**\n\n  - Basic knowledge of ethical theories and frameworks\n\n  - Basic knowledge of regulatory frameworks and policies\n\n\nThese prerequisites are taught in the module _Denkweisen der Informatik_ of the _Informatics_\nbachelor program.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 34,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "These prerequisites are taught in the module _Denkweisen der Informatik_ of the _Informatics_\nbachelor program.\n\n**Angewendete Lehr- und Lernformen und geeignete Leistungsbeurteilung:**\nDie angewendeten Lehr- und Lernformen sind im Informationssystem zu Studien und\nLehre bei jeder Lehrveranstaltung vor Beginn des Semesters anzugeben; ebenso die\nPrüfungsmodalitäten.\n\n**Lehrveranstaltungen des Moduls:**\n6,0/4,0 VU Responsible Digital Ethics\n\n##### **Seminar Media and Human-Centered Computing**\n\n\n**Regelarbeitsaufwand:** 3,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ After successful completion of the seminar, students are able to:\n\n\n34",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 34,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- develop a deeper critical understanding of issues related to media and humancentered computing\n\n- understand and critically discuss different approaches to media and human-centered\ncomputing\n\n\n\n\n- understand the key debates about different approaches\n\n\n\n\n- identify the strengths, weaknesses and theoretical alignments of different approaches\n\n- be able to make principled choices matching methods, theories and approaches to\ncontexts\n\n\n\n_Überfachliche Kompetenzen:_\n\n\n\n\n- read and unterstand scientific literature from media and human-centered computing\n\n\n\n\n- present scientific information in a structured and comprehensible way\n\n\n\n\n- discuss scientific content critically\n\n\n\n\n- write a simple scientific paper\n\n\n\n\n- partake in group discussions\n\n\n\n\n- determination, individual responsibility\n\n\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 35,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Inhalt:** Selected topics from media and human-centered computing.\n\n**Angewendete Lehr- und Lernformen und geeignete Leistungsbeurteilung:**\nDie angewendeten Lehr- und Lernformen sind im Informationssystem zu Studien und\nLehre bei jeder Lehrveranstaltung vor Beginn des Semesters anzugeben; ebenso die\nPrüfungsmodalitäten.\n\n**Lehrveranstaltungen des Moduls:**\n3,0/2,0 SE Seminar Media and Human-Centered Computing\n\n##### **User Research Methods**\n\n\n**Regelarbeitsaufwand:** 6,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ After successful completion of the module, students are able to:\n\n  - describe key qualities of correctly designed qualitative, quantitative, and mixedmethod studies\n\n  - explain the differences between different evaluation strategies and predict their\nimpact on the interaction design process\n\n\n_Überfachliche Kompetenzen:_\n\n  - apply standard evaluation methods to studies in the interaction design process",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 35,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "_Überfachliche Kompetenzen:_\n\n  - apply standard evaluation methods to studies in the interaction design process\n\n  - plan and organize user requirements gathering and subsequent analysis in an\ninteraction design process\n\n\n35",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 35,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- test hypotheses in quantitative and mixed-method studies of interactive artifacts\n\n\n\n\n- implement an effective and ethical evaluation strategy in a design process\n\n\n\n\n- report and interpret results of studies according to academic professional standards\n\n\n\n\n- select design alternatives based on interpreting study results\n\n- assess designs of interactive artifacts based on study results\n\n\n\n\n- explain the advantages and the limitations of different evaluation strategies in an\ninteraction design process\n\n\n\n\n- design effective formative and summative evaluation studies\n\n\n\n\n- formulate ethical requirements for empirical studies\n\n\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content.\n\n**Inhalt:**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Inhalt:**\n\n  - quantitative research methods: the module provides a strong foundation in quantitative research methods, with multiple sessions focused on statistical analysis.\nStudents learn to test hypotheses, analyze data, and apply quantitative techniques\nto evaluate interaction design processes.\n\n  - qualitative research methods: alongside quantitative methods, the module emphasizes qualitative research, including an introduction to qualitative methods,\nqualitative data analysis (QDA), and workshops that equip students with the skills\nto gather and interpret qualitative data effectively.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- ethics in research: ethical considerations are a critical part of the module. A\ndedicated session on ethics ensures that students understand the importance of\nethical research practices, enabling them to design and conduct studies that meet\nprofessional and academic standards. Theoretical sessions (lectures) are focused\non new theory and understanding general principles behind the methods. These\nmethods are later applied in study designs. Students are expected to attend all\nsessions.\n\n\n**Angewendete Lehr- und Lernformen und geeignete Leistungsbeurteilung:**\nDie angewendeten Lehr- und Lernformen sind im Informationssystem zu Studien und\nLehre bei jeder Lehrveranstaltung vor Beginn des Semesters anzugeben; ebenso die\nPrüfungsmodalitäten.\n\n**Lehrveranstaltungen des Moduls:**\n6,0/4,0 VU User Research Methods\n\n##### **Virtual, Augmented and Mixed Reality**\n\n\n**Regelarbeitsaufwand:** 12,0-24,0 ECTS",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Virtual, Augmented and Mixed Reality**\n\n\n**Regelarbeitsaufwand:** 12,0-24,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ After successful completion of the module, students are able to:\n\n\n36",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- understand the basics of human sensory perception and the perception-action loop\nto consider the human in the loop in VR/AR/MR systems\n\n  - provide new ways of interaction, new interfaces, emergent technologies in the field\nof post-desktop interaction\n\n  - use various multi-sensory technologies in different application areas, and understand\ntheir implications for humans and society\n\n\n_Überfachliche Kompetenzen:_\n\n  - understand the basic concepts such as tracking, stereo, rendering techniques,\ndistributed graphics, 3D input and output\n\n  - design, implement and evaluate VR/AR/MR applications with innovative 3D\ninterfaces\n\n  - compare and assess alternative implementations in different areas of ubiquitous\ncomputing with regard to relevance, adequacy and usability\n\n  - develop state-of-the-art collaborative and distributed VR/AR/MR applications\nwith modern 3D input and output devices\n\n  - choose the relevant use of VR/AR/MR technologies in different contexts and its\nimplications",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 37,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- choose the relevant use of VR/AR/MR technologies in different contexts and its\nimplications\n\n  - formulate problems and have problem-solving competence in VR/AR/MR systems\n\n  - provide efficient communication and critical ability regarding VR/AR/MR systems\n\n  - work as a team and have assumption of responsibility in complex VR/AR/MR\nprojects\n\n  - understanding ethical, gender, and diversity considerations in the design of VR/AR\nsystem and 3D interactions, such as gender effects in cybersickness, human factors\nduring immersion in virtual environments, improving accessibility in VR/AR\ninterfaces and the risk of some sensors in the design of multimodal interfaces.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 37,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Inhalt:** This module provides advanced knowledge in the area of Virtual, Augmented\nand Mixed Reality (VR/AR/MR). Students learn about VR/AR/MR hardware and\nsoftware, input and output technologies and devices, user specific aspects, usability and\npsychological aspects. Knowledge in all these areas is needed when designing VR/AR/MR\napplications. An overview of current areas of research is given as well.\n\n\n\n\n- Virtual Reality and the related areas Augmented Reality, Mixed Reality\n\n\n\n\n- Application areas and current areas of research (incl. medical applications)\n\n\n\n\n- 3D graphics hardware\n\n\n\n\n- VR/AR/MR hardware: Input & Output Devices: Tracking and display technologies,\ninteraction devices\n\n\n\n\n- VR/AR/MR software: 3D graphics toolkits & standards\n\n\n\n\n- User interfaces and 3D interaction\n\n\n\n\n- Psychological aspects for VR/AR/MR (Presence, Immersion, ...)\n\n\n\n\n- Basics of human perception for interacting with VR/AR/MR systems\n\n\n\n**Erwartete Vorkenntnisse:**\n\n\n\n37",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 37,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Basics of object-oriented programming\n\n  - Basics of computer graphics\n\n\nThese prerequisites are taught in the module _Introduction to Visual Computing_ of the\n_Informatics_ bachelor program.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:** Courses marked with asterisk (*) are optional.\n6.0/4.0 VU Virtual and Augmented Reality\n\n- 6.0/4.0 VU multimodal interfaces\n\n- 6.0/4.0 VU Mixed Reality Lab\n\n- 6.0/4.0 PR Virtual Reality Maker Lab\n\n- 6.0/4.0 PR Advanced Topics in Virtual Reality\n\n##### **Visualization**\n\n\n**Standard workload:** 12.0-24.0 ECTS\n\n**Learning outcomes:**\n_Expertise:_ After successful completion of the module, students are able to:",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 38,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Standard workload:** 12.0-24.0 ECTS\n\n**Learning outcomes:**\n_Expertise:_ After successful completion of the module, students are able to:\n\n\n\n\n- understand the theory and concepts of visualization and visual analytics including\ninteraction methods\n\n\n\n\n- understand and apply the basics of human visual perception and cognition\n\n\n\n\n- design and implement interactive visualization and visual analytics solutions using\ndifferent reference models and taxonomies\n\n- evaluate different visualization and visual analytics methods and solutions, their\ncharacteristics, and their suitability for different contexts\n\n\n\n_Interdisciplinary skills:_\n\n\n\n\n- analyze complex real-world problems by applying visualization and visual analytics\ntheory and concepts\n\n\n\n\n- critically evaluate visualization and visual analytics theory and concepts\n\n\n\n\n- create actionable strategies to design, develop, and evaluate visualization and visual\nanalytics concepts and solutions",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 38,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- create actionable strategies to design, develop, and evaluate visualization and visual\nanalytics concepts and solutions\n\n- reflect on the strengths and weaknesses of visualization and visual analytics concepts\nand solutions\n\n\n\n\n- formulate visualization-related points of view and solutions\n\n\n\n\n- design and implement visualization and visual analytics concepts and solutions\n\n\n\n38",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 38,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- deepen their knowledge in the field on their own independently\n\n  - critically reflect on their own work, on other contributions as well as on issues\nconcerning ethics, gender, and diversity\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content.\n\n**Inhalt:**\n\n\n\n\n- Fundamentals of visualization and visual analytics.\n\n\n\n\n- Fundamentals of human visual perception and cognition.\n\n\n\n\n- Design methodology, taxonomies, and models.\n\n\n\n\n- Qualitative and quantitative evaluation methods.\n\n\n\n\n- Various application areas, like medicine, and other disciplines of natural, social,\nand economic sciences\n\n\n\n**Erwartete Vorkenntnisse:**\n\n   - Basics of visualization\n\n  - Programming techniques for visual vomputing\n\n\nThese prerequisites are taught in the module _Grundlagen der Visualisierung_ of the\n_Informatics_ bachelor program.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 39,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "These prerequisites are taught in the module _Grundlagen der Visualisierung_ of the\n_Informatics_ bachelor program.\n\n**Angewendete Lehr- und Lernformen und geeignete Leistungsbeurteilung:**\nDie angewendeten Lehr- und Lernformen sind im Informationssystem zu Studien und\nLehre bei jeder Lehrveranstaltung vor Beginn des Semesters anzugeben; ebenso die\nPrüfungsmodalitäten.\n\n**Lehrveranstaltungen des Moduls:** Courses marked with asterisk (*) are optional.\n6,0/4,0 VU Information Visualization\n6,0/4,0 VU Medical Visualization and Visual Analytics\n\n- 3,0/2,0 SE Seminar in Visualization\n\n- 6,0/4,0 PR Visualization 1\n\n- 6,0/4,0 PR Visualization 2\n\n##### **Wellbeing Technologies**\n\n\n**Regelarbeitsaufwand:** 12,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ After successful completion of the module, students are able to:\n\n\n\n\n- apply design and evaluation methods tailored to wellbeing technologies\n\n\n\n\n- prototype interfaces that foster physical and mental wellbeing",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 39,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- apply design and evaluation methods tailored to wellbeing technologies\n\n\n\n\n- prototype interfaces that foster physical and mental wellbeing\n\n\n\n\n- utilise sports sensors, motion tracking, and physiological sensing in the development\nof wellbeing technologies\n\n\n\n39",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 39,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- address ethical considerations in the design and deployment of health-related\ntechnologies\n\n\n_Überfachliche Kompetenzen:_\n\n\n\n\n- analyse and integrate theoretical concepts of wellbeing, personal informatics, and\nphysical activity into technology design\n\n- critically evaluate the impact of technology on wellbeing, with a focus on ethical\nimplications and user needs\n\n\n\n\n- Develop innovative, user-centred solutions for promoting healthy behaviours\n\n\n\n\n- understand the complexities and responsibilities associated with designing technologies for health and wellbeing\n\n- reflect on their own role as designers of technologies that influence wellbeing and\nlifestyle choices\n\n- collaborate effectively in interdisciplinary teams to address design challenges related\nto wellbeing\n\n- communicate design concepts, ethical considerations, and evaluation outcomes to\ndiverse audiences",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- communicate design concepts, ethical considerations, and evaluation outcomes to\ndiverse audiences\n\n\n\nFurthermore, students will be able to identify, articulate, and discuss issues concerning\nethics, gender, and diversity in the context of the module’s content.\n\n**Inhalt:**\n\n  - Introduction to Wellbeing Technologies: Foundations of wellbeing, personal informatics, and healthy lifestyles.\n\n  - Design Principles: Methods and strategies for designing technologies that promote\nwellbeing.\n\n  - Ethics and Responsibility: Exploring ethical frameworks and the responsibilities of\ndesigners working with health-related technologies.\n\n  - Evaluation Methods: Approaches to assessing the impact and ethical implications\nof wellbeing technologies.\n\n  - Prototyping and Tools: Hands-on work with sports sensors, motion tracking, and\nphysiological sensing.\n\n  - Practical Challenges: Case studies and examples of wellbeing technologies, focusing\non their design, ethical implications, and use.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Practical Challenges: Case studies and examples of wellbeing technologies, focusing\non their design, ethical implications, and use.\n\n  - Applications: Exploring technologies that encourage physical activity, healthy\nhabits, and mental wellbeing.\n\n\n**Erwartete Vorkenntnisse:**\n\n\n\n\n- Experience with design tools and prototyping of interactive systems\n\n\n\n\n- Fundamentals of ubiquitous computing\n\n\n\n\n- Experience in conducting quantitative and qualitative user studies\n\n\n\n40",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "These prerequisites are taught in the module _Artifact-based Design_ .\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0 VU Wellbeing Technologies\n6.0/4.0 PR Wellbeing Technologies\n\n\n41",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 41,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **B Transitional provisions**\n\n1. Unless otherwise stated, the _master's program_ is referred to below under studies.\n_Media and Human-Centered Computing (study code UE 066 935)_ understood.\nThe term new study plan refers to this study plan from October 1st, 2025\nThe current study plan and old study plan of the Vienna University of Technology\nvalid until then. Accordingly, there are new and old courses under\nto understand those of the new or old curriculum (old also includes earlier ones).\nstudy plans). The study law body is the study law body responsible for the Master's program in Media and Human-Centered Computing\nTechnical University of Vienna meant.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 42,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "2. The transitional provisions apply to students who have completed their studies\nsubmit according to the new curriculum at the Vienna University of Technology and the\nbefore July 1, 2025 for the master's degree in Media and Human-Centered Computing\nwere admitted to the Vienna University of Technology. The extent of the use of the\nThese students are free to make transitional arrangements.\n\n3. At the student's request, the study law body can modify the transitional provisions individually or to those not covered by paragraph 2\nExpand students.\n\n4. Certificates for courses that are equivalent in content are not permitted\nmust be submitted for graduation at the same time. In case of doubt, decide\nthe study law body about equivalence.\n\n5. Unless otherwise specified below, certificates from old courses can in any case be used for the degree if the\nCourse taught by the student with material semester summer semester\ncompleted in 2025 or earlier.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 42,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6. Excess ECTS points from the compulsory modules can be used as a replacement for\nachievements in elective modules as well as free elective subjects and/or\nTransferable skills are used. Excess ECTS points from the elective modules can be used as a replacement for achievements in the free elective subjects\nand/or transferable skills are used.\n\n7. In the following, each course is defined by its scope in ECTS points\n(first number) and semester hours (second number), their type and title are described. The ECTS amount of the course actually completed counts.\n\n    - The course(s) of the old module _Foundations of Ubiquitous Com-_\n_puting and IoT_ can replace the _Artifact-based Design_ module for that\nExam subject _Foundations_ can be used.\n\n    - The course(s) of the old module _Responsible Research and In-_\n_novation_ can replace the _Responsible Digital Ethics_ module for this\nExam subject _Foundations_ can be used.\n\n\n42",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 42,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- All courses that were included in the old curriculum in the examination subjects _Interactive Media_, _Interaction Design_, _Vision & Visualization_ and\n_Critical Reflection_ listed can help meet the requirements\nof the examination subject _Design and Implementation of Media and Human-Centered_\n_Computing_ can be used.\n\n- The courses of the module _Theories of Perception, Interaction &_\n_Visualization_ can also be used to meet the requirements of the examination subject _Design and Implementation of Media and Human-Centered Computing_\nbe used.\n\n- The old module _HCI & Health Care_ can also be used to meet the requirements of the examination subject _Design and Implementation of Media and_\n_Human-Centered Computing_ can be used.",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 43,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- _3.0/2.0 VU Communication and Media Theories_ and _3.0/2.0 VU Design Stu-_\n_these_ can be used instead of the _Artifact-based Design_ module. In\nIn this case, the course _6.0/4.0 VU Foundations of Ubiquitous_\n_Computing and IoT_ to meet the requirements of the examination subject _De-_\n_sign and Implementation of Media and Human-Centered Computing_ is used\nbecome.\n\n\n43",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 43,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **C Semester division of courses**\n\nIt is recommended that students immediately take the\nModules in the examination subject _Foundation_ must be completed as they meet the content requirements\nfor further study.\nLecturers are required to teach the courses in the modules\nExamination subject _Design and Implementation of Media and Human-Centered Computing_\nto coordinate in such a way that there is between modules that have the same _focus_ (see §5)\nbelong, there is no scheduling overlap.\n\n\n44",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 44,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **D Examination subjects with the assigned modules and** **Courses**\n\nThe examination subjects _Foundation, Free Electives and Transferable Skills,_ and _Diplom-_\n_work_ must be completed in any case. From the other examination subjects (elective subjects)\nAny number can be selected.\n\n##### **Examination subject “Foundation”**\n\n\n**Module “Artifact-based Design” (6.0 ECTS)**\n6.0/4.0 VU Artifact-based design\n\n**Module “Responsible Digital Ethics” (6.0 ECTS)**\n6.0/4.0 VU Responsible Digital Ethics\n\n**Module “User Research Methods” (6.0 ECTS)**\n6.0/4.0 VU User Research Methods\n\n**Module “Seminar Media and Human-Centered Computing” (3.0 ECTS)**\n3.0/2.0 SE Seminar Media and Human-Centered Computing\n\n##### **Examination subject “Design and Implementation of Media and** **Human-Centered Computing”**\n\n\n**Module “Assistive Technologies” (12.0 ECTS)**\n6.0/4.0 VU Assistive Technologies\n6.0/4.0 PR Assistive Technologies",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 45,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Module “Assistive Technologies” (12.0 ECTS)**\n6.0/4.0 VU Assistive Technologies\n6.0/4.0 PR Assistive Technologies\n\n**Module “Computer Vision” (12.0 ECTS)**\n6.0/4.0VU Computer Vision\n6.0/4.0VU 3D Vision\n\n**Module “Critical Theory and Design” (12.0 ECTS)**\n6.0/4.0 VU Critical Theory and Design\n6.0/4.0 PR Critical Theory and Design\n\n**Module “Design Thinking” (12.0-18.0 ECTS)**\n6.0/4.0 VU Design Thinking: Ideation\n6.0/4.0 VU Design Thinking: Exploratory Prototyping\n6.0/4.0 VU Design Studies\n\n**Module “Gameful Design” (12.0 ECTS)**\n6.0/4.0 VU Gameful design\n\n\n45",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 45,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6,0/4,0 PR Gameful Design\n6,0/4,0 VU Game Design\n6,0/4,0 PR Game Production\n\n**Modul „Embodied Systems: A Human-Drone Interaction Perspective“ (12,0 ECTS)**\n6,0/4,0 VU Embodied Systems: A Human-Drone Interaction Perspective\n6,0/4,0 PR Embodied Systems: A Human-Drone Interaction Perspective\n\n**Modul „Extension“ (up to 12,0 ECTS)**\n\n**Modul „Human-Centered AI“ (12,0 ECTS)**\n6,0/4,0 VU Human-Centered AI\n6,0/4,0 VU Beyond the desktop: from concepts to implementation\n\n**Modul „Human-Agent Interaction“ (12,0 ECTS)**\n6,0/4,0 VU Human-Agent Interaction\n6,0/4,0 PR Human-Agent Interaction\n\n**Modul „Virtual, Augmented and Mixed Reality“ (12,0-24,0 ECTS)**\n6,0/4,0 VU Virtual and Augmented Reality\n6,0/4,0 VU Multimodal Interfaces\n6,0/4,0 VU Mixed Reality Lab\n6,0/4,0 PR Virtual Reality Maker Lab\n6,0/4,0 PR Advanced Topics in Virtual Reality",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 46,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Modul „Visualization“ (12,0-24,0 ECTS)**\n6,0/4,0 VU Information Visualization\n6,0/4,0 VU Medical Visualization and Visual Analytics\n3,0/2,0 SE Seminar in Visualization\n6,0/4,0 PR Visualization 1\n6,0/4,0 PR Visualization 2\n\n**Modul „Wellbeing Technologies“ (12,0 ECTS)**\n6,0/4,0 VU Wellbeing Technologies\n6,0/4,0 PR Wellbeing Technologies\n\n##### **Prüfungsfach „Freie Wahlfächer und Transferable Skills“**\n\n\n**Modul „Freie Wahlfächer und Transferable Skills“ (9,0 ECTS)**\n\n##### **Prüfungsfach „Diplomarbeit“**\n\n1,5/1,0 SE Seminar für Diplomand_innen\n27,0 ECTS Diplomarbeit\n1,5 ECTS Kommissionelle Abschlussprüfung\n\n\n46",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 46,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **E Elective subject catalog “Transferable Skills”**",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 47,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The courses included in the _Free Electives and Transferable Skills_ module\nThe subject area “Transferable Skills” can be chosen from, among other things\ncan be selected from the following catalogue.\n3.0/2.0 SE Coaching as a management tool 1\n3.0/2.0 SE Coaching as a management tool 2\n3.0/2.0 SE Didactics in Computer Science\n1.5/1.0 VO IT contract law\n3.0/2.0 VO Introduction to the Philosophy of Science I\n3.0/2.0 VO Introduction to technology and society\n3.0/2.0 SE Impact assessment of information technologies\n3.0/2.0 VU Research Methods\n3.0/2.0 VO Women in science and technology\n3.0/2.0 SE Group Dynamics\n3.0/2.0 VU Communication and Moderation\n3.0/2.0 SE Communication and Rhetoric\n1.5/1.0 SE communication technology\n3.0/2.0 VU Cooperative work\n3.0/2.0 VU Presentation and moderation\n1.5/1.0 VO Presentation, moderation and mediation\n3.0/2.0 UE Presentation, moderation and mediation\n3.0/2.0 VU Presentation and negotiation techniques",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 47,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 UE Presentation, moderation and mediation\n3.0/2.0 VU Presentation and negotiation techniques\n4.0/4.0 SE Privatissimum from Computer Science Didactics\n3.0/2.0 VU Rhetoric, body language, argumentation training\n3.0/2.0 VU Soft skills for technicians\n3.0/2.0 VU Sociology of Technology and Psychology of Technology\n3.0/2.0 VO Theory and practice of group work\n3.0/2.0 VO Between career and barrier",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 47,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "47",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 47,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **F Extension course Innovation**\n\nStudents who use the skills they acquired in their master's degree to start a business\nof a startup or in the management of a company or for project work\nIf you want to apply the skills required for these activities in a university environment\nacquire additional skills as part of the _Innovation_ extension course,\nwhich can be completed alongside the master's degree.\nThe (additional) workload for the English-language extension course _In-_\n_novation_ is 30 ECTS points (this corresponds to one semester). The conclusion of the\nThe _Innovation_ extension course can also be completed after completing the master's degree\ntake place.\n\n\n48",
+    "metadata": {
+      "program_name": "Master Media and Human-Centered Computing",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066935.pdf",
+      "page_number": 48,
+      "chunk_strategy": "page_recursive"
+    }
+  }
+]

@@ -1,0 +1,2212 @@
+[
+  {
+    "content": "Bachelor\n\n###### Master\n\n\nDoctorate\n\n\nUniversity course\n\n\n### Study plan (curriculum) for the master's program\n## Business Informatics\n#UE 066 926\n\n###### Vienna University of Technology Resolution of the Senate of the Vienna University of Technology on May 12, 2025 Valid from October 1, 2025",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 1,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **Table of Contents**\n\n§ 1 Basis and scope 3\n\n\n§ 2 Qualification profile 3\n\n\n§ 3 Duration and scope 6\n\n\n§ 4 Admission to the master's program 7\n\n\n§ 5 Structure of the course 8\n\n\n§ 6 Courses 13\n\n\n§ 7 Examination regulations 16\n\n\n§ 8 Studyability and mobility 18\n\n\n§ 9 Diploma thesis 19\n\n\n§ 10 Academic degree 19\n\n\n§ 11 Quality management 19\n\n\n§ 12 Entry into force 21\n\n\n§ 13 Transitional provisions 21\n\n\nA Module descriptions 22\n\n\nB Transitional provisions 45\n\n\nC Examination subjects with the assigned modules and courses 52\n\n\nD Elective subject catalog “Transferable Skills” 57\n\n\nE Extension course Innovation 58\n\n\n2",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 2,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 1 Basis and scope**\n\nThis study plan defines and regulates the engineering, English-language master's program _Business Informatics_ at the Vienna University of Technology. It\nis based on the University Act 2002 BGBl\ncurrent version. The structure and design of the course are based on\nthe following qualification profile.\n\n#### **§ 2 Qualification profile**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The master's program _Business Informatics_ provides an in-depth, scientific and\nmethodically high-quality education aimed at lasting knowledge. The present one\nThe qualification profile was taken from the framework recommendations for training in business informatics at universities [1] and adapted to the context of the training\nadapted from the TU Vienna.\nThe course opens up career opportunities in various areas for graduates\nEconomic sectors, including technology companies that act as providers of IT solutions, with so-called user companies that use IT solutions,\nat consulting companies and in public administration. Another perspective\nis self-employment as an entrepreneur, for example in start-up structures. At the same time\nIt is also possible to take up a doctoral program, which opens up further career opportunities\nopened in industry and in the university environment.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "It is also possible to take up a doctoral program, which opens up further career opportunities\nopened in industry and in the university environment.\nThe Master's program _Business Informatics_ is strongly oriented towards international educational requirements in the areas of research and business. To ensure this,\nAll courses in the master's program are held in English\nand the master's thesis is also written in English.\nBusiness informatics is a scientific discipline that deals with information processes and associated phenomena in a socio-economic context.\nAt the TU Vienna the focus is on technology-oriented business informatics\nEngineering discipline primarily concerned with analysis, design, implementation\nand the evaluation of information and communication systems in business\nand administration. Information systems (IS) are socio-technical systems that\ninclude human and machine components (subsystems). Modern IS play in",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "and administration. Information systems (IS) are socio-technical systems that\ninclude human and machine components (subsystems). Modern IS play in\nplays a central role in almost all economic, political and social contexts.\nThey represent a basic requirement for the increasing digitalization of the economy\nand society and will therefore continue to gain in importance in the future.\nThe Master's program _Business Informatics_ prepares graduates for both...",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "~~1Framework recommendation for training~~ in business informatics at universities from the working group on behalf of the Scientific Commission for Business Informatics (WKWI) in the association\nthe university lecturer for business administration and the business informatics department of the Gesellschaft für Informatik (GI), `[https://gi.de/fileadmin/GI/Hauptseite/Aktuelles/Meldungen/](https://gi.de/fileadmin/GI/Hauptseite/Aktuelles/Meldungen/2017/Empkommenung-Wirtschaftsinformatik2017.pdf)`\n```\n  2017/Recommendation-Wirtschaftsinformatik2017.pdf\n\n```\n\n3",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Higher qualifications as part of a relevant doctoral program as well as for\nthe activity in the following areas, for example, is internationally competitive:\n\n  - **Technology entrepreneur:** Graduates bring good prerequisites\nto develop technology-based innovations as entrepreneurs\nto found and run companies. They can also act as intrapreneurs\ncorresponding management functions in innovative companies or spin-offs\ntake over.\n\n  - **Enterprise Architect:** Graduates acquire the ability to create a holistic\nView of a company's strategy, processes, information and IT resources\nto build an organization. They ensure that the business and IT are aligned. The enterprise architect links the business task,\nthe strategy and processes of a company with its IT strategy and\ndocuments this using architectural models or views that show how\ncurrent and future requirements of an organization efficiently and sustainably\nand be fulfilled agilely.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- **Process Manager:** Graduates view the company as a cross-departmental value chain and strive to identify processes\nand to improve. With modern IT, outdated structures can be eliminated, media disruptions avoided, processes streamlined and systems integrated.\n\n  - **IT Manager:** Graduates are prepared to take on an entrepreneurial role\nTo perform a leadership and control function that is aimed at effective and efficient IT use and information provision. IT managers lead\nOrganizations so that the value contribution of IT to organizational goals and results\nmaximized and the risks associated with the use of IT minimized.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- **Consultant:** Graduates can provide support in the design of IS as well as in the selection and implementation of application systems. About that\nThey can also help organizations make a variety of IT-related decisions\nsupport, e.g. B. with regard to IT strategy, IT portfolio management or corporate architecture as well as acquisitions and mergers or the\nIntroduction of new IT.\n\n  - **Data analyst** graduates are able to support answering business-specific questions using data-driven analyses. They support\nthe process chain from the data-oriented formulation of the question\nthe collection, preparation and analysis of the data through to the evaluation\nQuality of results and their use.\n\nDue to the professional requirements, the Master's program _Business Informa-_\n_tics_ qualifications regarding the following categories are imparted.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Technical and methodological skills** The business informatics course teaches theoretically based concepts and methods that enable students to\nTo be able to analyze, design, implement, operate and use IS in organizations and across organizations. As future decision-makers should\nThey are enabled to realize the potential benefits of targeted information provision\n\n\n4",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "in particular for the design of information, goods and money flows\nthrough appropriate use of IS. Accordingly, the students need\na broad and (in selected sub-areas) in-depth technical knowledge of the\nMethods for design using IT. In addition, they acquire a solid understanding\npossible areas of application in organizations. The focus is always on\nthe desired ability to design IS to implement entrepreneurial goals and\nto implement. This includes the consideration of products and services\nand processes within and between organizations. The perception\nof the design tasks in the development of application systems\nunderstanding of the mechanisms of action of software systems; accordingly\nIt is essential that students also develop programs themselves.\n\n\n\n\n- Areas of application of IS in the context of organizations and consumers\nunderstand\n\n- Analyze, design, implement IS individually and across organizations,\noperate and use",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Analyze, design, implement IS individually and across organizations,\noperate and use\n\n- Potential benefits of targeted information provision, particularly for the design of flows of information, goods and money through the appropriate use of\nRealize IS\n\n\n\n\n- Understand the mechanisms of action of software systems\n\n\n\n\n- Develop software",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Cognitive and practical skills** In addition to technical skills\nalso teaches central social and personal skills. The professional activity in the\nBusiness informatics means that business informatics specialists often...\ntake on a “translation function” between a business and\na technical world of thought and language. This requires that certain social skills (including cooperation and communication skills for working in...\ninterdisciplinary and, if necessary, distributed project teams, also across countries/continents;\nPresentation and discussion of work results, including in foreign languages) require high demands. The acquisition of social and personal skills takes place\none implicitly in the acquisition of technical skills. On the other hand, courses in which relevant skills are taught and practiced have a high value\nImportance. These include, for example, seminars or project work in which teams\nWork on practical tasks and present the results in a realistic manner",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Importance. These include, for example, seminars or project work in which teams\nWork on practical tasks and present the results in a realistic manner\npresent conditions.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Ability to lead teams (leadership skills)\n\n\n\n\n- Show interest in other people and their concerns (empathy)\n\n\n\n\n- Ability to get others excited about something (motivation skills)\n\n\n\n\n- Deal constructively with different perspectives and interests, identify the causes in conflict situations and develop solutions (conflict management)\n\n- Define goals together in the team and work towards them as well as contribute constructively and deal with criticism (ability to work in a team/willingness to cooperate,\ncritical ability)\n\n\n\n5",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Appear confidently and confidently in negotiations and protect your own interests\nor that of the team is well represented (negotiation skills and conversation skills)\n\n  - Adhere to rules and agreements and carry out your own tasks as promised\nDo quality (reliability)\n\n\n**Social skills and self-skills** In addition, students acquire self-skills that motivate and enable them to learn for life.\nThese include, in particular, learning skills, problem-solving skills and\nAbility to independently reflect on work experiences and translate them into constructive action plans.\n\n\n\n\n- Ability and willingness to independently acquire and develop new knowledge\nto learn from successes and failures (learning skills and motivation)\n\n- Getting involved in changing conditions and dealing with changing situations (adaptability)",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Getting involved in changing conditions and dealing with changing situations (adaptability)\n\n- Know your own scope for decision-making and the associated responsibility, as well as obtain necessary information, develop alternatives, and prioritize\nand find a solution in a reasonable amount of time (decision-making ability)\n\n\n\n\n- Willingness to commit and get involved (initiative)\n\n\n\n\n- Think, decide and act entrepreneurially (entrepreneurial competence)\n\n- With difficult conditions, such as high pressure, resistance,\nDisturbances, deal with them constructively and have a good one over longer, difficult phases\nAchieve performance (endurance/stamina)\n\n- Ability to research sources and reflect on the facts\nto structure them sensibly and to correctly differentiate one's own ideas from others (scientific work)\n\n- Use clear and understandable forms of expression and written language as well as a situation-appropriate choice of words (expressive ability)",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Use clear and understandable forms of expression and written language as well as a situation-appropriate choice of words (expressive ability)\n\n- Capture and organize extensive and complex relationships in a short time,\nfilter out the essentials and present them in a generally understandable way (analysis and\npresentation/communication skills)\n\n- Assess facts and derive consequences and solutions from them\n(judgment and problem-solving ability)\n\n\n\n\n- Carrying out projects on time and as needed (project management)\n\n\n#### **§ 3 Duration and scope**\n\nThe workload for the Master's program _Business Informatics_ is 120 ECTS points. This corresponds to a planned full-time study period of 4 semesters.\nECTS points (ECTS) are a measure of the students' workload. An academic year includes 60 ECTS points, with one ECTS point corresponding to 25 hours of work\n(according to Section 54 Paragraph 2 UG).\n\n\n6",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 4 Admission to the master's program**\n\nAdmission to the Master's program _Business Informatics_ requires the completion of a\nBachelor's degree in a relevant subject or another subject in question\nupcoming studies of at least the same level of higher education at a university\nrecognized domestic or foreign post-secondary educational institution.\nIn any case, a relevant course of study must have the knowledge and skills\nand competencies of the modules\n\n_INT/ADA – algorithms and data structures_ as well\n_INT/PRO – Introduction to programming_\n\nas well as mathematical and statistical basics corresponding to the examination subject\n\n_STW – Structural Sciences_",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 7,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "as well as mathematical and statistical basics corresponding to the examination subject\n\n_STW – Structural Sciences_\n\nof the Bachelor's degree in Business Informatics.\nIn any case, the bachelor's degree in _Wirtschaftsinforma-_ is technically possible.\n_tik_ from the Vienna University of Technology, the University of Vienna and the University of Linz\nas well as the bachelor's degree in Information Management at the University of Klagenfurt; the\nGraduates of these bachelor's programs must be admitted without additional examinations.\nGraduates of the bachelor's programs _Medical Informatics_, _Software & Information_\n_Engineering_ and _Media Informatics_ and _Visual Computing_ at the Technical University\nVienna require the knowledge, skills and competencies of the modules\n\n_WIW/GBW – Basics of Business Administration_,\n_WIW/GOE – Basics of Economics_ and\n_WIW/MGT – Management Sciences_",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 7,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "_WIW/GBW – Basics of Business Administration_,\n_WIW/GOE – Basics of Economics_ and\n_WIW/MGT – Management Sciences_\n\nof the bachelor's program _Business Informatics_, each worth at least 6 ECTS.\nIn order to guarantee the achievement of the goals defined in the qualification profile\nbut additional restrictions in the choice of modules to be completed in the\nKey areas. Further information can be found under “Examination subjects and associated modules” in\nSection § 5 carried out.\nGraduates of other studies must prove that they have, at least to the extent specified, knowledge, skills and competencies that correspond to those\nthose in the examination subjects\n\n_WIN – Business Informatics_ worth at least 28 ECTS,\n_WIW – Economics_ with at least 18 ECTS,\n_INT – Information Technology_ worth at least 23 ECTS, and\n_STW – Structural Sciences_ worth at least 18 ECTS",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 7,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "of the Bachelor's program in Business Informatics.\nIn order to achieve the required number of ECTS points, you can apply for admission\nadditional courses and examinations amounting to a maximum of 30 ECTS points are required; these must be completed during the course of the master's degree\n\n\n7",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 7,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "and can be used in the Free Electives and Transferable Skills module. Regardless\nHowever, 4.5 ECTS of transferable skills must still be completed. Besides\nThere may be additional restrictions in the choice of modules to be completed\nthe key areas; Further information can be found under “Examination subjects and\nassociated modules” in section § 5.\nTo compensate for significant technical differences, supplementary examinations can be carried out\nA maximum of 30 ECTS points are required, which must be awarded by the end of the year\nmust be completed in the second semester of the master's degree.\nThe language of instruction is English. Applicants whose first language is not\nIf you speak English, you must demonstrate the required language skills. The shape of the\nProof of this is set out in a regulation from the Rectorate.\n\n#### **§ 5 Structure of the course**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 5 Structure of the course**\n\nThe content and qualifications of the course are conveyed through _modules_. A module\nis a teaching and learning unit, which is characterized by entry and exit qualifications,\nContent, teaching and learning methods, standard workload and performance assessment\nis marked. Modules are completed in the form of one or more modules\ncontent-related _courses_. Thematically similar modules will be available\nsummarized into _examination subjects_, their names including scope and overall grade\nis shown on the graduation certificate.\n\n##### **Examination subjects and associated modules**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Examination subjects and associated modules**\n\nThe master's program _Business Informatics_ is divided into the following examination subjects\nwith the modules assigned to them. In addition to the modules of the compulsory subject _Business_\n_Informatics Foundations_ consists of a total of four modules (4 _×_ 12 ECTS = 48 ECTS).\nto complete the five key areas (SB), whereby the respective _Extension module_ only\ncan then be completed if the associated _core module_ is also completed.\nStudents can choose modules from all five key areas as they progress through their\nPreliminary studies as well as those as part of admission to the master's program _Business Informatics_\nThe supplementary examinations given assess the competencies, knowledge and skills in the\ncan provide evidence of the following areas to the specified extent:\n\n\nBusiness informatics: 24 ECTS\nComputer Science: 33 ECTS\nEconomics: 24 ECTS",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Business informatics: 24 ECTS\nComputer Science: 33 ECTS\nEconomics: 24 ECTS\n\n\nStudents who have completed a bachelor's degree with a focus on computer science, but completed fewer than 24 ECTS in economics\nmust have at least two modules from the key areas of _Management Science_\nand/or complete _Economic Modeling_. Students who have a bachelor's degree\nhave completed a major in economics, but less\n\n\n8",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "If you have completed more than 33 ECTS in computer science or less than 24 ECTS in business informatics, you must complete two modules from the key areas _Information Systems_\nComplete _Engineering_, _Enterprise Engineering_ and _Data Analytics_.\nOverall, in _Business Informatics Foundations_, the key areas are\n_Master Thesis_ and the _Free Electives_ must complete at least 120 ECTS. Become\nCompleted a total of more than 48 ECTS in the key areas can be completed in the module\n_Free Electives_ require less ECTS to be completed to the same extent\nAt least 4.5 ECTS must be completed in the area of transferable skills.\nIt should be noted that courses in German can also be completed in the _Extension modules_ and the _Free Electives_. However, it is guaranteed\nthat these modules also include sufficient courses in English\nare offered so that the entire course of study is completed in English\ncan.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "that these modules also include sufficient courses in English\nare offered so that the entire course of study is completed in English\ncan.\nThe _Business Informatics_ course is divided into the following examination subjects or modules:",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Business Informatics Foundations**\n\nDA/FD – Data Analytics Foundation (6.0 ECTS)\nEE/FD – Enterprise Engineering Foundation (6.0 ECTS)\nEM/FD – Economic Modeling Foundation (6.0 ECTS)\nISE/FD – Information Systems Engineering Foundation (6.0 ECTS)\nMS/FD – Management Science Foundation (6.0 ECTS)\nRM/FD – Research Methods (3.0 ECTS)\n\n\n**Data Analytics (SB)**\n\nDA/COR – Data Analytics Core (12.0 ECTS)\nDA/EXT – Data Analytics Extension (12.0 ECTS)\n\n\n**Enterprise Engineering (SB)**\n\nEE/COR – Enterprise Engineering Core (12.0 ECTS)\nEE/EXT – Enterprise Engineering Extension (12.0 ECTS)\n\n\n**Economic Modeling (SB)**\n\nEM/COR – Economic Modeling Core (12.0 ECTS)\nEM/EXT – Economic Modeling Extension (12.0 ECTS)\n\n\n**Information Systems Engineering (SB)**\n\nISE/COR – Information Systems Engineering Core (12.0 ECTS)\nISE/EXT – Information Systems Engineering Extension (12.0 ECTS)\n\n\n9",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Management Science (SB)**\n\nMS/COR – Management Science Core (12.0 ECTS)\nMS/EXT – Management Science Extension (12.0 ECTS)\n\n\n**Free Electives**\n\nFree Electives and Transferable Skills (9.0 ECTS)\n\n\n**Master Thesis**\n\nSee section § 9.\n\n##### **Short description of the modules**\n\nThis section characterizes the modules of the master's program _Business Informatics_ in\nBrevity. A detailed description can be found in Appendix A.\n\n**DA/FD – Data Analytics Foundation (6.0 ECTS)** Obtained in this module\nstudents have basic knowledge and skills to gain knowledge from data\nwin and use in decision-making processes. It includes both theoretical and\nalso practical aspects of business intelligence, especially data warehousing and\nData mining technologies and techniques.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**DA/COR – Data Analytics Core (12.0 ECTS)** Univariate data treatment\nis expanded to a multivariate analysis using methods of exploratory data analysis. Multivariate statistical methods such as principal component and factor analysis,\nCluster analysis, canonical correlation analysis and discriminant analysis are carried out\nexplained from a theoretical perspective and applied to practical problems. About that\nIn addition, concepts of visualization (visual analytics, information visualization\nand scientific visualization). A way to deal with the problem\nThe solution to information overload is visualization. By using the\npowerful human perception system that processes visual input extremely efficiently, visualization can help understand complex data\nTo explore information spaces or patterns and relationships within the data\nrecognize. The module also covers data analysis processes from problem understanding",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "recognize. The module also covers data analysis processes from problem understanding\nuntil the findings are made available. A focus is on computational thinking, the formulation of problems and their solution spaces, so that a\ncomputer can solve them.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**DA/EXT – Data Analytics Extension (12.0 ECTS)** This module includes courses in the area of data analytics, which serve as a deepening or broadening of the\nacquired knowledge, skills and competencies in the DA/COR – Data module\nAnalytics Core serve.\n\n**EE/FD – Enterprise Engineering Foundation (6.0 ECTS)** This module includes the integration of three key approaches to support and manage\n\n\n10",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Changes in companies: _Enterprise architecture management_, _Business pro-_\n_process management_ and _model-driven system technology_.\nBusiness informatics views companies as socio-technical systems. This one\nSocio-technical systems should be optimally designed according to the company's goals\nbe. As business environments change, these concepts (and their\nImplementation) can be adapted through a systematic and controlled approach.\nGiven the dynamics of modern society, it is often essential that such\nAdjustments can also be made quickly.\nSuch challenges lead companies to _Enterprise Architecturema-_\nCombine _nagement_, _business process management_ and _model-driven system technology_.\nTaken together, this includes a range of techniques, methods and models,\nfor the design and implementation of the respective corporate context (e.g. including business services offered, organizational structures, etc.), the\nbusiness processes involved and the required information systems are required",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "business processes involved and the required information systems are required\nas well as the underlying applications and IT infrastructures. Accordingly\nThis module covers the development of enterprise architectures, the design and\nthe optimization of business processes (and associated business rules) as in the\nEnterprise architecture defined and its assignment to execution platforms\n(e.g. workflow engines, business rules engines, and low-code platforms).",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**EE/COR – Enterprise Engineering Core (12.0 ECTS)** This module deals with the design of a company and its business processes in an e-commerce and e-business context. Basic concepts of the\ne-commerce in the areas of e-marketing, personalization and auction mechanisms,\nas well as security aspects and traceability of commercial transactions in theory\nand practical application scenarios. The aspects will be discussed in more depth\nof recommender systems and the structural analysis of social and information networks, especially the World Wide Web. The ones in this module\nOf course, the technologies covered also change the way companies operate\ncan operate successfully in the market. Therefore, the successful design and further development of business models in a digital world is a central component\nthis module.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**EE/EXT – Enterprise Engineering Extension (12.0 ECTS)** This module includes\nCourses in the field of enterprise engineering, which serve as a deepening or broadening of the knowledge, skills and competencies acquired in the EE/COR module -\nEnterprise Engineering Core serve.\n\n**EM/FD – Economic Modeling Foundation (6.0 ECTS)** In the field of business informatics, dealing with data, processes and models is highly relevant.\nThere are very different approaches to modeling, which vary from:\ndepend on the respective question. This module provides an introduction to some empirical as well as theoretical modeling and simulation techniques that are suitable\nDifferent economic and socio-economic issues need to be examined.\nThe module deals with both econometric methods and computer simulation techniques and how these can be used in theory building and testing\n\n\n11",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Hypothesis, explanation and prediction can be used and demonstrates this\nof examples.\n\n**EM/COR – Economic Modeling Core (12.0 ECTS)** Partially building on\nthe content taught in the EM/FD – Economic Modeling Foundation module\nThe module deals with further methods of economic modeling. A\nThe focus is on the introduction of universally applicable simulation methods\nmodel-based decision support. Another focus of the module\nlies in the simulation of dynamic macroeconomic models as well as economic ones\nTheory of international trade and trade policy.\n\n**EM/EXT – Economic Modeling Extension (12.0 ECTS)** This module includes\nCourses in the field of economic modeling that deepen or broaden the knowledge, skills and competencies acquired in the module EM/COR –\nEconomic Modeling Core.\n\n**Free Electives and Transferable Skills (9.0 ECTS)** The courses in this\nModules serve to deepen the subject and acquire extra-subject knowledge,\nSkills and competencies.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**ISE/FD – Information Systems Engineering Foundation (6.0 ECTS)** Operation as an information system is at the center of Information Systems Engineering.\nPaired with the basic IT principle of abstraction, which makes it possible\nAbstract details and focus on essential concepts of the application area\nfocus, in this module the model is used as the central abstraction concept\nInformation system development introduced. The code that was ultimately executed is not available\nthe focus of information system development, but models that cover the most diverse aspects of an information system, such as static, dynamic, data-intensive,\ndistributed and platform-dependent aspects, to name just a few. This module therefore deals with principles, concepts, techniques and methods for\nDevelopment of models and their modeling languages (“language engineering”),\nfor the transformation of the same (“transformation engineering”) as well as for the systematic\nManagement of models (“model management”).",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**ISE/COR – Information Systems Engineering Core (12.0 ECTS)** This module\ndeals with three essential properties of information systems in one\nglobal context, which are data intensive, distributed, and semantically enriched. The\nProperty _data-intensive_ is achieved through further knowledge of data management\nand database systems. The central content is query optimization, about\nData models that go beyond the relational data model and distributed data processing techniques. The property _distributed_ is determined by further knowledge of\nInternet-based distributed systems. The central content is service-oriented\nComputing, Web Services, Cloud Computing, Edge Computing and Human-Based Computing. The property _semantically enriched_ is achieved through basic knowledge\nof semantic systems in general and the Semantic Web in particular\nconveyed. The central content is the W3C Semantic Web technology stack and Linked\nOpen data applications.\n\n\n12",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**ISE/EXT – Information Systems Engineering Extension (12.0 ECTS)** This\nModule includes courses in the area of information systems engineering, which are as\nDeepening or broadening of the acquired knowledge, skills and competencies\nserve in the module ISE/COR – Information Systems Engineering Core.\n\n**MS/FD – Management Science Foundation (6.0 ECTS)** As part of this\nFundamental knowledge and the necessary skills are acquired in this module\nto manage complex socio-technical systems. This affects planning and control\ngeneric management processes through the support of IT as well as the area\nHuman resources management and leadership.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**MS/COR – Management Science Core (12.0 ECTS)** In this specialization\nDigitalized work systems and their organization and financing are discussed.\nDifferent options are discussed, such as projects and companies\ncan be financed and the ability of students to understand complex organizational behavior is improved. In addition, the module includes contemporary\nTechnology trends (such as cyber-physical production systems), fundamental information systems and software developments.\n\n**MS/EXT – Management Science Extension (12.0 ECTS)** This module includes\nCourses in the field of management science, which serve as a deepening or broadening of the knowledge, skills and competencies acquired in the MS/COR module -\nServe Management Science Core.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**RM/FD – Research Methods (3.0 ECTS)** Business informatics is by definition\nan interdisciplinary research area. Consequently, research in business informatics also covers a wide spectrum. This module first gives an overview\nabout the different orientations and associated research methods\nBusiness informatics. Afterwards, the module also introduces relevant research methods\nindividually in order to use them for research questions in business informatics\ncan. The aim is to provide students with knowledge of scientific-theoretical questions\nto raise awareness and enable them to choose a topic for their thesis\nselect or configure a suitable research method.\n\n#### **§ 6 courses**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 6 courses**\n\nThe subject areas of the modules are taught through courses. The courses for the individual modules are in Appendix A in the respective module descriptions\nspecified. Courses are assessed through examinations in accordance with the University Act. The types of course assessments are in the examination regulations\n(§ 7).\nRegarding the possibilities of the study commission, modules around courses\nfor one semester, and the study law body to assign courses individually to elective modules for individual students, is based on § 27 of the\nthe study law part of the statutes of the TU Wien.\n\n\n13",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Specifications for courses and examinations from** **University Act 2002**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "An electronic list of courses must be created before the start of each semester\npublish (title, name of the leader, type, form including details\nthe location and dates of the course). This must be continually updated.\nIn addition to the published directory, the course instructors must inform students in an appropriate manner before the start of each semester\nthe objectives, form, content, dates and methods of your courses\nas well as about the content, the form, the methods, the dates and the assessment criteria\nand to provide information about the assessment criteria for the examinations.\nFor tests that are carried out in the form of a single test procedure,\nExamination dates are at least three times in each semester (according to the statutes at the beginning,\nin the middle and at the end), with students before the start of each semester\nabout the content, the form, the methods, the dates, the assessment criteria and the\nassessment standards for the examinations must be provided.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "about the content, the form, the methods, the dates, the assessment criteria and the\nassessment standards for the examinations must be provided.\nIn the case of examinations using electronic communication means, proper execution of the examination must be ensured, in addition to the general\nThe following minimum requirements must be adhered to in the regulations for examinations:",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Before the start of the semester, announcement of the standards that govern the technical devices\nStudents must meet the requirements in order for students to take part in these examinations\ncan.\n\n  - To ensure the independent provision of the examination service by the\nTechnical or organizational measures must be provided for students.\n\n  - In the event of technical problems that occur through no fault of the student, the examination must be canceled and not counted towards the permitted number of examination attempts.\n\n##### **Specifications for courses from the statutes of the TU Vienna**\n\nIn the following, SSB stands for _Statutes of the TU Vienna, Study Law Regulations_.\n\n  - The scope of a course is in ECTS credit points and in\nSpecify semester hours. [§ 9 SSB (modules and courses)]\n\n  - Holding a course as a “block course” is possible after approval by the Dean of Studies. [§ 9 SSB (Modules\nand courses)]",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Holding a course as a “block course” is possible after approval by the Dean of Studies. [§ 9 SSB (Modules\nand courses)]\n\n  - Holding courses and examinations in a foreign language\nis possible after approval by the dean of studies. [§ 11\nSSB (Foreign Languages)]\n\n  - Course examinations serve to demonstrate the learning results achieved through\na single course was taught. [§ 12 SSB (course examination)]\n\n\n14",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- The course examinations are to be held by the head of the course. If necessary, the study law body has a different one\nto appoint another professionally suitable examiner.\n\n[§ 12 SSB (course examination)]\n\n  - In any case, for examinations in compulsory and elective courses, the\nend in a single examination act, three examination dates for the beginning, for\nthe middle and the end of each semester. These are dated\nto announce the start of the semester. [§ 15 SSB (examination dates)]\n\n  - Examinations may also take place at the beginning and end of non-course times\nbe held. [§ 15 SSB (examination dates)]\n\n  - The examination dates must be announced in an appropriate manner. [§ 15 SSB\n(exam dates)]\n\n##### **Description of course types**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- The examination dates must be announced in an appropriate manner. [§ 15 SSB\n(exam dates)]\n\n##### **Description of course types**\n\n**VO:** Lectures are courses in which the content and methods of a\nsubject with particular consideration of its specific questions, terminology and solution approaches. The exam will be with\ncarried out in a single test procedure. In the module description it is\nExamination process for each course (written or oral, or written\nand verbally). Attendance at lectures is not compulsory\nAchievement of the learning outcomes must still be ensured.\n\n**EX:** Excursions are courses that take place outside the TU premises\nVienna. They serve to deepen the teaching content in the respective local area\nContext.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**LU:** Laboratory exercises are courses in which students attend individually or in groups\nGroups solve experimental tasks under the guidance of supervisors\nthe handling of equipment and materials as well as the experimental methodology\nto learn subject. The experimental facilities and workplaces become\nprovided.\n\n**PR:** Projects are courses in which the understanding of sub-areas of a\nSubject by solving concrete experimental, numerical, theoretical\nor artistic tasks are deepened and supplemented. Projects are oriented\non the qualification profile of the course and supplement the previous professional training or\nscientific training.\n\n**SE:** Seminars are courses in which students have to deal with a question\nDeal with a topic or project and use scientific methods\nedit, with a reflection on problem solving as well as a scientific\nDiscourse is required.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**UE:** Exercises are courses in which concrete tasks - for example computational, constructive, artistic or experimental - are to be worked on\n\n\n15",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "are. The skills and abilities are developed under professional guidance or supervision\nStudents' skills for application to specific tasks\ndeveloped.\n\n**VU:** Lectures with integrated exercises are courses in which the two\nCourse types VO and UE can be combined in a single course. The respective exercise and lecture portion may be a quarter of that\nThe scope of the entire courses should not be less than this. In the case of the VU course type, the exercise part is part of the examination and the lecture part is\ncan be examined in one examination file or as part of the examination. Inadmissible\nis therefore to combine the exercise part and the lecture part in one\nto check the examination process.\n\n##### **Description of courses and examinations in** **Information system for studies and teaching**\n\n\n\n\n- Type of course (VO, EX, LU, PR, SE, UE, VU)\n\n\n\n\n- Form (presence, online, hybrid, blended)\n\n\n\n\n- Dates (if applicable, also the attendance required for successful completion)",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Form (presence, online, hybrid, blended)\n\n\n\n\n- Dates (if applicable, also the attendance required for successful completion)\n\n\n\n\n- Content (description of content, previous knowledge)\n\n\n\n\n- Literature references\n\n\n\n\n- Learning outcomes (comprehensive description of learning outcomes)\n\n\n\n\n- Methods (description of the methods in coordination with learning outcomes and\nproof of performance)\n\n\n\n\n- Proof of performance (in coordination with learning outcomes and methods)\n\n\n\n\n**–** Identification of partial services, including identification of which partial services\nare repeatable. This point does not apply to type VO.\n\n  - Exams:\n\n**–** Contents (description of contents, literature references)\n\n**–** Form (presence, online)\n\n**–** Exam type or mode\n\n∗Type VO: written, oral or written and oral;\n∗ for all other types: identification of partial services including type and\nMode referring to the intended in the course\nLearning outcomes.\n\n**–** Dates",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**–** Dates\n\n**–** Assessment criteria and assessment standards\n\n#### **§ 7 Examination regulations**\n\nThe positive completion of the master's degree requires:\n\n\n16",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "1. the positive completion of the modules prescribed in the study plan, whereby\nA module is considered to have been successfully completed if it is completed in accordance with the module description\nThe courses to be attributed were completed positively, as well as the positive ones\nCompletion of the course _Seminar for diploma students_,\n\n2. the writing of a positively assessed diploma thesis and",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "2. the writing of a positively assessed diploma thesis and\n\n3. positive completion of the final examination before a committee. This takes place\nOrally before an examination senate in accordance with § 13 and § 19 of the _Study Law_\n_Provisions of the statutes of the Vienna University of Technology_ and serves the presentation and defense of the diploma thesis and proof of mastery\nof the scientific environment. The main focus is on understanding and overview knowledge. The registration requirements for the commission\nFinal examination in accordance with Section 17 (1) of the _Study Law Provisions of the Statutes_\n_of the Vienna University of Technology_ are fulfilled if points 1 and 2 are achieved\nare.\n\nThe graduation certificate includes\n\n(a) the examination subjects with their respective scope in ECTS points and their\ngrades,\n\n(b) the topic and grade of the diploma thesis,\n\n(c) the grade of the final examination before a committee,\n\n(d) the overall assessment as well",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "(b) the topic and grade of the diploma thesis,\n\n(c) the grade of the final examination before a committee,\n\n(d) the overall assessment as well\n\n(e) at the student's request, the overall grade of the completed course of study\n§72a UG.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The grade for the examination subject “Diploma Thesis” results from the grade for the Diploma Thesis.\nThe grade of each other examination subject is determined by averaging the grades of that subject\nCourses that can be assigned to the examination subject via the modules it contains, with the grades being weighted based on the ECTS amount of the courses\nbecome. If there is a decimal part less than or equal to 0.5, it will be rounded down, otherwise it will be\nrounded up. If none of the examination subjects is worse than “good” and at least the\nHalf was graded “very good”, the overall rating was “with distinction”.\npassed” and otherwise “passed”.\nCourses of the type VO (lecture) are based on a final\nassessed in an oral and/or written examination. All other courses\nhave an immanent examination character, i.e. the assessment is carried out on an ongoing basis\nan accompanying success control and optionally an additional final one\nPartial exam.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "an accompanying success control and optionally an additional final one\nPartial exam.\nThe positive success of exams and scientific and artistic work\nis with “very good” (1), “good” (2), “satisfactory” (3) or “sufficient” (4), the negative\nSuccess should be assessed as “not sufficient” (5). In courses where",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "17",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "If an assessment in the form mentioned above is not possible, these are indicated by “with\nParticipated successfully” (E) or “participated without success” (O).\n\n#### **§ 8 Studyability and Mobility**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Students on the _Business Informatics_ master's program should be able to complete their studies in the time allotted with reasonable effort.\nThe assessment and attendance modalities for courses of the types UE, LU, PR, VU, SE and EX are included in the teaching agreements\nthe study law body and in the information system for studies and\nTeaching announced. Regarding the repeatability of partial services, the following applies\nthe study law provisions of the statutes are referred to.\nThe recognition of study achievements completed abroad is carried out by the\nStudy law body. To facilitate mobility, the provisions in Section 27 Paragraphs 1 to 3 are provided\nthe _Study Law Provisions_ of the statutes of the Vienna University of Technology\nthe options listed are available. These provisions may apply in individual cases\ncan also be used to improve studyability.\nThe ECTS achieved during mobility can be used to complete the",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "can also be used to improve studyability.\nThe ECTS achieved during mobility can be used to complete the\nThe transferable skills required in the “Free Elective Subjects and Transferable Skills” module\nto cover the appropriate extent. In particular, you can also join the topic pool\nTechnology assessment, technology genesis, scientific ethics, gender mainstreaming\nand diversity management.\nIs it necessary to limit the number of participants in a course?\nand can this lead to delays in study time, are in accordance with UG § 58 Paragraph 8\nthe number of places and the allocation modalities in the study plan in each case\nModule description noted.\nThis occurs in a course without an explicitly regulated allocation of places\nIn the event of unforeseen rush, the course management can do so in consultation with the\nthe study law body imposes participation restrictions. Students who\nMaster's program _Business Informatics_ are admitted and for which non-participation",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Master's program _Business Informatics_ are admitted and for which non-participation\ncould lead to a delay in the study time will be included in any case. The\nAny remaining places will be allocated according to the following criteria (in descending order).\npriority).",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Preference will be given to those students who meet the formal and content-related requirements. The content requirements can be about:\nChecked by exams already taken or by an entrance test\nbecome.\n\n  - Among these, the use of the course as a compulsory subject has priority\nbefore using it as an elective subject and this before using it as an optional subject.\n\n  - Within these three groups, preference should be given to those students who:\ndespite meeting all the requirements in an earlier semester\nwere rejected.\n\n\n18",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The students must be informed about this as soon as possible.\n\n#### **§ 9 Diploma thesis**\n\nThe diploma thesis is an artistic-scientific work that demonstrates the\nThe ability to independently approach a topic in a way that is justifiable in terms of content and method\nedit. The student can freely choose the topic of the diploma thesis\nand must be consistent with the qualification profile.\nThe examination subject _diploma thesis_ comprises 30 ECTS points and consists of the scientific work (diploma thesis), which is valued at 27 ECTS points\nthe final board examination worth 1.5 ECTS points and one\n“Seminar for diploma students” worth 1.5 ECTS points.\n\n#### **§ 10 Academic degree**\n\nGraduates of the Master's program _Business Informatics_ are awarded the academic\nDegree “Diplom-Ingenieur”/“Diplom-Ingenieurin” – abbreviated “Dipl.-Ing.” or “DI” (internationally comparable to “Master of Science”) – awarded.\n\n#### **§ 11 Quality management**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 19,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 11 Quality management**\n\nThe quality management of the Master's program _Business Informatics_ ensures that\nthe studies are consistent with regard to the study-related quality goals of the TU Vienna\nis designed and carried out efficiently and effectively and is regularly reviewed. This\nQuality management of the studies is carried out according to the Plan-Do-Check-Act model\naccording to standardized processes and is designed to be target group-oriented. The target groups\nWithin the university, quality management is carried out by the students and the teachers\nas well as externally the society, the economy and the administration, including the\nlabor market for graduates.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 19,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Considering the defined target groups, six goals are set for the quality of the\nStudies at the Vienna University of Technology determined: (1) With regard to quality\nand the timeliness of the curriculum ensures the relevance of the qualification profile for society and the labor market. With regard to the quality of the content\nThe implementation of the study plan is (2) the learning outcomes in the modules of the study plan\nsuitably designed to implement the qualification profile, (3) the learning activities and\n-methods chosen appropriately to achieve the learning outcomes, and (4) the evidence of performance appropriate to verify the achievement of the learning outcomes. (5) In view\nThe framework conditions are in place to ensure that the study plans can be studied\nto ensure. (6) With regard to teachability, the teaching staff has\ntechnical and time resources to ensure high-quality teaching.\n\n\n19",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 19,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "In order to ensure the quality of the studies, progress in planning,\nDevelopment and assurance of all six quality goals collected and published separately. The\nQuality assurance checks whether the six quality goals are achieved. To measure the\nThe first and second quality goals are determined by the study commission at least once per year\nA review of the qualification profile and module descriptions was carried out during the period of office. To check the quality goals two to five, the ongoing one provides\nEvaluation by students, as well as individual feedback on study operations to the study law body, an ongoing overall picture of the process\nof the study plan. The ongoing review also serves to identify critical ones\nCourses for which suitable adaptation measures are required in coordination between the study law body, the study committee and the course instructor\nderived and implemented. The sixth quality goal is achieved through quality assurance",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 20,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "derived and implemented. The sixth quality goal is achieved through quality assurance\nHuman resources instruments covered. In addition to internal quality assurance\nAn external evaluation of the studies is carried out every seven years.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 20,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Each module has a module manager. This person is responsible for the coherence of content and the quality of the courses assigned to the module\nresponsible. This is achieved in particular through cyclical controls, fine-tuning of content with previous and subsequent modules and through comparison with\nAnalogue courses or modules from other universities at home and abroad\nensured.\n\n##### **Course capacities**\n\nIn order to ensure the quality of the implementation of the courses, the following group sizes are used for the different types of courses (see page 15).\nas a guideline:\n\nGroup size\nCourse type per leader per tutor\n\nVO 100\nUE with tutors 30 15\nUE 15\nLU with tutors 20 8\nLU8\nEX, PR, SE 10\n\nFor courses of the VU type, the lecture or exercise part is:\nGroup sizes for VO or UE are used. The teaching staff is appointed\naccording to the actual event.\n\n##### **Gender, Ethics and Diversity**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 20,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Gender, Ethics and Diversity**\n\n**Context**: To create teaching and learning environments in which all students –\nregardless of gender, origin, abilities or social background - the same\n\n20",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 20,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "to be valued, encouraged and demanded is inclusive teaching based on\ndiversity-sensitive didactics required. This cannot be covered in separate courses, but must be implemented at all levels of the course\n– as “Embedded Gender, Ethics and Diversity”.\nThis includes embedding ethical and social topics in the curriculum,\nas well as the discussion of these topics in every course. Leave it like that\ncreate framework conditions that enable a non-discriminatory learning environment.\nThis also includes measures against discrimination and harassment, for example\nexplicit codes of conduct.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Course Content**: Inclusivity and diversity are promoted by including different perspectives across a broad spectrum in all courses\nfrom authors and role models. The ethical reflection of core areas\nis embedded in all courses by addressing and taking it into account in lectures and practical examples, for example by discussing ethical aspects\nand social impacts. In addition, reference is made to the offer from the Department of Gender Competence at the TU Vienna, which is available for completing an additional catalogue\nCertificate _Gender and Diversity Competence_ is issued.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Teaching methods** : The teaching methods promote gender inclusivity and diversity and\ncreate a learning environment in which all students feel equally welcome.\nThis includes, among other things, the use of inclusive, non-judgmental language,\nto avoid reinforcing stereotypes; Teaching materials with examples, case studies or visual aids that reflect our diverse society; the\nHolding the teaching in a form that is suitable for people with different abilities\nis suitable and ensures equal participation; as well as the integration\nby guest speakers with different backgrounds.\n\n#### **§ 12 Entry into force**\n\nThis study plan comes into force on October 1, 2025.\n\n#### **§ 13 Transitional provisions**\n\nThe transitional provisions can be found in Appendix B.\n\n\n21",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **A Module descriptions**\n\nThe courses assigned to the modules are listed in the following form:\n9.9/9.9 XX Title of the course\nThe first number indicates the scope of the course in ECTS points\nand the second its scope in semester hours. ECTS points are a measure of the\nThe workload of the students, with one academic year comprising 60 ECTS points\nand one ECTS point corresponds to 25 hours of 60 minutes each. One semester hour\ncorresponds to as many teaching units as the semester contains teaching weeks.\nA lesson lasts 45 minutes. The type of course (XX) is in\n§ 6 under _Course types_ on page 15 explained in detail.\n\n##### **DA/FD – Data Analytics Foundation**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- Use data analysis processes to gain insights from large amounts of data\nextract companies,\n\n- Data warehousing and data mining to support decision making\ninsert,",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 22,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Data warehousing and data mining to support decision making\ninsert,\n\n- the basics of data warehouse architectures and data mining techniques\napply,\n\n- explain the architecture options, components and processes when building business intelligence systems,\n\n- explain the differences between OLTP databases and OLAP systems and\ndevelop appropriate solutions accordingly,\n\n\n\n\n- Address business problems using data-driven analysis, and\n\n\n\n\n- select and apply appropriate data mining algorithms and techniques.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can analyze complex settings and derive a suitable process\nto work on them in teams.\n\n**Content:**\n\n\n\n\n- Business intelligence reference architecture\n\n\n\n\n- OLAP (multidimensionality)\n\n\n\n\n- semantic modeling of OLAP solutions\n\n\n\n\n- logical modeling (STAR, SNOWFLAKE)\n\n\n\n\n- ETL process\n\n\n\n\n- Data mining - knowledge discovery in databases\n\n\n\n\n- Data preprocessing\n\n\n\n22",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 22,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- predictive and descriptive rules (classification, clustering)\n\n  - Evaluation of data mining results\n\n\n**Expected previous knowledge:** Basics in probability theory and statistics\nand statistical computing.\nThese requirements are taught in the following Bachelor modules: STW/ADM –\nAlgebra and discrete mathematics, STW/ANA – analysis, STW/DAT – data analysis,\nSTW/STA – Statistics and Probability Theory;\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0 VU Business Intelligence\n\n##### **DA/COR – Data Analytics Core**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 23,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- explain theoretical concepts of important methods for dimensionality reduction and methods for linear and nonlinear regression and classification and\napply,\n\n- Strengths and limitations of the various statistical methods, tools and\ndifferentiate their application to real data,\n\n- conceptual knowledge of visualization methods, concepts and techniques\napply,\n\n\n\n\n- Critically evaluate visualization concepts and techniques,\n\n\n\n\n- the quality of visual representations, interactions and analytical methods\nevaluate,\n\n\n\n\n- apply the mathematical understanding of the methods to real data,\n\n\n\n\n- select appropriate method based on data requirements,\n\n\n\n\n- Solutions using programming languages widely used in data science\nare, implement,\n\n\n\n\n- Recommend open source solutions for analyzing complex data.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 23,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Recommend open source solutions for analyzing complex data.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n  - formulate a problem and its solution space in such a way that it can be solved using data science approaches, and\n\n\n23",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 23,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- identify data-oriented solutions to complex statistical problems,\n\n\n\n\n- prepare poorly structured problems and work on them analytically,\n\n\n\n\n- work in teams to analyze complex data, and\n\n\n\n\n- Communicate visualization solutions.\n\n\n\n**Content:**\n\n\n\n\n- Visualization of multivariate data\n\n\n\n\n- Extension from univariate to multivariate statistical concepts\n\n\n\n\n- theoretical background on multivariate statistical methods\n\n\n\n\n- Formula-based approach for the statistical models\n\n\n\n\n- theoretical and sample-based approaches for multivariate statistical\nMethods\n\n- Key features of linear and nonlinear regression and classification methods\n\n\n\n\n- the data science program ecosystem\n\n\n\n\n- Introduction to statistical data analysis using modern computer methods\n\n\n\n\n- Application of statistical models and tests\n\n\n\n\n- Apply all methods to case study data\n\n\n\n\n- Interpretation of results in context\n\n\n\n\n- Introduction to visualization\n\n\n\n\n- Basics of perception and cognition",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Interpretation of results in context\n\n\n\n\n- Introduction to visualization\n\n\n\n\n- Basics of perception and cognition\n\n\n\n\n- visual coding principles\n\n\n\n\n- multivariate data visualization\n\n\n\n\n- time-oriented data visualization\n\n\n\n\n- Geodata visualization\n\n\n\n\n- Hierarchy and network data visualization\n\n\n\n**Expected prior knowledge:** Basic knowledge of probability theory and statistics.\nAlso basic knowledge and experience with statistical software. Basics of the\nComputer science and programming.\nThese requirements are taught in the following Bachelor modules: STW/ADM –\nAlgebra and discrete mathematics, STW/ANA – analysis, STW/DAT – data analysis,\nINT/PRO – Introduction to Programming, STW/STA – Statistics and Probability Theory;\n\n**Mandatory requirements:** None.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nAll VO and VU courses in the module include lectures in an oral format\nor written examination. VU courses include in addition to the\nLectures Exercises, UE and PR courses only contain exercises. The exercises will be\nprepared at home and, if necessary, presented during practice sessions. Exercises\nare graded individually but may also include group activities.\n\n\n24",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0 VU Experiment Design and Execution\n4.5/3.0 VO Multivariate Statistics\n1.5/1.0 UE Multivariate Statistics\n\n##### **DA/EXT – Data Analytics Extension**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen or\nBroadening knowledge, skills and competencies in the area of data analytics.\n\n**Expected previous knowledge:** Individual courses in this module should\nare available for choice and require previous knowledge, these are defined in the course announcement.\n\n**Mandatory requirements:** Completed by the end of the course: DA/COR – Data\nAnalytics Core",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 25,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Mandatory requirements:** Completed by the end of the course: DA/COR – Data\nAnalytics Core\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:** The following courses are available:\n3.0/2.0 VU Advanced Information Retrieval\n6.0/4.0 VU AI Programming\n6.0/4.0 VU Algorithmic Geometry\n6.0/4.0 VU Algorithmic Social Choice\n6.0/4.0 VU Algorithmics\n3.0/2.0 VU Applied Deep Learning\n4.5/3.0 VU Computational Statistics\n3.0/2.0 VU Data Acquisition and Survey Methods\n3.0/2.0 UE Data Stewardship\n3.0/2.0 VO Data Stewardship\n3.0/2.0 VU Data-intensive computing\n6.0/4.0 VU Database Theory\n6.0/4.0 VU Deep Learning for Visual Computing\n6.0/4.0 VU Generative AI\n4.5/3.0 VU Intelligent Audio and Music Analysis\n\n\n6.0/4.0 VU Information Visualization\n_or_",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 25,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6.0/4.0 VU Information Visualization\n_or_\n\n\n25",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 25,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "1.5/1.0 UE Information Visualization\n\n\n6.0/4.0 VU Logic-based AI\n\n\n4.5/3.0 VU Machine Learning\n_or_\n6.0/4.0 VU Machine Learning\n_or_\n6.0/4.0 VU Machine Learning for Visual Computing\n\n\n6.0/4.0 VU Mathematical Programming and Optimization in Transport Logistics\n3.0/2.0 VU Model-based Decision Support\n3.0/2.0 VO Nonlinear Programming\n2.0/1.0 UE Nonlinear Programming\n6.0/4.0 VU Problem Solving and Search in Artificial Intelligence\n6.0/4.0 VU Processing of Declarative Knowledge\n6.0/4.0 VU Similarity Modeling\n4.5/3.0 VU Self-Organizing Systems\n3.0/2.0 VU Security, Privacy and Explainability in Machine Learning\n3.0/2.0 VU Visual Data Science\n6.0/4.0 VU Visualization\n\n##### **EE/FD – Enterprise Engineering Foundation**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- understand the purpose of an enterprise architecture and the corresponding company-wide system development,",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 26,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- understand the purpose of an enterprise architecture and the corresponding company-wide system development,\n\n\n\n\n- identify and evaluate relevant aspects of an enterprise architecture,\n\n\n\n\n- suitable modeling concepts to describe an enterprise architecture\nselect,\n\n- apply appropriate concepts and methods to describe a corporate architecture using suitable models,\n\n- create an appropriate enterprise architecture from a textual requirements document,\n\n\n\n\n- Analyze and criticize corporate architectures,\n\n\n\n\n- evaluate the advantages and disadvantages of alternative enterprise architectures,\n\n\n\n\n- Design/elaborate business processes as identified in an enterprise architecture,\n\n\n\n\n- simulate and optimize business processes,\n\n\n\n\n- Model business processes based on textual descriptions,\n\n\n\n26",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 26,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Analyze and criticize business process models,\n\n- the advantages and disadvantages of alternative process models and their implementation\nevaluate work processes,\n\n- Map business processes and associated business rules to various business processing platforms (e.g. workflow engines, business rules engines and low-code platforms).\n\n- Transform business processes and associated business rules across different business execution platforms (e.g. workflow engines, business rules engines and low-code platforms).\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n\n\n- independently describe selected aspects of a corporate architecture,\n\n\n\n\n- communicate the designed corporate architecture to others,\n\n\n\n\n- develop an enterprise architecture in small teams,\n\n\n\n\n- model business processes (and associated business rules) independently,\n\n\n\n\n- Communicate and discuss business process models,",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 27,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- model business processes (and associated business rules) independently,\n\n\n\n\n- Communicate and discuss business process models,\n\n\n\n\n- Transform business processes (and associated business rules) for different business execution platforms.\n\n\n\n**Content:**\n\n\n\n\n- Methods and frameworks for enterprise architecture.\n\n\n\n\n- Levels of enterprise architecture.\n\n- Analysis of the enterprise architecture.\n\n\n\n\n- Methods and frameworks of business process management.\n\n\n\n\n- Modeling languages ​​for business processes.\n\n\n\n\n- Languages ​​for business rules.\n\n\n\n\n- Simulation and verification of business processes\n\n\n\n\n- Overview of relevant execution platforms (such as workflow engines,\nBusiness rules engines and low-code platforms).\n\n- Automating business processes (and associated business rules) using\nof business processing platforms.\n\n\n\n**Expected previous knowledge:** None.\n\n**Mandatory requirements:** None.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 27,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Expected previous knowledge:** None.\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0 VU Enterprise & Process Engineering\n\n\n27",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 27,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **EE/COR – Enterprise Engineering Core**\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- Apply e-marketing methods,\n\n\n\n\n- implement technical measures to protect privacy,\n\n\n\n\n- Support commercial transactions using blockchains,\n\n\n\n\n- Use auctions for optimal pricing,\n\n\n\n\n- analyze and evaluate the potential of e-commerce activities,\n\n\n\n\n- Identify threats to privacy and take protective measures,\n\n\n\n\n- Apply innovation management concepts to turn an idea into a possible one\ndevelop business model,\n\n\n\n\n- carry out a market analysis for a business model,\n\n\n\n\n- adapt a business model based on the market situation,\n\n\n\n\n- analyze and criticize business models,\n\n\n\n\n- assess the market entry potential for a business idea,\n\n\n\n\n- Identify use cases where personalization is useful for businesses,\n\n- select the appropriate method for a specific case of a recommendation service,",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 28,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- select the appropriate method for a specific case of a recommendation service,\n\n- theoretical concepts and methods applied to practical social tasks\napply network analysis,\n\n\n\n\n- model networked data.\n\n\n\n\n- Implement and evaluate personalization methods and recommender services\nand criticize,\n\n- theoretical concepts and methods applied to practical social tasks\napply network analysis,\n\n\n\n\n- analyze networked data, and\n\n\n\n\n- classify the results of a social network analysis and draw corresponding conclusions\ndrag for further actions.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n\n\n- Possible uses of e-commerce activities in a given environment\nrecognize and formulate independently,\n\n- Violations of privacy and violations of ethics through digital actions\nrecognize and criticize,\n\n\n\n\n- communicate the core of a business idea,\n\n\n\n\n- communicate and market a business model to target groups,",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 28,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- communicate the core of a business idea,\n\n\n\n\n- communicate and market a business model to target groups,\n\n\n\n\n- define goals and possible ones as part of the development of a recommender service\nCommunicate approaches, and\n\n\n\n28",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 28,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Interpret and communicate the results of a social network analysis.\n\n\n**Content:**\n\n\n\n\n- Personalization\n\n\n\n\n- E-marketing\n\n\n\n\n- Auctions\n\n\n\n\n- Ethics and privacy\n\n\n\n\n- Blockchains to support commercial transactions\n\n\n\n\n- Cryptocurrencies\n\n\n\n\n- Invention vs. innovation vs. imitation\n\n\n\n\n- Innovation management\n\n\n\n\n- Business model development\n\n\n\n\n- Lean start-up approach\n\n\n\n\n- Market analysis\n\n\n\n\n- non-personalized recommendations\n\n\n\n\n- content-based recommendations\n\n\n\n\n- collaborative filtering\n\n\n\n\n- Evaluation of recommendations\n\n\n\n\n- Concepts of network theory\n\n\n\n\n- Groups and communities\n\n\n\n\n- Diffusion process in networks\n\n\n\n\n- Network models\n\n\n\n**Expected prior knowledge:** Basic knowledge of linear algebra, analysis, statistics,\nand probability calculation.\nThese requirements are taught in the following Bachelor modules: STW/ADM –\nAlgebra and discrete mathematics, STW/ANA – Analysis, STW/STA – Statistics and\nprobability theory;\n\n**Mandatory requirements:** None.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 29,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n3.0/2.0 VU Ecommerce\n3.0/2.0 VU Innovation\n6.0/4.0 VU Recommender Systems and User Modeling\n\n##### **EE/EXT – Enterprise Engineering Extension**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen or\n\n\n29",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 29,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Broadening knowledge, skills and competencies in the enterprise sector\nEngineering.\n\n**Expected previous knowledge:** Individual courses in this module should\nare available for choice and require previous knowledge, these are defined in the course announcement.\n\n**Mandatory requirements:** Completed by the end of the course: EE/COR – Enterprise Engineering Core\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 30,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:** The following courses are available:\n6.0/4.0 VU Advanced Aspects of IT Law\n3.0/2.0 SE Advanced Topics in Recommender Systems and Generative AI\n6.0/4.0 VU Beyond the Desktop: from concepts to implementation\n3.0/2.0 VU Digital Humanism\n3.0/2.0 PR E-Marketing\n3.0/2.0 VO E-Marketing\n2.0/2.0 UE Industrial Data Science\n3.0/2.0 VU Information Search on the Internet\n6.0/4.0 VU Introduction to Computational Sustainability\n3.0/2.0 VU IT governance\n3.0/2.0 VO Knowledge Management 4.0\n3.0/2.0 VU Management of Software Projects\n3.0/2.0 VU Optimization in Transport and Logistics\n6.0/4.0 VU Mathematical Programming and Optimization in Transport Logistics\n6.0/4.0 VU Theory of Graph Data\n4.5/3.0 VU Self-Organizing Systems\n3.0/2.0 VU Semi-Automatic Information and Knowledge Systems\n3.0/2.0 VU Social Media\n3.0/2.0 VU Web Application Engineering & Content Management\n\n##### **EM/FD – Economic Modeling Foundation**\n\n\n**Standard workload:** 6.0 ECTS",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 30,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **EM/FD – Economic Modeling Foundation**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n  - describe the concepts and techniques listed under “Content” using subject-specific terminology,\n\n  - between suitable methods for analytical and prediction questions\nselect,\n\n\n30",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 30,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- work with different data sets and questions,\n\n- deal with computer programs that support the application of the described\neconometric methods enable\n\n- the complexity of different economic and socio-economic systems\nand assess processes,\n\n- the suitability of different simulation methods for illustration, explanation and\nassess simulation of such systems,\n\n- apply different simulation techniques to simple socio-economic\nto examine systems, and\n\n- create simple models of socioeconomic systems with heterogeneous agents,\nsimulate and evaluate.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n\n\n- solve assigned tasks independently and on time,\n\n\n\n\n- communicate and justify the solutions created, and\n\n\n\n\n- develop simple simulations and models in small groups.\n\n\n\n**Content:**\n\n\n\n\n- Basic principles of econometric methods (simple and multiple linear regression models)\n\n\n\n\n- Properties of the least squares method",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Basic principles of econometric methods (simple and multiple linear regression models)\n\n\n\n\n- Properties of the least squares method\n\n\n\n\n- Forecasting in linear regression models\n\n\n\n\n- Evaluation of different methods\n\n\n\n\n- econometric software\n\n\n\n\n- Introduction to the simulation of social and socio-economic systems\n\n\n\n\n- Overview of different methods of computational social simulation\n\n\n\n\n- Basics of the system dynamics simulation approach (SD)\n\n\n\n\n- Basics of different bottom-up simulation techniques\n\n\n\n\n- Introduction to agent-based modeling (ABM)\n\n\n\n\n- Introduction to social network analysis in connection with computer simulations\n\n\n\n\n- Introduction to simple agent-based computer simulation software",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Introduction to simple agent-based computer simulation software\n\n\n\n**Expected prior knowledge:** Basic knowledge of linear algebra, analysis, statistics\n(estimation theory, testing), probability calculation (random variables and distributions),\nand basics of programming.\nThese requirements are taught in the following Bachelor modules: STW/ADM –\nAlgebra and Discrete Mathematics, STW/ANA – Analysis, INT/PRO – Introduction to\nprogramming, STW/STA – statistics and probability theory;\n\n\n31",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n3.0/2.0 VU Computational Social Simulation\n3.0/2.0 VU Econometrics for Business Informatics\n\n##### **EM/COR – Economic Modeling Core**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- describe the concepts and techniques listed under “Content” using subject-specific terminology,\n\n- use selected methods of model-based decision support,\n\n- assess the possible uses of model-based decision support in organizations,\n\n- based on a current macroeconomic model, numerical simulations\ncarry out,",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 32,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- based on a current macroeconomic model, numerical simulations\ncarry out,\n\n- compare the results of these simulations with the theoretical model predictions,\n\n\n\n\n- interpret these results economically,\n\n\n\n\n- the impact of international integration on income, employment and\nassess distribution,\n\n\n\n\n- assess the complexity of international economic problems,\n\n\n\n\n- compare the effects of trade policy measures,\n\n\n\n\n- the main results of the models used in applied research\ninterpret,\n\n- formulate quantifiable modeling questions for a given practical problem,\n\n- a conceptual model for such a question based on selected ones\ncreate modeling concepts,\n\n- implement such a model in simulation software and specify it\nSimulate model parameters, and\n\n- Document simulation studies completely and reproducibly, visualize model results sensibly and determine their dependence on model parameters\nanalyze.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n32",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 32,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- solve assigned tasks independently and on time,\n\n\n\n\n- communicate and justify the solutions created, and\n\n\n\n\n- develop simple simulations and models in small groups.\n\n\n\n**Content:**\n\n\n\n\n- Decision analysis\n\n\n\n\n- model-based decision support\n\n\n\n\n- Optimization models, productivity and efficiency measurement\n\n\n\n\n- Queuing models, network planning and graph theory models\n\n\n\n\n- intertemporal and stochastic optimization\n\n\n\n\n- Basics of dynamic macroeconomic models\n\n\n\n\n- Relaxation algorithm for solving continuous-time deterministic macroeconomic models\n\n- Use of the relaxation algorithm in Matlab to create macroeconomic models\nunderstand and quantify\n\n\n\n\n- Introduction to international trade theory and policy\n\n\n\n\n- Labor productivity and comparative advantage, specific factors and income distribution\n\n- Resources and Trade, Standard Trading Model, Economies of Scale, Incomplete\nCompetition and international trade",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 33,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Resources and Trade, Standard Trading Model, Economies of Scale, Incomplete\nCompetition and international trade\n\n- Instruments of trade policy, political economy of trade policy, trade policy in developing countries, controversies of trade policy\n\n- Introduction to modeling and simulation studies, starting with the formulation of the research question through to the evaluation of the results\n\n- Presentation of various modeling paradigms with regard to time, system variables, scale and the importance of random elements\n\n- Introduction to selected modeling methods with a focus on deterministic models: system dynamics, network models, difference equations\n\n- Introduction to selected simulation tools such as MATLAB/Simulink, AnyLogic, and others (e.g.: SimEvents)",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 33,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Introduction to selected simulation tools such as MATLAB/Simulink, AnyLogic, and others (e.g.: SimEvents)\n\n\n\n**Expected prior knowledge:** Basic knowledge of linear algebra, analysis, statistics,\nProbability calculation, basic knowledge of programming and algorithms\nand data structures, computer simulation and basics of macroeconomics.\nThese requirements are covered in the module EM/FD – Economic Modeling Foundation\nas well as in the Bachelor modules WIW/GOE – Fundamentals of Economics, INT/ADA –\nAlgorithms and data structures, STW/ADM – algebra and discrete mathematics,\nSTW/ANA – Analysis, INT/PRO – Introduction to programming, STW/STA –\nStatistics and probability theory are taught.\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\n\n\n33",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 33,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Examination modalities.\n\n**Courses of the module:**\n3.0/2.0 VU AKVWL Computational Economics\n3.0/2.0 VO International Trade Theory and Policy\n3.0/2.0 VU Model-based Decision Support\n3.0/2.0 VU Modeling and Simulation\n\n##### **EM/EXT – Economic Modeling Extension**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen or\nBroadening knowledge, skills and competencies in the field of economics\nModeling.\n\n**Expected previous knowledge:** Individual courses in this module should\nare available for choice and require previous knowledge, these are defined in the course announcement.\n\n**Mandatory requirements:** Completed by the end of the course: EM/COR – Economic Modeling Core",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 34,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Mandatory requirements:** Completed by the end of the course: EM/COR – Economic Modeling Core\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 34,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:** The following courses are available:\n3.0/2.0 VU Advanced Modeling and Simulation\n4.0/3.0 VU Complex Systems I - Foundations, concepts, and phenomena (offered\nat the Medical University of Vienna)\n4.0/3.0 VU Complex Systems II: Applications (offered at the Medical University of Vienna)\n1.5/1.0 UE Dynamic Macroeconomics\n3.0/2.0 VO Dynamic Macroeconomics\n3.0/2.0 SE AKVWL Environmental and Population Economics\n3.0/2.0 VO AKVWL Environmental and Population Economics\n1.5/1.0 UE Game Theoretical Modeling\n3.0/2.0 VO Game Theoretical Modeling\n1.5/1.0 UE AKOR Graph-theoretical Methods in Operations Research\n3.0/2.0 VO AKOR Graph-theoretical Methods in Operations Research\n\n\n34",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 34,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Free Electives and Transferable Skills**\n\n**Standard workload:** 9.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen the\nsubject as well as the acquisition of non-disciplinary knowledge, skills and competencies.\n_Expertise:_\n_Interdisciplinary skills:_\n\n**Mandatory requirements:** Depending on the courses selected.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 35,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses in the module:** The courses in this module are free\nfrom the range of scientific and artistic courses offered by the\nDeepening of the subject or the acquisition of non-disciplinary knowledge, skills and\nCompetencies are selected from all recognized domestic and foreign post-secondary educational institutions, with the restriction that at least 4.5 ECTS are required\nthe subject areas of transferable skills must be chosen. For the subject areas of\nTransferable skills are, in particular, courses from the elective catalog\n“Transferable Skills” from the Faculty of Computer Science (Appendix D) and from the central\nTU Wien elective catalog recommended for “transferable skills”.\n\n##### **ISE/FD – Information Systems Engineering Foundation**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 35,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- describe the concepts, techniques and methods listed under “Content” using subject-specific terminology,\n\n- model-driven software development or information system development\napply practical tasks,\n\n- Develop modeling languages and the required tool environment based on the OMG metamodeling stack,\n\n- Evaluate transformation languages and use them vertically, horizontally and temporally\nUse model transformation,\n\n\n\n\n- evaluate and use textual and graphic modeling languages in a targeted manner,\n\n\n\n\n- assess language architectures, including UML as an example,\n\n\n\n\n- Use extension mechanisms of languages, including UML profiles,\n\n\n\n\n- Constraint languages, including OCL, for specifying additional restrictions\nuse modeling languages,\n\n\n\n35",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 35,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Implement code generators, and\n\n  - Tasks of model management, including model evolution, model versioning and\nModel storage, solve.\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n\n\n- Set tasks within the framework of model engineering in small groups on time\nsolve,\n\n\n\n\n- communicate and justify the created solutions to others, and\n\n\n\n\n- apply the concepts, techniques and methods of model engineering and\nreflect critically.\n\n\n\n**Content:**\n\n\n\n\n- Metamodeling and language architectures\n\n\n\n\n- Object Constraint Language (OCL)\n\n\n\n\n- textual and graphic modeling languages\n\n\n\n\n- Language extension mechanisms, including UML profiles\n\n\n\n\n- Model transformations (QVT, graph transformation languages)\n\n\n\n\n- ATLAS Transformation Language (ATL)\n\n\n\n\n- Code generation\n\n\n\n\n- Model management",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- ATLAS Transformation Language (ATL)\n\n\n\n\n- Code generation\n\n\n\n\n- Model management\n\n\n\n**Expected previous knowledge:** Knowledge of object-oriented programming\nIn general and programming in Java in particular, object-oriented\nModeling with UML, formal modeling (statement logic and predicate logic),\nas well as the basics of software engineering and project management.\nThese requirements are taught in the following Bachelor modules: INT/PRO –\nIntroduction to programming, WIN/SEP – Software Engineering Project,\nWIN/MOD – Modeling;\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0 VU Model Engineering\n\n##### **ISE/COR – Information Systems Engineering Core**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:**\n6.0/4.0 VU Model Engineering\n\n##### **ISE/COR – Information Systems Engineering Core**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n36",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- describe the concepts, techniques and methods listed under “Content” using subject-specific terminology,\n\n\n\n\n- Analyze evaluation plans for SQL queries,\n\n- speed up the execution of SQL queries,\n\n\n\n\n- use extensions of the relational model,\n\n\n\n\n- Use NoSQL databases (such as key-value stores),\n\n\n\n\n- apply distributed data processing techniques (such as MapReduce),\n\n\n\n\n- Design service-oriented architectures,\n\n\n\n\n- Design and develop cloud computing-based applications,\n\n\n\n\n- Design human-based computing approaches in internet-based applications,\ndevelop and use,\n\n- apply central standards and technologies of semantic systems (RDF,\nRDF-S, OWL, SPARQL),\n\n\n\n\n- Develop linked data applications, and\n\n\n\n\n- Apply ontology engineering concepts.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n\n\n- Identify the advantages and disadvantages of different database approaches,\n\n\n\n\n- a suitable database approach in a specific application context\nselect,",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 37,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- a suitable database approach in a specific application context\nselect,\n\n\n\n\n- Identify the advantages and disadvantages of different service-oriented approaches,\n\n\n\n\n- a suitable service-oriented one in a specific application context\nDesign and implement applications based on cloud computing technologies,\n\n\n\n\n- Identify the advantages and disadvantages of different semantic approaches,\n\n\n\n\n- query linked open data, describe an application area semantically,\nand transform structured data into RDF and applications based on\nDevelop linked open data.\n\n\n\n**Content:**\n\n\n\n\n- Physical data organization and indexing procedures\n\n\n\n\n- Request processing and request optimization\n\n\n\n\n- Extension of the relational model and NoSQL databases\n\n\n\n\n- distributed databases and distributed data processing techniques\n\n\n\n\n- Service-oriented computing and service-oriented architectures\n\n\n\n\n- Cloud computing, enterprise application integration and middleware",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 37,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Service-oriented computing and service-oriented architectures\n\n\n\n\n- Cloud computing, enterprise application integration and middleware\n\n\n\n\n- Web services, web service composition and workflows\n\n\n\n\n-Quality of Service\n\n\n\n\n- Human-Provided Services\n\n\n\n\n- Semantic Web Technology Stack (RDF, RDF-S, OWL, SPARQL, RIF)\n\n\n\n\n- Linked Open Data publishing\n\n\n\n\n- Ontologies and description logics\n\n\n\n37",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 37,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- OWL and Linked Open Data application development\n\n\n**Expected prior knowledge:** Knowledge of data modeling (EER models, relational model, relational algebra, relational calculus), database management systems\n(SQL, procedural database programming languages), of semi-structured systems\nas well as the programming of distributed systems.\nThese requirements are taught in the following Bachelor modules: WIN/DBS –\nDatabase systems, INT/VES – distributed systems, WIN/WEN – web engineering;\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0 VU Advanced Database Systems\n3.0/2.0 VU Advanced Internet Computing\n3.0/2.0 VU Introduction to Semantic Systems",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 38,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:**\n6.0/4.0 VU Advanced Database Systems\n3.0/2.0 VU Advanced Internet Computing\n3.0/2.0 VU Introduction to Semantic Systems\n\n##### **ISE/EXT – Information Systems Engineering Extension**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen or\nBroadening knowledge, skills and competencies in the field of information\nSystems Engineering.\n\n**Expected previous knowledge:** Individual courses in this module should\nare available for choice and require previous knowledge, these are defined in the course announcement.\n\n**Mandatory requirements:** Completed by the end of the course: ISE/COR – Information Systems Engineering Core\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 38,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:** The following courses are available:\n6.0/4.0 VU Advanced Model Engineering\n6.0/4.0 PR Advanced Software Engineering\n6.0/4.0 VU Advanced Software Engineering\n6.0/4.0 VU Algorithmics\n3.0/2.0 VU Digital Forensics\n6.0/4.0 VU Distributed Systems Technologies\n\n\n38",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 38,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6.0/4.0 VU Fixed-Parameter Algorithms and Complexity\n6.0/4.0 VU Graph Drawing Algorithms\n6.0/4.0 VU Internet of Things\n6.0/4.0 VU Knowledge Graphs\n2.0/1.0 UE Network Engineering\n2.0/2.0 VO Network Engineering\n2.0/2.0 VO Pervasive and Mobile Computing\n6.0/4.0 VU Processing of Declarative Knowledge\n3.0/2.0 VU Serverless Computing\n6.0/4.0 VU Smart Contracts\n3.0/2.0 VU Software Testing\n6.0/4.0 VU Structural Decompositions and Meta Theorems\n6.0/4.0 VU Symmetric Cryptography\n6.0/4.0 VU System and Application Security\n6.0/4.0 VU Theory of Graph Data\n\n##### **MS/FD – Management Science Foundation**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- develop and implement management information systems,\n\n\n\n\n- manage complex socio-economic systems,\n\n\n\n\n- Use methods of management processes in different areas\nto establish open and closed management systems,",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 39,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Use methods of management processes in different areas\nto establish open and closed management systems,\n\n- Use tools and instruments to control performance in the employee life cycle,\n\n\n\n\n- recognize management processes,\n\n\n\n\n- set up or modify management processes,\n\n\n\n\n- assess complex socio-economic problems,\n\n\n\n\n- critically discuss alternative or contradictory theories and concepts and\nevaluate,\n\n\n\n\n- integrate ethical aspects into business decision-making, and\n\n- Reflect on responsibility in the use of technologies and algorithms.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n  - participate constructively in working groups, and\n\n  - Apply conflict resolution strategies.\n\n\n**Content:**\n\n\n39",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 39,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Definition of management control (controlling) in the Anglo-Saxon specialist literature\n\n- Ontology-based modeling of accounting, finance and management\nControl area\n\n\n\n\n- Model-driven software development\n\n\n\n\n- Cost-Volume-Profit (CVP) management and project management under uncertainty\n\n\n\n\n- Governance Risk Compliance (GRC) IT support\n\n\n\n\n- (stochastically optimal) production planning and control\n\n\n\n\n- theoretical principles and instruments of human resources management\n\n\n\n\n- Personnel planning, recruiting and personnel selection\n\n\n\n\n- Key performance indicators and incentive systems\n\n\n\n\n- Training and development\n\n\n\n**Expected prior knowledge:** Basic knowledge of business administration and management\n(Organization, innovation and marketing, financing and accounting, as well as production and logistics).\nThese requirements are taught in the following Bachelor modules: WIW/GBW –\nBasics of business administration, WIW/MGT – management sciences;",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n3.0/2.0 VO Human Resource Management and Leadership\n3.0/2.0 VU IT-based management\n\n##### **MS/COR – Management Science Core**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- develop different methodological starting points for information systems\nevaluate,\n\n- relevant challenges, goals and limitations of future work and\nassess organizations,\n\n\n\n\n- use simple methods to describe and analyze processes,\n\n\n\n\n- support financing and investment decisions,\n\n\n\n\n- manage people and organizations,",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- use simple methods to describe and analyze processes,\n\n\n\n\n- support financing and investment decisions,\n\n\n\n\n- manage people and organizations,\n\n\n\n\n- suitable modeling systems and tools for the respective area/company\n/ select and apply process-specific problems,\n\n\n\n40",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- analyze and evaluate work tasks, processes and environments,\n\n\n\n\n- Develop and use assistance systems in production that are within organizational, personal and social expectations,\n\n\n\n\n- calculate financing information relevant to decision-making,\n\n\n\n\n- Assess the consequences of different financial decisions, and\n\n\n\n\n- Assess organizational structures and processes from different perspectives.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n\n\n- participate constructively in working groups,\n\n\n\n\n- Apply conflict resolution strategies,\n\n\n\n\n- Analyze case studies and critically evaluate ethical challenges,\n\n\n\n\n- represent ethical viewpoints objectively and discuss responsible decisions in teams, and\n\n- look at complex issues from different perspectives and ethically\nReflect on implications.\n\n\n\n**Content:**\n\n\n\n\n- Background and examples on management information systems (MIS)\n\n\n\n\n- Selection and evaluation of management information systems",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 41,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Background and examples on management information systems (MIS)\n\n\n\n\n- Selection and evaluation of management information systems\n\n\n\n\n- Design and engineering process of MIS in the context of cyber-physical production systems\n\n\n\n\n- Trends and directions of development in production\n\n\n\n\n- Overview of existing assistance systems in production and their planning,\nDesign and evaluation\n\n\n\n\n- Financing via loans, bonds and stocks\n\n\n\n\n- Financial leverage and capital structure\n\n\n\n\n- public equity financing – (first) IPO\n\n\n\n\n- Challenges of human resources management in a global, digital economic environment\n\n\n\n\n- Consequences of organizational design and leadership decisions\n\n\n\n\n- Organizational strategy, culture and change",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 41,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Consequences of organizational design and leadership decisions\n\n\n\n\n- Organizational strategy, culture and change\n\n\n\n**Expected prior knowledge:** Basic knowledge of business administration and management\n(Organization, innovation and marketing, financing and accounting, as well as production and logistics).\nThese requirements are taught in the following Bachelor modules: WIW/GBW –\nBasics of business administration, WIW/MGT – management sciences;\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n\n41",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 41,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:**\n3.0/2.0 VU Assistance Systems in Manufacturing 1\n3.0/2.0 VO Design of Information Systems for Production Management\n3.0/2.0 VU Managing People and Organizations\n3.0/2.0 VU Project and Enterprise Financing\nFor the course 3.0/2.0 VU Managing People and Organizations the\nNumber of participants for students in the Master's program _Business Informatics_ is 40\nPlaces limited. The following ranking criteria apply:\n\n1. Positive completion of the lecture 3.0/2.0 Human Resource Management and\nLeadership\n\n2. better grades from 1. are ranked first, older dates from 1. are ranked first\n\nAn increase is possible if resources are available.\n\n##### **MS/EXT – Management Science Extension**\n\n\n**Standard workload:** 12.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen or\nBroadening knowledge, skills and competencies in the field of management\nScience.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 42,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Expected previous knowledge:** Individual courses in this module should\nare available for choice and require previous knowledge, these are defined in the course announcement.\n\n**Mandatory requirements:** Completed by the end of the course: MS/COR – Management Science Core\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 42,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:** The following courses are available:\n3.0/2.0 VU Advanced Financial Planning and Control\n3.0/2.0 VU Assistance Systems in Manufacturing 2\n5.0/3.0 VU E&I Garage - Business Model Development\n3.0/2.0 VU Enterprise Risk Management (Fundamentals)\n5.0/3.0 SE Financial Management\n3.0/2.0 VU Financial Management and Reporting\n3.0/2.0 VU Innovation Theory\n3.0/2.0 VU International Negotiations\n2.0/2.0 UE Industrial Data Science\n3.0/2.0 VO Knowledge Management 4.0\n\n\n42",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 42,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "5.0/2.0 VU Organization Theory\n3.0/2.0 VU Risk-based performance management\n3.0/2.0 VU Risk Model Management\n5.0/3.0 SE Risk Management\n3.0/2.0 SE seminar paper Smart Production Systems\n3.0/2.0 VU Strategic Management\n3.0/2.0 VU Technology, Work and Organization\n\n##### **RM/FD – Research Methods**\n\n\n**Standard workload:** 3.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- distinguish and understand different orientations in business informatics research,\n\n- assess which research methods are suitable for which problems,\n\n- recognize when a research method is not suitable for a problem,\n\n- the necessary steps to carry out a particular research method\ndescribe and apply,\n\n\n\n\n- select appropriate research methods for a given problem,\n\n\n\n\n- assess the suitability of a research method for a problem,\n\n\n\n\n- analyze and criticize research methods chosen in research work,\nand",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 43,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- assess the suitability of a research method for a problem,\n\n\n\n\n- analyze and criticize research methods chosen in research work,\nand\n\n- a research method suitable for your diploma thesis is taken into account\nConfigure recognized research approaches.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n\n\n- communicate and communicate a chosen research approach to a problem\ndiscuss,\n\n\n\n\n- criticize the weak points of research approaches to a problem,\n\n\n\n\n- independently describe and discuss a research method suitable for their diploma thesis, taking recognized research approaches into account\ndefend.\n\n\n\n**Content:**\n\n\n\n\n- Introduction to the interdisciplinary research area of business informatics\n\n\n\n\n- design-oriented methods\n\n\n\n\n- empirical-quantitative methods\n\n\n\n\n- empirical-qualitative methods\n\n\n\n\n- Data-driven methods\n\n\n\n43",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 43,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- formal analytical methods\n\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n3.0/2.0 SE Research Methods\n\n\n44",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 44,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **B Transitional provisions**\n\n1. Unless otherwise stated, the _master's program_ is referred to below under studies.\n_Business Informatics (study code UE 066 926)_ understood. The term new\nStudy plan refers to this from October 1st, 2025 for this course of study at the Technical University\nUniversity of Vienna valid study plan and old study plan the one valid until then.\nAccordingly, new or old courses include those of the new one\nor old study plan (old also includes earlier study plans).\nWith a study law body, this is for the Master's program in Business Informatics\nthe responsible study law body at the Vienna University of Technology.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 45,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "2. The transitional provisions apply to students who have completed their studies\nsubmit according to the new curriculum at the Vienna University of Technology and\nwho completed their master's degree in Business Informatics at the Technical University before July 1, 2025\nUniversity of Vienna were admitted. The extent to which the transitional provisions are used is up to these students.\n\n3. At the student's request, the study law body can modify the transitional provisions individually or to those not covered by paragraph 2\nExpand students.\n\n4. Certificates for courses that are equivalent in content are not permitted\nmust be submitted for graduation at the same time. In case of doubt, decide\nthe study law body about equivalence.\n\n5. Unless otherwise specified below, certificates from old courses can in any case be used for the degree if the\nCourse taught by the student with material semester summer semester\ncompleted in 2025 or earlier.",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 45,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6. Students who completed the _Master's degree in Business Informatics_ before July 1st, 2025\nwere admitted, can instead of the prescribed courses in\nFoundation and Core modules the courses listed here alternatively\nuse:\n\n    - Module DA/COR – Data Analytics Core:\nInstead of 6.0/4.0 VU Experiment Design and Execution alternatively 3.0/2.0\nVU Data-oriented Programming Paradigms together with 3.0/2.0 VO Information Visualization\n\n    - Module EE/COR – Enterprise Engineering Core:\nInstead of 6.0/4.0 VU Recommender Systems and User Modeling alternatively\n3.0/2.0 VU Recommender Systems together with 3.0/2.0 VU Social Network\nAnalysis\n\n    - Module EE/FD – Enterprise Engineering Foundation:\nInstead of 6.0/4.0 VU Enterprise & Process Engineering alternatively 3.0/2.0\n\n\n45",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 45,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "VO Enterprise Architecture together with 3.0/2.0 UE Workflow Modeling\nand process management\n\n- Module EM/COR – Economic Modeling Core:\nInstead of 3.0/2.0 VU AKVWL Computational Economics alternatively 3.0/2.0\nVU AKVWL Dynamic Macroeconomic Modeling\n\n- Module ISE/COR – Information Systems Engineering Core:\nInstead of 3.0/2.0 VU Introduction to Semantic Systems alternatively 3.0/2.0\nVU Semantic Systems\n\n- Module MS/FD – Management Science Foundation:\nInstead of 3.0/2.0 VU IT-based management, alternatively 3.0/2.0 VU IT-based\nManagement control\n\n\n\n7. Students to whom the transitional provisions apply in accordance with paragraph 2 can\nThe following courses continue to be included in the _Extension modules_ mentioned\nuse the degree:\n\n**DA/EXT – Data Analytics Extension**\n\n4.5/3.0 VU Algorithmic Geometry\n(may not be used together with 3.0/2.0 VU Algorithmic Geometry or with 6.0/4.0 VU\nAlgorithmic Geometry can be used)",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 46,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "4.5/3.0 VU Algorithmic Geometry\n(may not be used together with 3.0/2.0 VU Algorithmic Geometry or with 6.0/4.0 VU\nAlgorithmic Geometry can be used)\n\n3.0/2.0 VU Algorithmic Geometry\n(may not be used together with 4.5/3.0 VU Algorithmic Geometry or with 6.0/4.0 VU\nAlgorithmic Geometry can be used)\n\n4.5/3.0 VU Classification and Discriminant Analysis\n\n3.0/2.0 VU Communicating Data\n\n4.5/3.0 VU Computer Statistics\n(may not be used together with 4.5/3.0 VU Computational Statistics)\n\n3.0/2.0 VU Database Theory\n(may not be used together with 6.0/4.0 VU Database Theory)\n\n3.0/2.0 VU Deep Learning for Visual Computing\n(not to be used together with 6.0/4.0 VU Deep Learning for Visual Computing)\n\n3.0/2.0 VU Experiment Design for Data Science\n(may not be used together with 6.0/4.0 VU Experiment Design and Execution\nbe)\n\n3.0/2.0 VU Generative AI\n(may not be used together with 6.0/4.0 VU Generative AI)",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 46,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VU Generative AI\n(may not be used together with 6.0/4.0 VU Generative AI)\n\n3.0/2.0 VU Information design and visualization\n(may not be used together with 1.5/1.0 UE Information Visualization)\n\n6.0/4.0 VU Knowledge-based Systems\n(may not be used together with 6.0/4.0 VU Logic-based AI)\n\n\n46",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 46,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "4.5/3.0 VU Machine Learning for Visual Computing\n(may not be used together with 6.0/4.0 VU Machine Learning for Visual Computing\nbe used)\n\n3.0/2.0 VU Mathematical Programming\n(may not be used together with 6.0/4.0 VU Mathematical Programming and Optimization in Transport Logistics)\n\n3.0/2.0 VO Nonlinear Optimization\n(may not be used together with 3.0/2.0 VO Nonlinear Programming)\n\n2.0/1.0 UE Nonlinear optimization\n(may not be used together with 2.0/1.0 UE Nonlinear Programming)\n\n6.0/4.0 VU Probabilistic Programming and AI\n(may not be used together with 6.0/4.0 VU AI programming)\n\n3.0/2.0 VU Problem Solving and Search in Artificial Intelligence\n(may not be used together with 6.0/4.0 VU Problem Solving and Search in Artificial\nintelligence can be used)\n\n3.0/2.0 VO Processing of Declarative Knowledge\n(may not be used together with 6.0/4.0 VU Processing of Declarative Knowledge)",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 47,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VO Processing of Declarative Knowledge\n(may not be used together with 6.0/4.0 VU Processing of Declarative Knowledge)\n\n3.0/2.0 VU Similarity Modeling 1\n(may not be used together with 3.0/2.0 Similarity Modeling 1 - Computational Seeing\nand Hearing or with 6.0/4.0 VU Similarity Modeling)\n\n3.0/2.0 VU Similarity Modeling 1 - Computational Seeing and Hearing\n(may not be used together with 3.0/2.0 VU Similarity Modeling 1 or with 6.0/4.0 VU\nSimilarity modeling can be used)\n\n3.0/2.0 VU Similarity Modeling 2\n(may not be used together with 3.0/2.0 Similarity Modeling 2 - Computational Seeing\nand Hearing or with 6.0/4.0 VU Similarity Modeling)\n\n3.0/2.0 VU Similarity Modeling 2 - Computational Seeing and Hearing\n(may not be used together with 3.0/2.0 VU Similarity Modeling 2 or with 6.0/4.0 VU\nSimilarity modeling can be used)\n\n4.5/3.0 VU Visualization 2\n(may not be used together with 6.0/4.0 VU Visualization)\n\n**EM/EXT – Economic Modeling Extension**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 47,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "4.5/3.0 VU Visualization 2\n(may not be used together with 6.0/4.0 VU Visualization)\n\n**EM/EXT – Economic Modeling Extension**\n\n3.0/2.0 SE Agent Based Computational Economics\n\n3.0/2.0 VU AKVWL Inequality in Macroeconomics\n\n1.5/1.0 UE Dynamic Macroeconomics\n(may not be used together with 1.5/1.0 UE Dynamic Macroeconomics)\n\n3.0/2.0 VO Dynamic Macroeconomics\n(may not be used together with 3.0/2.0 VO Dynamic Macroeconomics)\n\n\n47",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 47,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "1.5/1.0 UE AKOR Graph theoretical methods of operations research\n(may not be used together with 1.5/1.0 UE AKOR Graph-theoretical Methods in Operations Research)\n\n3.0/2.0 VO AKOR Graph theoretical methods of operations research\n(may not be used together with 3.0/2.0 VO AKOR Graph-theoretical Methods in Operations Research)\n\n3.0/2.0 VO Information Economics\n\n3.0/2.0 VU Introduction to Optimization\n\n3.0/2.0 VO Political Economy of Europe\n\n3.0/2.0 VO Economic Statistics\n\n**EE/EXT – Enterprise Engineering Extension**\n\n3.0/2.0 VO Advanced Aspects of Hospital Information Systems\n\n3.0/2.0 VO Advanced Aspects of IT Infrastructures for Health Care\n\n3.0/2.0 VU Advanced Project Management\n\n6.0/4.0 VU Beyond the Desktop\n(may not be used together with 6.0/4.0 VU Beyond the Desktop: from concepts to\nimplementation)\n\n3.0/2.0 VU Digital Sustainability\n\n4.5/3.0VU Information Design\n\n3.0/2.0 VU Internet of Things for Smart Systems\n\n3.0/2.0 UE Knowledge Management\n\n3.0/2.0 VO Knowledge Management",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 48,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "4.5/3.0VU Information Design\n\n3.0/2.0 VU Internet of Things for Smart Systems\n\n3.0/2.0 UE Knowledge Management\n\n3.0/2.0 VO Knowledge Management\n\n3.0/2.0 VU Management of software projects\n(may not be used together with 3.0/2.0 VU Management of Software Projects\nbe)\n\n3.0/2.0 VU Optimization in Transport and Logistics\n(may not be used together with 6.0/4.0 VU Mathematical Programming and Optimization in Transport Logistics)\n\n3.0/2.0 VU Organizational Aspects of IT Security\n\n3.0/2.0 VU Self-organizing systems\n(may not be used together with 4.5/3.0 VU Self-Organizing Systems)\n\n3.0/2.0 VU Semantic Technologies\n(may not be used together with 3.0/2.0 VU Similarity Modeling 2 or 6.0/4.0 VU\nTheory of Graph Data can be used)\n\n3.0/2.0 VU Service Design, Management and Composition\n\n\n48",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 48,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VU Sustainability in Computer Science\n(may not be used together with 6.0/4.0 VU Introduction to Computational Sustainability\nbe used)\n\n**ISE/EXT – Information Systems Engineering Extension**\n\n6.0/4.0 VU Advanced Cryptography\n\n3.0/2.0 VU Advanced Internet Security\n\n3.0/2.0 SE Advanced Model Engineering\n(may not be used together with 6.0/4.0 VU Advanced Model Engineering\nbecome)\n\n3.0/2.0 VU Advanced Model Engineering\n(may not be used together with 6.0/4.0 VU Advanced Model Engineering\nbecome)\n\n3.0/2.0 VU Advanced Project Management\n\n3.0/2.0 VU Advanced Security for Systems Engineering\n\n3.0/2.0 VO Advanced Software Engineering\n(may not be used together with 3.0/2.0 VU Advanced Software Engineering or with\n6.0/4.0 VU Advanced Software Engineering can be used)\n\n3.0/2.0 VU Advanced Software Engineering\n(may not be used together with 3.0/2.0 VO Advanced Software Engineering or with\n6.0/4.0 VU Advanced Software Engineering can be used)",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 49,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VU Description Logics and Ontologies\n(may not be used together with 6.0/4.0 VU Theory of Graph Data)\n\n3.0/2.0 VO Deductive Databases\n(may not be used together with 6.0/4.0 VU Processing of Declarative Knowledge)\n\n3.0/2.0 SE End User Programming\n\n3.0/2.0 VU End User Programming\n\n3.0/2.0 VU Fixed-Parameter Algorithms and Complexity\n(may not be used together with 4.5/3.0 VU Fixed-Parameter Algorithms and Complexity\nor used with 6.0/4.0 VU Fixed-Parameter Algorithms and Complexity\nbecome)\n\n4.5/3.0 VU Fixed-Parameter Algorithms and Complexity\n(may not be used together with 3.0/2.0 VU Fixed-Parameter Algorithms and Complexity\nor used with 6.0/4.0 VU Fixed-Parameter Algorithms and Complexity\nbecome)\n\n3.0/2.0 VU Graph Drawing Algorithms\n(may not be used together with 4.5/3.0 VU Graph Drawing Algorithms or with 6.0/4.0\nVU Graph Drawing Algorithms are used)\n\n\n49",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 49,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "4.5/3.0 VU Graph Drawing Algorithms\n(may not be used together with 3.0/2.0 VU Graph Drawing Algorithms or with 6.0/4.0\nVU Graph Drawing Algorithms are used)\n\n3.0/2.0 VU Internet of Things for Smart Systems\n(may not be used together with 6.0/4.0 VU Internet of Things)\n\n3.0/2.0 VU IT security in Large IT infrastructures\n\n3.0/2.0 VU Knowledge Graphs\n(may not be used together with 6.0/4.0 VU Knowledge Graphs)\n\n3.0/2.0 VU Optimization in Transport and Logistics\n\n3.0/2.0 VU Organizational Aspects of IT Security\n\n3.0/2.0 VU Privacy Enhancing Technologies\n\n3.0/2.0 VU Semantic Technologies\n(may not be used together with 3.0/2.0 VU Similarity Modeling 2 or 6.0/4.0 VU\nTheory of Graph Data can be used)\n\n3.0/2.0 VU Software Quality Management\n\n3.0/2.0 VU Software Security\n\n3.0/2.0 VU Structural Decomposition\n(may not be used together with 3.0/2.0 VU Structural Decompositions and Algorithms\nor 6.0/4.0 VU Structural Decompositions and Meta Theorems can be used)",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 50,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VU Structural Decompositions and Algorithms\n(may not be used together with 6.0/4.0 VU Structural Decompositions and Meta Theorems)\n\n6.0/4.0 VU Systems and Applications Security\n(may not be used together with 6.0/4.0 VU System and Application Security\nbe)\n\n**MS/EXT – Management Science Extension**\n\n2.0/1.0 UE Design of Information Systems for Production Management\n\n3.0/2.0 VU Entrepreneurship and Innovation Garage\n\n3.0/2.0 VU ERM Fundamentals\n(may not be used together with 3.0/2.0 VU Enterprise Risk Management (Fundamentals)\nbe used)\n\n3.0/2.0 UE Knowledge Integration in Cyber Physical Production Systems\n\n3.0/2.0 VO Knowledge Management in Cyber Physical Production Systems\n\n8. Students to whom the transitional provisions apply in accordance with paragraph 2 can\nThe following courses continue to apply to the area of transferable skills\nuse the degree:\n\n3.0/2.0 SE Coaching as a management tool 2\n\n\n50",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 50,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VO Introduction to the Philosophy of Science I\n\n3.0/2.0 VO Introduction to technology and society\n\n3.0/2.0 SE Impact assessment of information technologies\n\n3.0/2.0 VU Research Methods\n\n3.0/2.0 VO Women in science and technology\n\n3.0/2.0 VU Italian for Engineers I\n\n3.0/2.0 VU Communication and Moderation\n\n3.0/2.0 VU Cooperative work\n\n1.5/1.0 VO Presentation, moderation and mediation\n\n3.0/2.0 UE Presentation, moderation and mediation\n\n4.0/4.0 SE Privatissimum from Computer Science Didactics\n\n3.0/2.0 SE Legal information research on the Internet\n\n3.0/2.0 VU Technical Russian I\n\n3.0/2.0 VU Technical Russian II\n\n3.0/2.0 VU Technical Spanish I\n\n3.0/2.0 VU Technical Spanish II\n\n3.0/2.0 VU Technical English Communication\n\n3.0/2.0 VU Technical English Presentation\n\n3.0/2.0 VU Sociology of Technology and Psychology of Technology\n\n3.0/2.0 VU Technical French, High Level I\n\n3.0/2.0 VO Theory and practice of group work\n\n\n51",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 51,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **C Prüfungsfächer mit den zugeordneten Modulen und** **Lehrveranstaltungen**\n##### **Prüfungsfach „Business Informatics Foundations“**\n\n**Modul „DA/FD – Data Analytics Foundation“ (6,0 ECTS)**\n6,0/4,0 VU Business Intelligence\n\n**Modul „EE/FD – Enterprise Engineering Foundation“ (6,0 ECTS)**\n6,0/4,0 VU Enterprise & Process Engineering\n\n**Modul „EM/FD – Economic Modeling Foundation“ (6,0 ECTS)**\n3,0/2,0 VU Computational Social Simulation\n3,0/2,0 VU Econometrics for Business Informatics\n\n**Modul „ISE/FD – Information Systems Engineering Foundation“ (6,0 ECTS)**\n6,0/4,0 VU Model Engineering\n\n**Modul „MS/FD – Management Science Foundation“ (6,0 ECTS)**\n3,0/2,0 VO Human Resource Management and Leadership\n3,0/2,0 VU IT-based Management\n\n**Modul „RM/FD – Research Methods“ (3,0 ECTS)**\n3,0/2,0 SE Research Methods\n\n##### **Prüfungsfach „Data Analytics (SB)“**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 52,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Modul „RM/FD – Research Methods“ (3,0 ECTS)**\n3,0/2,0 SE Research Methods\n\n##### **Prüfungsfach „Data Analytics (SB)“**\n\n\n**Modul „DA/COR – Data Analytics Core“ (12,0 ECTS)**\n6,0/4,0 VU Experiment Design and Execution\n4,5/3,0 VO Multivariate Statistics\n1,5/1,0 UE Multivariate Statistics\n\n**Modul „DA/EXT – Data Analytics Extension“ (12,0 ECTS)**\n3,0/2,0 VU Advanced Information Retrieval\n6,0/4,0 VU AI Programming\n6,0/4,0 VU Algorithmic Geometry\n6,0/4,0 VU Algorithmic Social Choice\n6,0/4,0 VU Algorithmics\n3,0/2,0 VU Applied Deep Learning\n4,5/3,0 VU Computational Statistics\n3,0/2,0 VU Data Acquisition and Survey Methods\n3,0/2,0 UE Data Stewardship\n3,0/2,0 VO Data Stewardship\n\n\n52",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 52,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3,0/2,0 VU Data-intensive Computing\n6,0/4,0 VU Database Theory\n6,0/4,0 VU Deep Learning for Visual Computing\n6,0/4,0 VU Generative AI\n4,5/3,0 VU Intelligent Audio and Music Analysis\n6,0/4,0 VU Information Visualization\n1,5/1,0 UE Information Visualization\n6,0/4,0 VU Logic-based AI\n6,0/4,0 VU Machine Learning\n6,0/4,0 VU Machine Learning\n6,0/4,0 VU Machine Learning for Visual Computing\n6,0/4,0 VU Mathematical Programming and Optimization in Transport Logistics\n3,0/2,0 VU Model-based Decision Support\n3,0/2,0 VO Nonlinear Programming\n2,0/1,0 UE Nonlinear Programming\n6,0/4,0 VU Problem Solving and Search in Artificial Intelligence\n6,0/4,0 VU Processing of Declarative Knowledge\n6,0/4,0 VU Similarity Modeling\n4,5/3,0 VU Self-Organizing Systems\n3,0/2,0 VU Security, Privacy and Explainability in Machine Learning\n3,0/2,0 VU Visual Data Science\n6,0/4,0 VU Visualization\n\n##### **Prüfungsfach „Enterprise Engineering (SB)“**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 53,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Prüfungsfach „Enterprise Engineering (SB)“**\n\n\n**Modul „EE/COR – Enterprise Engineering Core“ (12,0 ECTS)**\n3,0/2,0 VU E-Commerce\n3,0/2,0 VU Innovation\n6,0/4,0 VU Recommender Systems and User Modeling\n\n**Modul „EE/EXT – Enterprise Engineering Extension“ (12,0 ECTS)**\n6,0/4,0 VU Advanced Aspects of IT-Law\n3,0/2,0 SE Advanced Topics in Recommender Systems and Generative AI\n6,0/4,0 VU Beyond the Desktop: from concepts to implementation\n3,0/2,0 VU Digital Humanism\n3,0/2,0 PR E-Marketing\n3,0/2,0 VO E-Marketing\n2,0/2,0 UE Industrial Data Science\n3,0/2,0 VU Information Search on the Internet\n6,0/4,0 VU Introduction to Computational Sustainability\n3,0/2,0 VU IT-Governance\n3,0/2,0 VO Knowledge Management 4.0\n3,0/2,0 VU Management of Software Projects\n\n\n53",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 53,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VU Optimization in Transport and Logistics\n6.0/4.0 VU Mathematical Programming and Optimization in Transport Logistics\n6.0/4.0 VU Theory of Graph Data\n4.5/3.0 VU Self-Organizing Systems\n3.0/2.0 VU Semi-Automatic Information and Knowledge Systems\n3.0/2.0 VU Social Media\n3.0/2.0 VU Web Application Engineering & Content Management\n\n##### **Exam subject \"Economic Modeling (SB)\"**\n\n\n**Module \"EM/COR – Economic Modeling Core\" (12.0 ECTS)**\n3.0/2.0 VU AKVWL Computational Economics\n3.0/2.0 VO International Trade Theory and Policy\n3.0/2.0 VU Model-based Decision Support\n3.0/2.0 VU Modeling and Simulation",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 54,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Module \"EM/EXT – Economic Modeling Extension\" (12.0 ECTS)**\n3.0/2.0 VU Advanced Modeling and Simulation\n4.0/3.0 VU Complex Systems I - Foundations, concepts, and phenomena (offered\nat the Medical University of Vienna)\n4.0/3.0 VU Complex Systems II: Applications (offered at the Medical University of Vienna)\n1.5/1.0 UE Dynamic Macroeconomics\n3.0/2.0 VO Dynamic Macroeconomics\n3.0/2.0 SE AKVWL Environmental and Population Economics\n3.0/2.0 VO AKVWL Environmental and Population Economics\n1.5/1.0 UE Game Theoretical Modelling\n3.0/2.0 VO Game Theoretic Modelling\n1.5/1.0 UE AKOR Graph-theoretical methods in operations research\n3.0/2.0 VO AKOR Graph-theoretical methods in operations research\n\n##### **Exam subject \"Information Systems Engineering (SB)\"**\n\n\n**Module \"ISE/COR – Information Systems Engineering Core\" (12.0 ECTS)**\n6.0/4.0 VU Advanced Database Systems\n3.0/2.0 VU Advanced Internet Computing\n3.0/2.0 VU Introduction to Semantic Systems",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 54,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Module \"ISE/EXT – Information Systems Engineering Extension\" (12.0 ECTS)**\n6.0/4.0 VU Advanced Model Engineering\n6.0/4.0 PR Advanced Software Engineering\n6.0/4.0 VU Advanced Software Engineering\n6.0/4.0 VU Algorithmics\n\n\n54",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 54,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3,0/2,0 VU Digital Forensics\n6,0/4,0 VU Distributed Systems Technologies\n6,0/4,0 VU Fixed-Parameter Algorithms and Complexity\n6,0/4,0 VU Graph Drawing Algorithms\n6,0/4,0 VU Internet of Things\n6,0/4,0 VU Knowledge Graphs\n2,0/1,0 UE Network Engineering\n2,0/2,0 VO Network Engineering\n2,0/2,0 VO Pervasive and Mobile Computing\n6,0/4,0 VU Processing of Declarative Knowledge\n3,0/2,0 VU Serverless Computing\n6,0/4,0 VU Smart Contracts\n3,0/2,0 VU Software Testing\n6,0/4,0 VU Structural Decompositions and Meta Theorems\n6,0/4,0 VU Symmetric Cryptography\n6,0/4,0 VU System and Application Security\n6,0/4,0 VU Theory of Graph Data\n\n##### **Prüfungsfach „Management Science (SB)“**\n\n\n**Modul „MS/COR – Management Science Core“ (12,0 ECTS)**\n3,0/2,0 VU Assistance Systems in Manufacturing 1\n3,0/2,0 VO Design of Information Systems for Production Management\n3,0/2,0 VU Managing People and Organizations\n3,0/2,0 VU Project and Enterprise Financing",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 55,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Modul „MS/EXT – Management Science Extension“ (12,0 ECTS)**\n3,0/2,0 VU Advanced Financial Planning and Control\n3,0/2,0 VU Assistance Systems in Manufacturing 2\n5,0/3,0 VU E&I Garage - Business Model Development\n3,0/2,0 VU Enterprise Risk Management (Fundamentals)\n5,0/3,0 SE Financial Management\n3,0/2,0 VU Financial Management and Reporting\n3,0/2,0 VU Innovation Theory\n3,0/2,0 VU International Negotiations\n2,0/2,0 UE Industrial Data Science\n3,0/2,0 VO Knowledge Management 4.0\n5,0/2,0 VU Organization Theory\n3,0/2,0 VU Risk-based Performance Management\n3,0/2,0 VU Risk Model Management\n5,0/3,0 SE Risk Management\n3,0/2,0 SE Seminararbeit Smart Production Systems\n3,0/2,0 VU Strategic Management\n\n\n55",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 55,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VU Technology, Work and Organization\n\n##### **Examination subject “Free Electives”**\n\n\n**Module “Free Electives and Transferable Skills” (9.0 ECTS)**\n\n##### **Examination subject “Master Thesis”**\n\n1.5/1.0 SE seminar for graduate students\n27.0 ECTS diploma thesis\n1.5 ECTS Final examination by committee\n\n\n56",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 56,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **D Elective subject catalog “Transferable Skills”**",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 57,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The courses included in the _Free Electives and Transferable Skills_ module from the\nThe topic area “Transferable Skills” can be chosen from, among other things\nfollowing catalog can be selected.\n3.0/2.0 SE Coaching as a management tool 1\n3.0/2.0 SE Coaching as a management tool 2\n3.0/2.0 SE Didactics in Computer Science\n1.5/1.0 VO IT contract law\n3.0/2.0 VO Introduction to the Philosophy of Science I\n3.0/2.0 VO Introduction to technology and society\n3.0/2.0 SE Impact assessment of information technologies\n3.0/2.0 VU Research Methods\n3.0/2.0 VO Women in science and technology\n3.0/2.0 SE Group Dynamics\n3.0/2.0 VU Communication and Moderation\n3.0/2.0 SE Communication and Rhetoric\n1.5/1.0 SE communication technology\n3.0/2.0 VU Cooperative work\n3.0/2.0 VU Presentation and moderation\n1.5/1.0 VO Presentation, moderation and mediation\n3.0/2.0 UE Presentation, moderation and mediation\n3.0/2.0 VU Presentation and negotiation techniques\n4.0/4.0 SE Privatissimum from Computer Science Didactics",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 57,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VU Presentation and negotiation techniques\n4.0/4.0 SE Privatissimum from Computer Science Didactics\n3.0/2.0 VU Rhetoric, body language, argumentation training\n3.0/2.0 VU Soft skills for technicians\n3.0/2.0 VU Sociology of Technology and Psychology of Technology\n3.0/2.0 VO Theory and practice of group work\n3.0/2.0 VO Between career and barrier",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 57,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "57",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 57,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **E Extension course Innovation**\n\nStudents who use the skills they acquired in their master's degree to start a business\nof a startup or in the management of a company or for project work\nIf you want to apply the skills required for these activities in a university environment\nacquire additional skills as part of the _Innovation_ extension course,\nwhich can be completed alongside the master's degree.\nThe (additional) workload for the English-language extension course _In-_\n_novation_ is 30 ECTS points (this corresponds to one semester). The conclusion of the\nThe _Innovation_ extension course can also be completed after completing the master's degree\ntake place.\n\n\n58",
+    "metadata": {
+      "program_name": "Master Business Informatics",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066926.pdf",
+      "page_number": 58,
+      "chunk_strategy": "page_recursive"
+    }
+  }
+]

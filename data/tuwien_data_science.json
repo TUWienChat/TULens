@@ -1,0 +1,1757 @@
+[
+  {
+    "content": "Bachelor\n\n###### Master\n\n\nDoctorate\n\n\nUniversity course\n\n\n### Study plan (curriculum) for the master's program\n## Data Science\n#UE 066 645\n\n###### Vienna University of Technology Resolution of the Senate of the Vienna University of Technology on May 12, 2025 Valid from October 1, 2025",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 1,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **Table of Contents**\n\n§ 1 Basis and scope 3\n\n\n§ 2 Qualification profile 3\n\n\n§ 3 Duration and scope 5\n\n\n§ 4 Admission to the master's program 5\n\n\n§ 5 Structure of the course 6\n\n\n§ 6 Courses 10\n\n\n§ 7 Examination regulations 13\n\n\n§ 8 Studyability and mobility 15\n\n\n§ 9 Diploma thesis 16\n\n\n§ 10 Academic degree 16\n\n\n§ 11 Quality management 16\n\n\n§ 12 Entry into force 18\n\n\n§ 13 Transitional provisions 18\n\n\nA Module descriptions 19\n\n\nB Transitional provisions 34\n\n\nC Semester division of courses 38\n\n\nD Semester recommendation for students with a difficult start 39\n\n\nE Elective subject catalog “Transferable Skills” 40\n\n\nF Extension course Innovation 41\n\n\nG Examination subjects with the assigned compulsory modules and courses 42\n\n\n2",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 2,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 1 Basis and scope**\n\nThis study plan defines and regulates the engineering, English-language master's program _Data Science_ at the Vienna University of Technology. It's based\non the University Act 2002 Federal Law Gazette I No. 120/2002 (UG) and the statute part _Studi-_\n_enlegal regulations_ of the Vienna University of Technology in the currently applicable\nversion. The structure and design of the course is based on the following\nQualification profile.\n\n#### **§ 2 Qualification profile**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Data science deals with large, heterogeneous amounts of data (big data) from various application areas (e.g. production, energy, environment, health, social\nMedia) to provide valuable insights and meaningful insights that can be implemented into action\nGenerate information (actionable information). The sub-areas of data science\ninclude, among other things, processing and fusion of heterogeneous data from different sources\n(Data Gathering), analysis and statistical modeling of the data (Data Analytics)\nthrough to the interactive visualization of the data (visual analytics) and its use\nthe results (decision support). Requirements regarding reproducibility of\nResults and the reuse of data (data curation) as well as the operation of\nlarge computing/data centers (data center operations) are of central importance.\nThis study plan conveys and integrates skills from the areas of information technology, mathematics and specific application disciplines. This one",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "This study plan conveys and integrates skills from the areas of information technology, mathematics and specific application disciplines. This one\nQualifications are increasingly required in science and business.\nThe content is based on a few central basic subjects:\nprimarily by choosing at least two of the following four _key areas_\n(SB) teaches data science.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Fundamentals of Data Science\n\n\n\n\n- Machine Learning and Statistics\n\n\n\n\n- Visual Analytics and Semantic Technologies\n\n- Big Data and High Performance Computing\n\n\n\nEach key area consists of a mandatory module that acts as a “gatekeeper”.\n(Core module) and an extension module (Extension Module), from which thematically\nrelevant courses can be freely chosen; if necessary, still to come\nappropriate supplementary examinations for admission to study are added.\nThe master's program _Data Science_ provides an in-depth, scientifically and methodologically sound education aimed at lasting knowledge, which prepares graduates for further qualification, especially in the context of a relevant subject\nDoctoral studies as well as for employment in, for example, the following areas of activity and make them internationally competitive. graduates\n\n\n3",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 3,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- act as a link between the technical infrastructures and the respective\nDomains in research and development in industries such as pharmaceuticals, operations\nResearch, nanotechnology, marketing, logistics.\n\n  - are able to understand complex relationships, patterns and knowledge from raw data\nto gain and communicate in a structured manner.\n\n  - have the competence to help shape the establishment and operation of data and computing centers.\n\n  - are able to conduct research and innovation in the field of eScience\non an IT/technical level as well as on an interdisciplinary basis.\n\nDue to the professional requirements, the Master's program _Data Science_\nQualifications conveyed in the following categories.\n\n**Technical and methodological skills**\n\n  - In-depth mathematical fundamentals and methods of data science (especially statistical data analysis and modeling)",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- In-depth mathematical fundamentals and methods of data science (especially statistical data analysis and modeling)\n\n  - In-depth concepts and methods in specific IT aspects of\nData science, especially data infrastructures, data management, data analysis\nand visualization\n\n  - In-depth fundamentals and methods in selected areas of other scientific disciplines (such as architecture, astronomy, biology, chemistry,\nDigital Humanities, Earth Sciences, Medicine, Physics, Social Sciences)\n\n\n**Cognitive and practical skills**\n\n\n\n\n- Scientifically based system analysis\n\n\n\n\n- Integrative view\n\n\n\n\n- Choosing suitable scientific methods for modeling and abstraction\n\n\n\n\n- Solution finding and evaluation\n\n\n\n\n- Comprehensive and precise documentation of solutions and their critical evaluation\n\n\n\n\n- Ability to present convincingly in an interdisciplinary environment\n\n\n\n\n- Goal-oriented work methodology\n\n\n\n**Social skills and personal skills**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Goal-oriented work methodology\n\n\n\n**Social skills and personal skills**\n\n\n\n\n- Self-organization, initiative and personal responsibility\n\n\n\n\n- Increasing individual creativity and innovation potential\n\n\n\n\n- Problem formulation and problem solving skills\n\n\n\n\n- Communication and critical thinking skills\n\n\n\n\n- Reflection on your own abilities and limitations\n\n\n\n\n- Competence for teamwork and responsibility in complex interdisciplinary situations\nprojects\n\n\n\n\n- Impact assessment and ethical assessment\n\n\n\n\n- Strategic thinking and planning\n\n\n\n4",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 4,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 3 Duration and scope**\n\nThe workload for the Master's program _Data Science_ is 120 ECTS points.\nThis corresponds to a planned full-time study period of 4 semesters.\nECTS points (ECTS) are a measure of the students' workload. An academic year includes 60 ECTS points, with one ECTS point corresponding to 25 hours of work\n(according to Section 54 Paragraph 2 UG).\n\n#### **§ 4 Admission to the master's program**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 4 Admission to the master's program**\n\nAdmission to the master's program _Data Science_ requires a degree in...\nQuestion about your upcoming bachelor's degree or another subject that is relevant\nStudy at least the same level of higher education at a recognized institution\ndomestic or foreign post-secondary educational institution.\nTo compensate for significant technical differences, supplementary examinations can be carried out\nA maximum of 30 ECTS points are required, which must be awarded by the end of the year\nmust be completed in the second semester of the master's degree.\nThe language of instruction is English. Applicants whose first language is not\nIf you speak English, you must demonstrate the required language skills. The shape of the\nProof of this is set out in a regulation from the Rectorate.\nA bachelor's degree is technically possible if the essential knowledge,\nSkills and competencies of the modules\n\n\n\n\n- WIN/DBS - database systems",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- WIN/DBS - database systems\n\n\n\n\n- INT/ADA - algorithms and data structures\n\n\n\n\n- INT/PRO - Introduction to programming\n\n\n\n\n- STW/ADM - Algebra\n\n- STW/ANA - Analysis\n\n\n\n\n- STW/STA - Statistics and Probability Theory\n\n\n\nof the bachelor's degree in “Business Informatics”.\nIn any case, the TU Wien bachelor's degree courses come into question\n\n\n\n\n- Computer science\n\n\n\n\n- Media informatics and visual computing\n\n\n\n\n- Medical informatics\n\n\n\n\n- Software & Information Engineering\n\n\n\n\n- Business informatics\n\n\n\nwhose graduates are to be admitted without a supplementary examination.\n\nGraduates of the bachelor's degree in computer science and the bachelor's degree in technical mathematics at the TU Vienna have the knowledge, skills and\nCompetencies of the module\n\n  - WIN/DBS - database systems\n\n\n5",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 5,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "to be proven or acquired as a supplementary examination.\nGraduates of bachelor's degrees in statistics and business mathematics as well\nFinancial and actuarial mathematics at the Vienna University of Technology have the knowledge and skills\nand competencies of the modules\n\n  - WIN/DBS - database systems\n\n  - INT/ADA - algorithms and data structures\n\nto be proven or acquired as a supplementary examination.\nThe requirements listed above apply to graduates of other studies\nto be examined individually and, if necessary, to order supplementary examinations.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "In order to achieve the required number of ECTS points, you can apply for admission\nadditional courses and examinations amounting to a maximum of 30 ECTS points are required; these can be found in the Free Electives and Transferable module\nSkills are used. Regardless of this, 4.5 ECTS of transferable skills must still be completed in the Free Electives and Transferable Skills module. Besides\nThere may be additional restrictions in the choice of modules to be completed\nKey areas can be identified.\n\n#### **§ 5 Structure of the course**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 5 Structure of the course**\n\nThe content and qualifications of the course are conveyed through _modules_. A module\nis a teaching and learning unit, which is characterized by entry and exit qualifications,\nContent, teaching and learning methods, standard workload and performance assessment\nis marked. Modules are completed in the form of one or more modules\ncontent-related _courses_. Thematically similar modules will be available\nsummarized into _examination subjects_, their names including scope and overall grade\nis shown on the graduation certificate.\n\n##### **Examination subjects and associated modules**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The master's program _Data Science_ is divided into the following examination subjects:\nmodules assigned to them. In addition to the compulsory modules, at least two key areas (SB) must be chosen, the ones listed first in the corresponding examination subjects\n_Core modules_ must be completed in any case. Elective subjects can be any of the following\nExtension modules of the selected key areas can be chosen so that together\nwith the diploma thesis and the courses in the module _Free Electives and Trans-_\n_ferable skills_ at least 120 ECTS must be achieved. Will be in key areas\ncompleted more than the required ECTS, you can take the module _Free Electives and Trans-_\n_ferable skills_ fewer ECTS can be completed to the same extent, but there are in them\nto complete at least 4.5 ECTS in the area of transferable skills. seminars,\nInternships and project work can only be chosen once. Elective subjects\nExtension modules from key areas whose core module was not completed successfully",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Extension modules from key areas whose core module was not completed successfully\ncannot be used for graduation.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 6,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Data Science - Foundations**\n\nFDS/FD – Fundamentals of Data Science - Foundations (9,0 ECTS)\nMLS/FD – Machine Learning and Statistics - Foundations (9,0 ECTS)\nBDHPC/FD – Big Data and High Performance Computing - Foundations (9,0 ECTS)\nVAST/FD – Visual Analytics and Semantic Technologies - Foundations (9,0 ECTS)\n\n\n**Domain-Specific Aspects of Data Science**\n\nDSA – Domain-Specific Aspects of Data Science (9,0 ECTS)\n\n\n**Fundamentals of Data Science - Core and Extension (SB)**\n\nFDS/CO – Fundamentals of Data Science - Core (6,0 ECTS)\nFDS/EX – Fundamentals of Data Science - Extension (max 18,0 ECTS)\n\n\n**Machine Learning and Statistics - Core and Extension (SB)**\n\nMLS/CO – Machine Learning and Statistics - Core (6,0 ECTS)\nMLS/EX – Machine Learning and Statistics - Extension (max 18,0 ECTS)\n\n\n**Big Data and High-Performance Computing - Core and Extension (SB)**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 7,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Big Data and High-Performance Computing - Core and Extension (SB)**\n\nBDHPC/CO – Big Data and High Performance Computing - Core (6,0 ECTS)\nBDHPC/EX – Big Data and High Performance Computing - Extension (max 18,0 ECTS)\n\n\n**Visual Analytics and Semantic Technologies - Core and Extension (SB)**\n\nVAST/CO – Visual Analytics and Semantic Technologies - Core (6,0 ECTS)\nVAST/EX – Visual Analytics and Semantic Technologies - Extension (max 18,0 ECTS)\n\n\n**Freie Wahlfächer und Transferable Skills**\n\nFree Electives and Transferable Skills (9,0 ECTS)\n\n\n**Diplomarbeit**\n\nSiehe Abschnitt § 9.\n\n\n7",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 7,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Short description of the modules**\n\nThis section briefly characterizes the modules of the Master's program _Data Science_.\nA detailed description can be found in Appendix A.\n\n**BDHPC/FD – Big Data and High Performance Computing - Foundations (9.0**\n**ECTS)** This module provides in-depth knowledge of technical infrastructures\nand programming paradigms for dealing with “big data”. Specifically, the module leads\nin methods for the management and processing of large, polystructured\nData in highly scalable environments. In the area of data management and database systems, central concepts of query optimization, via relational\nData models beyond the data model, and distributed data processing techniques\ntreated. The module also introduces central modeling approaches, algorithms,\nTechnologies and methods for scaling data-intensive analyzes and applications\na.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**BDHPC/CO – Big Data and High Performance Computing - Core (6.0**\n**ECTS)** The aim of the module is to give students a basic understanding of the\nto convey parallel computing and parallel computer architectures. That includes\ndifferent programming models, languages and interfaces for programming\nparallel computer architectures (e.g. MPI and OpenMP) as well as performance analysis and as\nspecial focus on energy efficiency of data centers.\n\n**BDHPC/EX – Big Data and High Performance Computing - Extension**\n**(max 18.0 ECTS)** This module includes courses in the area of Big Data and\nHigh performance computing technologies that serve as a deepening or broadening of the\nacquired knowledge, skills and competencies in the BDHPC/CO – Big module\nData and High Performance Computing - Core module.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**FDS/FD – Fundamentals of Data Science - Foundations (9.0 ECTS)** This\nModule conveys the basic knowledge of data science. A focus is on computational thinking, the formulation of problems and their solutions, so that\ncomputers can run them. Another focus is on strategies for the\nDesign of experiments, taking workflow environments into account\nAspects of reproducibility and traceability of results. For those\nAnalysis of data teaches basic statistical methods. It introduces students to the complex legal and ethical requirements that work\ncondition with data. It covers topics such as privacy and data protection, sensitive\nand confidential data, as well as legal issues and ethical implications\ndata collection, in particular the causes of bias in data collection and\nProcessing and the resulting bias in the analysis results, as well as the processing\nand the transfer of data in an international context.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**FDS/CO – Fundamentals of Data Science - Core (6.0 ECTS)**\nThis module focuses on data. Knowledge of the life cycle of data\nfrom the survey to long-term availability and subsequent use\nconveyed. Methods for planning data collection are used for data collection\n\n\n8",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 8,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "and minimizing distortion of the data. A focus will be on the\nCollection of data and the basic principles of statistical experimental design\nset.\n\n**FDS/EX – Fundamentals of Data Science - Extension (max 18.0 ECTS)** This\nModule includes courses in the area of Fundamentals of Data Science, which are as\nDeepening or broadening of the acquired knowledge, skills and competencies\nserve in the module FDS/CO – Fundamentals of Data Science - Core.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**MLS/FD – Machine Learning and Statistics - Foundations (9.0 ECTS)**\nIn this module, students acquire basic knowledge and skills,\nto gain knowledge from data. It includes both theoretical and practical\nAspects of data analysis using machine learning and statistical methods.\nStatistical models for linear and nonlinear regression and classification are used\n(multiple linear regression, logistic regression, regression and classification trees, smoothing splines, generalized additive models) and practical ones\nexamples applied. Furthermore, various machine learning approaches are used\nsuch as Naive Bayes, Support Vector Machines, Decision Trees / Random Forests as well\nDeep learning approaches are presented and practically applied.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**MLS/CO – Machine Learning and Statistics - Core (6.0 ECTS)** Advanced\nKnowledge of methods from statistics and machine learning is provided\ncomplex recommender systems developed. On the one hand, this includes content-based\nAnalyzes, methods of collaborative filtering, and evaluation of the resulting ones\nsystems. Furthermore, knowledge of basic techniques of statistical computing, such as bootstrap and cross-validation, and important algorithms such as\nEM algorithm, and the simulation of random numbers.\n\n**MLS/EX – Machine Learning and Statistics - Extension (max 18.0 ECTS)**\nThis module includes courses in the area of machine learning and the\nStatistics, which serves as a deepening or broadening of the acquired knowledge and skills\nand skills in the module MLS/CO – Machine Learning and Statistics - Core module\nserve.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**VAST/FD – Visual Analytics and Semantic Technologies - Foundations (9.0**\n**ECTS)**\nThis module conveys the basic knowledge in the field of visualization\n(Visual Analytics, Information Visualization, Scientific Visualization), the semantic\nTechnologies and their interaction.\nVisual Analytics expands information and scientific visualization through\nthe integration of automatic analysis methods (e.g. statistics, data mining, machine\nLearning) and focuses on gaining knowledge through interactive visuals\nInterfaces. The aim is to impart knowledge of methods, concepts and techniques of visualization and the psychological foundations of human perception\nand design options for various visualization techniques. The participants should be able to assess the quality of visual representations and skills\n\n\n9",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 9,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "for problem analysis, design and implementation, as well as evaluation\nPurchase visualization systems.\n\n**VAST/CO – Visual Analytics and Semantic Technologies - Core (6.0 ECTS)**\nThis module provides advanced knowledge in the area of visualization (visual analytics, information visualization, scientific visualization), semantic\nTechnologies and their interaction.\nIn the field of visualization, the focus is on the conceptual and cognitive aspects and their scientific implementation in visualization.\nIn addition, technologies and methods of information are discussed in this module\nRetrieval and Natural Language Processing are presented, which allow under\nAmong other things, with the help of machine learning methods from unstructured data\nto obtain structured information.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**VAST/EX – Visual Analytics and Semantic Technologies - Extension (max**\n**18.0 ECTS)** This module includes courses in the area of Visual Analytics and\nSemantic Technologies, which serve as a deepening or broadening of the acquired knowledge,\nSkills and competencies in the module VAST/CO – Visual Analytics and Semantic\nTechnologies - Core serve.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**DSA – Domain-Specific Aspects of Data Science (9.0 ECTS)**\nThis module provides a broad understanding of the different requirements\nindividual disciplines in data science in order to enable efficient communication and goal-oriented solution processes across disciplinary boundaries. In the frame\nA lecture series discusses the requirements of various disciplines such as architecture,\nAstronomy, Biology, Chemistry, Digital Humanities, Earth Sciences, Medicine,\nPhysics, social sciences, etc. presented using concrete examples. Deepening opportunities are available through selected specialist lectures from the respective curricula\nas well as an interdisciplinary internship.\n\n**Free Electives and Transferable Skills (9.0 ECTS)** The courses in this\nModules serve to deepen the subject and acquire extra-subject knowledge,\nSkills and competencies.\n\n#### **§ 6 courses**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 6 courses**\n\nThe subject areas of the modules are taught through courses. The courses for the individual modules are in Appendix A in the respective module descriptions\nspecified. Courses are assessed through examinations in accordance with the University Act. The types of course assessments are in the examination regulations\n(§ 7).\nRegarding the possibilities of the study commission, modules around courses\nfor one semester, and the study law body to assign courses individually to elective modules for individual students, is based on § 27 of the\nthe study law part of the statutes of the TU Wien.\n\n\n10",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 10,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Specifications for courses and examinations from** **University Act 2002**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "An electronic list of courses must be created before the start of each semester\npublish (title, name of the leader, type, form including details\nthe location and dates of the course). This must be continually updated.\nIn addition to the published directory, the course instructors must inform students in an appropriate manner before the start of each semester\nthe objectives, form, content, dates and methods of your courses\nas well as about the content, the form, the methods, the dates and the assessment criteria\nand to provide information about the assessment criteria for the examinations.\nFor tests that are carried out in the form of a single test procedure,\nExamination dates are at least three times in each semester (according to the statutes at the beginning,\nin the middle and at the end), with students before the start of each semester\nabout the content, the form, the methods, the dates, the assessment criteria and the\nassessment standards for the examinations must be provided.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "about the content, the form, the methods, the dates, the assessment criteria and the\nassessment standards for the examinations must be provided.\nIn the case of examinations using electronic communication means, proper execution of the examination must be ensured, in addition to the general\nThe following minimum requirements must be adhered to in the regulations for examinations:",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Before the start of the semester, announcement of the standards that govern the technical devices\nStudents must meet the requirements in order for students to take part in these examinations\ncan.\n\n  - To ensure the independent provision of the examination service by the\nTechnical or organizational measures must be provided for students.\n\n  - In the event of technical problems that occur through no fault of the student, the examination must be canceled and not counted towards the permitted number of examination attempts.\n\n##### **Specifications for courses from the statutes of the TU Vienna**\n\nIn the following, SSB stands for _Statutes of the TU Vienna, Study Law Regulations_.\n\n  - The scope of a course is in ECTS credit points and in\nSpecify semester hours. [§ 9 SSB (modules and courses)]\n\n  - Holding a course as a “block course” is possible after approval by the Dean of Studies. [§ 9 SSB (Modules\nand courses)]",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Holding a course as a “block course” is possible after approval by the Dean of Studies. [§ 9 SSB (Modules\nand courses)]\n\n  - Holding courses and examinations in a foreign language\nis possible after approval by the dean of studies. [§ 11\nSSB (Foreign Languages)]\n\n  - Course examinations serve to demonstrate the learning results achieved through\na single course was taught. [§ 12 SSB (course examination)]\n\n\n11",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 11,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- The course examinations are to be held by the head of the course. If necessary, the study law body has a different one\nto appoint another professionally suitable examiner.\n\n[§ 12 SSB (course examination)]\n\n  - In any case, for examinations in compulsory and elective courses, the\nend in a single examination act, three examination dates for the beginning, for\nthe middle and the end of each semester. These are dated\nto announce the start of the semester. [§ 15 SSB (examination dates)]\n\n  - Examinations may also take place at the beginning and end of non-course times\nbe held. [§ 15 SSB (examination dates)]\n\n  - The examination dates must be announced in an appropriate manner. [§ 15 SSB\n(exam dates)]\n\n##### **Description of course types**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- The examination dates must be announced in an appropriate manner. [§ 15 SSB\n(exam dates)]\n\n##### **Description of course types**\n\n**VO:** Lectures are courses in which the content and methods of a\nsubject with particular consideration of its specific questions, terminology and solution approaches. The exam will be with\ncarried out in a single test procedure. In the module description it is\nExamination process for each course (written or oral, or written\nand verbally). Attendance at lectures is not compulsory\nAchievement of the learning outcomes must still be ensured.\n\n**EX:** Excursions are courses that take place outside the TU premises\nVienna. They serve to deepen the teaching content in the respective local area\nContext.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**LU:** Laboratory exercises are courses in which students attend individually or in groups\nGroups solve experimental tasks under the guidance of supervisors\nthe handling of equipment and materials as well as the experimental methodology\nto learn subject. The experimental facilities and workplaces become\nprovided.\n\n**PR:** Projects are courses in which the understanding of sub-areas of a\nSubject by solving concrete experimental, numerical, theoretical\nor artistic tasks are deepened and supplemented. Projects are oriented\non the qualification profile of the course and supplement the previous professional training or\nscientific training.\n\n**SE:** Seminars are courses in which students have to deal with a question\nDeal with a topic or project and use scientific methods\nedit, with a reflection on problem solving as well as a scientific\nDiscourse is required.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**UE:** Exercises are courses in which concrete tasks - for example computational, constructive, artistic or experimental - are to be worked on\n\n\n12",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 12,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "are. The skills and abilities are developed under professional guidance or supervision\nStudents' skills for application to specific tasks\ndeveloped.\n\n**VU:** Lectures with integrated exercises are courses in which the two\nCourse types VO and UE can be combined in a single course. The respective exercise and lecture portion may be a quarter of the\nThe scope of the entire courses should not be less than this. In the case of the VU course type, the exercise part is part of the examination and the lecture part is\ncan be examined in one examination file or as part of the examination. Inadmissible\nis therefore to combine the exercise part and the lecture part in one\nto check the examination process.\n\n##### **Description of courses and examinations in** **Information system for studies and teaching**\n\n\n\n\n- Type of course (VO, EX, LU, PR, SE, UE, VU)\n\n\n\n\n- Form (presence, online, hybrid, blended)\n\n\n\n\n- Dates (if applicable, also the attendance required for successful completion)",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Form (presence, online, hybrid, blended)\n\n\n\n\n- Dates (if applicable, also the attendance required for successful completion)\n\n\n\n\n- Content (description of content, previous knowledge)\n\n\n\n\n- Literature references\n\n\n\n\n- Learning outcomes (comprehensive description of learning outcomes)\n\n\n\n\n- Methods (description of the methods in coordination with learning outcomes and\nproof of performance)\n\n\n\n\n- Proof of performance (in coordination with learning outcomes and methods)\n\n\n\n\n**–** Identification of partial services, including identification of which partial services\nare repeatable. This point does not apply to type VO.\n\n  - Exams:\n\n**–** Contents (description of contents, literature references)\n\n**–** Form (presence, online)\n\n**–** Exam type or mode\n\n∗Type VO: written, oral or written and oral;\n∗ for all other types: identification of partial services including type and\nMode referring to the intended in the course\nLearning outcomes.\n\n**–** Dates",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**–** Dates\n\n**–** Assessment criteria and assessment standards\n\n#### **§ 7 Examination regulations**\n\nThe positive completion of the master's degree requires:\n\n\n13",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 13,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "1. the positive completion of the modules prescribed in the study plan, whereby\nA module is considered to have been successfully completed if it is completed in accordance with the module description\nThe courses to be attributed were completed positively, as well as the positive ones\nCompletion of the course _Seminar for diploma students_,\n\n2. the writing of a positively assessed diploma thesis and",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "2. the writing of a positively assessed diploma thesis and\n\n3. positive completion of the final examination before a committee. This takes place\nOrally before an examination senate in accordance with § 13 and § 19 of the _Study Law_\n_Provisions of the statutes of the Vienna University of Technology_ and serves the presentation and defense of the diploma thesis and proof of mastery\nof the scientific environment. The main focus is on understanding and overview knowledge. The registration requirements for the commission\nFinal examination in accordance with Section 17 (1) of the _Study Law Provisions of the Statutes_\n_of the Vienna University of Technology_ are fulfilled if points 1 and 2 are achieved\nare.\n\nThe graduation certificate includes\n\n(a) the examination subjects with their respective scope in ECTS points and their\ngrades,\n\n(b) the topic and grade of the diploma thesis,\n\n(c) the grade of the final examination before a committee,\n\n(d) the overall assessment as well",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "(b) the topic and grade of the diploma thesis,\n\n(c) the grade of the final examination before a committee,\n\n(d) the overall assessment as well\n\n(e) at the student's request, the overall grade of the completed course of study\n§72a UG.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The grade for the examination subject “Diploma Thesis” results from the grade for the Diploma Thesis.\nThe grade of each other examination subject is determined by averaging the grades of that subject\nCourses that can be assigned to the examination subject via the modules it contains, with the grades being weighted based on the ECTS amount of the courses\nbecome. If there is a decimal part less than or equal to 0.5, it will be rounded down, otherwise it will be\nrounded up. If none of the examination subjects is worse than “good” and at least the\nHalf was graded “very good”, the overall rating was “with distinction”.\npassed” and otherwise “passed”.\nCourses of the type VO (lecture) are based on a final\nassessed in an oral and/or written examination. All other courses\nhave an immanent examination character, i.e. the assessment is carried out on an ongoing basis\nan accompanying success control and optionally an additional final one\nPartial exam.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "an accompanying success control and optionally an additional final one\nPartial exam.\nThe positive success of exams and scientific and artistic work\nis with “very good” (1), “good” (2), “satisfactory” (3) or “sufficient” (4), the negative\nSuccess should be assessed as “not sufficient” (5). In courses where",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "14",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 14,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "If an assessment in the form mentioned above is not possible, these are indicated by “with\nParticipated successfully” (E) or “participated without success” (O).\n\n#### **§ 8 Studyability and Mobility**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Students of the master's program _Data Science_ should complete their studies with appropriate\nbe able to complete the effort in the time allotted for it.\nStudents are recommended to complete their studies according to the semester proposal in Appendix C. Students who start their studies in the summer semester,\nIt is recommended that you complete your studies according to the semester recommendations in Appendix D.\nThe assessment and attendance modalities for courses of the types UE, LU, PR, VU, SE and EX are included in the teaching agreements\nthe study law body and in the information system for studies and\nTeaching announced. Regarding the repeatability of partial services, the following applies\nthe study law provisions of the statutes are referred to.\nThe recognition of study achievements completed abroad is carried out by the\nStudy law body. To facilitate mobility, the provisions in Section 27 Paragraphs 1 to 3 are provided",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Study law body. To facilitate mobility, the provisions in Section 27 Paragraphs 1 to 3 are provided\nthe _Study Law Provisions_ of the statutes of the Vienna University of Technology\nthe options listed are available. These provisions may apply in individual cases\ncan also be used to improve studyability.\nThe ECTS achieved during mobility can be used to complete the\nThe transferable skills required in the “Free Elective Subjects and Transferable Skills” module\nto cover the appropriate extent. In particular, you can also join the topic pool\nTechnology assessment, technology genesis, scientific ethics, gender mainstreaming\nand diversity management.\nIs it necessary to limit the number of participants in a course?\nand can this lead to delays in study time, are in accordance with UG § 58 Paragraph 8\nthe number of places and the allocation modalities in the study plan in each case\nModule description noted.\nThis occurs in a course without an explicitly regulated allocation of places",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Module description noted.\nThis occurs in a course without an explicitly regulated allocation of places\nIn the event of unforeseen rush, the course management can do so in consultation with the\nthe study law body imposes participation restrictions. Students who\nMaster's program _Data Science_ are admitted and for which non-participation results in a\nIn any case, this could lead to a delay in the study time. The award\nAny remaining places will be allocated according to the following criteria (with descending priority).\nregulate.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Preference will be given to those students who meet the formal and content-related requirements. The content requirements can be about:\nChecked by exams already taken or by an entrance test\nbecome.\n\n  - Among these, the use of the course as a compulsory subject has priority\nbefore using it as an elective subject and this before using it as an optional subject.\n\n\n15",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 15,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Within these three groups, preference should be given to those students who:\ndespite meeting all the requirements in an earlier semester\nwere rejected.\n\nThe students must be informed about this as soon as possible.\n\n#### **§ 9 Diploma thesis**\n\nThe diploma thesis is an artistic-scientific work that demonstrates the\nThe ability to independently approach a topic in a way that is justifiable in terms of content and method\nedit. The student can freely choose the topic of the diploma thesis\nand must be consistent with the qualification profile.\nThe examination subject _diploma thesis_ comprises 30 ECTS points and consists of the scientific work (diploma thesis), which is valued at 27 ECTS points\nthe final board examination worth 1.5 ECTS points and one\n“Seminar for diploma students” worth 1.5 ECTS points.\n\n#### **§ 10 Academic degree**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **§ 10 Academic degree**\n\nGraduates of the master's program _Data Science_ are awarded the academic degree\n“Diplom-Ingenieur”/“Diplom-Ingenieurin” – abbreviated “Dipl.-Ing.” or “DI” (internationally comparable to “Master of Science”) – awarded.\n\n#### **§ 11 Quality management**\n\nThe quality management of the Master's program _Data Science_ ensures that this\nStudies consistent with the study-related quality goals of the TU Vienna\nis designed and carried out efficiently and effectively and is regularly reviewed. This\nQuality management of the studies is carried out according to the Plan-Do-Check-Act model\naccording to standardized processes and is designed to be target group-oriented. The target groups\nWithin the university, quality management is carried out by the students and the teachers\nas well as externally the society, the economy and the administration, including the\nlabor market for graduates.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Considering the defined target groups, six goals are set for the quality of the\nStudies at the Vienna University of Technology determined: (1) With regard to quality\nand the timeliness of the curriculum ensures the relevance of the qualification profile for society and the labor market. With regard to the quality of the content\nThe implementation of the study plan is (2) the learning outcomes in the modules of the study plan\nsuitably designed to implement the qualification profile, (3) the learning activities and\n-methods chosen appropriately to achieve the learning outcomes, and (4) the evidence of performance appropriate to verify the achievement of the learning outcomes. (5) In view\nThe framework conditions are in place to ensure that the study plans can be studied\n\n\n16",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 16,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "to ensure. (6) With regard to teachability, the teaching staff has\ntechnical and time resources to ensure high-quality teaching.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "In order to ensure the quality of the studies, progress in planning,\nDevelopment and assurance of all six quality goals collected and published separately. The\nQuality assurance checks whether the six quality goals are achieved. To measure the\nThe first and second quality goals are determined by the study commission at least once per year\nA review of the qualification profile and module descriptions was carried out during the period of office. To check the quality goals two to five, the ongoing one provides\nEvaluation by students, as well as individual feedback on study operations to the study law body, an ongoing overall picture of the process\nof the study plan. The ongoing review also serves to identify critical ones\nCourses for which suitable adaptation measures are required in coordination between the study law body, the study committee and the course instructor\nderived and implemented. The sixth quality goal is achieved through quality assurance",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "derived and implemented. The sixth quality goal is achieved through quality assurance\nHuman resources instruments covered. In addition to internal quality assurance\nAn external evaluation of the studies is carried out every seven years.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Each module has a module manager. This person is responsible for the coherence of content and the quality of the courses assigned to the module\nresponsible. This is achieved in particular through cyclical controls, fine-tuning of content with previous and subsequent modules and through comparison with\nAnalogue courses or modules from other universities at home and abroad\nensured.\n\n##### **Course capacities**\n\nIn order to ensure the quality of the implementation of the courses, the following group sizes are used for the different types of courses (see page 12).\nas a guideline:\n\n\nGroup size\nCourse type per leader per tutor\n\nVO 100\nUE with tutors 30 15\nUE 15\nLU with tutors 20 8\nLU8\nEX, PR, SE 10\n\n\nFor courses of the VU type, the lecture or exercise part is:\nGroup sizes for VO or UE are used. The teaching staff is appointed\naccording to the actual event.\n\n\n17",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 17,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Gender, Ethics and Diversity**\n\n**Context**: To create teaching and learning environments in which all students –\nRegardless of gender, origin, abilities or social background - being equally valued, supported and challenged is an inclusive teaching based on\ndiversity-sensitive didactics required. This cannot be covered in separate courses, but must be implemented at all levels of the course\n– as “Embedded Gender, Ethics and Diversity”.\nThis includes embedding ethical and social topics in the curriculum,\nas well as the discussion of these topics in every course. Leave it like that\ncreate framework conditions that enable a non-discriminatory learning environment.\nThis also includes measures against discrimination and harassment, for example\nexplicit codes of conduct.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Course Content**: Inclusivity and diversity are promoted by including different perspectives across a broad spectrum in all courses\nfrom authors and role models. The ethical reflection of core areas\nis embedded in all courses by addressing and taking it into account in lectures and practical examples, for example by discussing ethical aspects\nand social impacts. In addition, reference is made to the offer from the Department of Gender Competence at the TU Vienna, which is available for completing an additional catalogue\nCertificate _Gender and Diversity Competence_ is issued.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Teaching methods** : The teaching methods promote gender inclusivity and diversity and\ncreate a learning environment in which all students feel equally welcome.\nThis includes, among other things, the use of inclusive, non-judgmental language,\nto avoid reinforcing stereotypes; Teaching materials with examples, case studies or visual aids that reflect our diverse society; the\nHolding the teaching in a form that is suitable for people with different abilities\nis suitable and ensures equal participation; as well as the integration\nby guest speakers with different backgrounds.\n\n#### **§ 12 Entry into force**\n\nThis study plan comes into force on October 1, 2025.\n\n#### **§ 13 Transitional provisions**\n\nThe transitional provisions can be found in Appendix B.\n\n\n18",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 18,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **A Module descriptions**\n\nThe courses assigned to the modules are listed in the following form:\n9.9/9.9 XX Title of the course\nThe first number indicates the scope of the course in ECTS points\nand the second its scope in semester hours. ECTS points are a measure of the\nThe workload of the students, with one academic year comprising 60 ECTS points\nand one ECTS point corresponds to 25 hours of 60 minutes each. One semester hour\ncorresponds to as many teaching units as the semester contains teaching weeks.\nA lesson lasts 45 minutes. The type of course (XX) is in\n§ 6 under _Course types_ on page 12 explained in detail.\n\n##### **BDHPC/FD – Big Data and High Performance Computing -** **Foundations**\n\n\n**Standard workload:** 9.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, the students are in the\nLocation\n\n\n\n\n- Central “Big Data” concepts, methods, and technologies with subject-specific\nterminology to describe",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 19,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Central “Big Data” concepts, methods, and technologies with subject-specific\nterminology to describe\n\n- fundamental core concepts of distributed databases and data-intensive parallel ones\nto explain programming\n\n- Identify the advantages and disadvantages of different database approaches and data processing techniques,\n\n- compare scalable approaches to organizing large, polystructured data,\n\n- critically evaluate distributed architectures and data processing techniques, and\n\n- Identify typical use cases for highly scalable data infrastructures.\n\n- Define evaluation criteria for scalable data technologies in a specific application context,\n\n\n\n\n- evaluate and select distributed database technologies,\n\n\n\n\n- apply key concepts of data-intensive programming to scale data-intensive algorithms,\n\n- implement parallel programs for data-intensive analyzes and applications,\n\n- use common “big data” tools, methods and development environments,",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 19,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- implement parallel programs for data-intensive analyzes and applications,\n\n- use common “big data” tools, methods and development environments,\n\n\n\n\n- Design and optimize “big data” infrastructures, and\n\n\n\n\n- develop data-intensive applications and deploy them in cluster environments.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n19",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 19,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- work together in teams to design and implement data science projects and data-intensive applications, and\n\n  - Make recommendations for scaling analytical approaches to large amounts of data.\n\n\n**Content:**\n\n\n\n\n- Physical data organization, indexing procedures\n\n\n\n\n- Request processing, request optimization\n\n\n\n\n- Extension of the relational model\n\n\n\n\n- Distributed databases\n\n\n\n\n- NoSQL databases\n\n\n\n\n- Distributed data processing techniques\n\n\n\n\n- MapReduce programming\n\n\n\n\n- Current programming interfaces for massively parallel data processing\n\n\n\n\n- Apache Hadoop stack and extensions\n\n\n\n\n- Horizontal scaling\n\n\n\n\n- Principle of data locality\n\n\n\n\n- Fault tolerance in the area of big data\n\n\n\n\n- Practical examples and application scenarios for scalable data technologies\nin practice\n\n\n\n**Expected previous knowledge:** Basics of data modeling and database management systems.\n\n**Mandatory requirements:** None.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 20,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Expected previous knowledge:** Basics of data modeling and database management systems.\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/3.0 VU Advanced Database Systems\n3.0/2.0 VU Data-intensive computing\n\n##### **BDHPC/CO – Big Data and High Performance Computing - Core**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Technical skills:_ After successfully completing the module, students can\n\n\n\n\n- explain the motivation and goals of parallel computing,\n\n\n\n\n- compare parallel computer architectures, and\n\n\n\n\n- Explain concepts of energy efficient operation of data centers\n\n\n\n20",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 20,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Evaluate and apply programming models and paradigms,\n\n\n\n\n- design complex parallel programs and implement them in appropriate languages for multi-core computers,\n\n\n\n\n- carry out performance measurements and analysis,\n\n\n\n\n- Design mechanisms for energy-efficient resource allocation at runtime\nand apply, and\n\n- implement resource-intensive applications efficiently with regard to energy consumption.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n  - Collaborate in groups to find solutions to complex and computationally intensive tasks\nto work out problems and challenges, and\n\n  - assess the global impact and costs of computing resources.\n\n\n**Content:**\n\n\n\n\n- Basics of parallel computing and parallel computer architectures\n\n\n\n\n- Programming models, languages and interfaces\n\n\n\n\n- Introduction to different programming paradigms, e.g. MPI (Message\nPassing Interface), Pthreads and OpenMP\n\n\n\n\n- Languages for programming multi-core computers",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Languages for programming multi-core computers\n\n\n\n\n- Performance analysis and modeling\n\n\n\n\n- Energy-efficient monitoring of ultra-scale data centers\n\n\n\n\n- Geo-temporal constraints for energy efficient data centers\n\n\n\n\n- Contract conclusions in energy-efficient data centers\n\n\n\n\n- Controller design for energy efficient data centers\n\n\n\n\n- Methods of speculative resource allocation in data centers\n\n\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n3.0/2.0 VU Basics of Parallel Computing\n3.0/2.0 VU Efficient Programs\n\n##### **BDHPC/EX – Big Data and High Performance Computing -** **Extension**\n\n\n**Standard workload:** max 18.0 ECTS",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **BDHPC/EX – Big Data and High Performance Computing -** **Extension**\n\n\n**Standard workload:** max 18.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen or\n\n\n21",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 21,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "Broadening knowledge, skills and competencies in the area of big data\ntechnologies and in the area of high performance computing.\n\n**Expected previous knowledge:** Individual courses in this module should\nare available for choice and require previous knowledge, these are defined in the course announcement.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 22,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:** The following courses are available:\n6.0/4.0 VU Advanced Multiprocessor Programming\n6.0/4.0 VU Algorithmic Geometry\n6.0/4.0 VU Algorithmics\n3.0/3.0 VO Analysis 2\n4.5/2.0 UE Analysis 2\n6.0/4.0 VU Beyond Exact Algorithms\n3.0/2.0 VU Complexity Analysis\n6.0/4.0 VU Database Theory\n6.0/4.0 VU Fixed-Parameter Algorithms and Complexity\n3.0/2.0 VU Frontiers of Algorithms and Complexity\n6.0/4.0 VU GPU Architectures and Computing\n6.0/4.0 VU Graph Drawing Algorithms\n6.0/4.0 VU Hands on Cloud Native\n6.0/4.0 VU Heuristic Optimization Techniques\n6.0/4.0 VU High Performance Computing\n3.0/2.0 VU High Performance Computing Operations\n6.0/4.0 VU Hybrid ClassicQuantum Systems\n6.0/4.0 VU Introduction to Computational Sustainability\n6.0/4.0 VU Mathematical Programming and Optimization in Logistics\n3.0/2.0 VU Nonlinear Optimization\n6.0/4.0 VU Structural Decompositions and Algorithmic Meta-Theorems\n\n##### **FDS/FD – Fundamentals of Data Science - Foundations**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 22,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **FDS/FD – Fundamentals of Data Science - Foundations**\n\n\n**Standard workload:** 9.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n  - explain basic statistical methods for data analysis,\n\n  - discuss legal and ethical aspects of the use of data,\n\n\n22",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 22,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- the sources of bias (both specifically with regard to sensory attributes such as gender,\nEthnicity, age, as well as abstractly as an unrecognized skewed distribution) in data and\nIdentify analysis results\n\n\n\n\n- present common computing paradigms in data science, and\n\n\n\n\n- List tools for scaling analytics on big data.\n\n\n\n\n- Computational Thinking, the ability to understand a problem and its solution space\nto formulate that data science approaches can be used, apply,\n\n\n\n\n- fluent programming in common data science programming languages,\n\n\n\n\n- design rigorous data science experiments, and\n\n\n\n\n- Interpret the results of complex data analysis.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can work together in groups to find solutions to data science challenges\nto work out. The\n\n**Content:**\n\n\n\n\n- Data lifecycle\n\n\n\n\n- Data Science solution flow\n\n\n\n\n- Data science software ecosystem\n\n\n\n\n- Statistical data analysis\n\n\n\n\n- Statistical models",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 23,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Data lifecycle\n\n\n\n\n- Data Science solution flow\n\n\n\n\n- Data science software ecosystem\n\n\n\n\n- Statistical data analysis\n\n\n\n\n- Statistical models\n\n\n\n\n- Data science software tools\n\n\n\n\n- Workflow environments\n\n\n\n\n- Scaling algorithms for big data\n\n\n\n\n- Design of experiments\n\n\n\n\n- Reproducibility\n\n\n\n\n- Legal and ethical aspects of the use of data\n\n\n\n\n- Bias sources, bias detection and bias metrics\n\n\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n3.0/2.0 VU AKSTA Statistical Computing\n6.0/4.0 VU Experiment Design and Execution\n\n##### **FDS/CO – Fundamentals of Data Science - Core**\n\n\n**Standard workload:** 6.0 ECTS",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 23,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **FDS/CO – Fundamentals of Data Science - Core**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n23",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 23,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Explain the data lifecycle, from acquisition to long-term archiving\nand reuse,\n\n\n\n\n- assess the sustainability of systems and processes,\n\n\n\n\n- Create data management plans,\n\n\n\n\n- consider legal aspects in data storage (e.g. licenses, GDPR),\n\n\n\n\n- explain the concepts and functionality of Trusted Research Environments\nwhere highly sensitive or confidential data can be processed\n\n- select suitable data collection methods for a research project and\napply,\n\n- apply appropriate estimation procedures to the results of a routine\nto analyze the sample survey, and\n\n\n\n\n- apply basic principles of statistical experimental design.\n\n\n\n\n- Use tools that ensure reproducibility and traceability\nsolutions enable\n\n\n\n\n- use repository systems,\n\n\n\n\n- apply correct data management, and\n\n\n\n\n- Apply statistical sampling techniques to conduct routine surveys.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- use repository systems,\n\n\n\n\n- apply correct data management, and\n\n\n\n\n- Apply statistical sampling techniques to conduct routine surveys.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can adequately prepare, present and discuss the results of data collection\nas well as the importance of sensitive data (gender, ethnicity, medical data,\npersonal attitudes, etc.) and make appropriate decisions\nhow to handle data in collection and analysis.\n\n**Content:**\n\n\n\n\n- Digital long-term preservation and management (data stewardship)\n\n\n\n\n- Selection and appraisal of data\n\n\n\n\n- Logical & Semantic Preservation\n\n\n\n\n- Workflow modeling and metadata definition\n\n\n\n\n- Quality management\n\n\n\n\n- Audit & certification of archives\n\n\n\n\n- Sustainability of systems and processes\n\n\n\n\n- Impact on system design, software development and data management\n\n\n\n\n- Security issues related to long-term archiving\n\n\n\n\n- Basics of data collection",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Security issues related to long-term archiving\n\n\n\n\n- Basics of data collection\n\n\n\n\n- Planning and conducting simple experiments and surveys\n\n\n\n\n- Statistical analyzes of simple experiments and surveys, especially among the\nAssumption of linear relationships\n\n\n\n\n- Adequate presentation of the results of data collection\n\n\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\n\n\n24",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 24,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n3.0/2.0 VU Data Acquisition and Survey Methods\n3.0/2.0 VO Data Stewardship\n\n##### **FDS/EX – Fundamentals of Data Science - Extension**\n\n\n**Standard workload:** max 18.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen or\nBroadening knowledge, skills and competencies in the area of fundamentals\nof Data Science.\n\n**Expected previous knowledge:** Individual courses in this module should\nare available for choice and require previous knowledge, these are defined in the course announcement.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 25,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:** The following courses are available:\n6.0/4.0 VU Advanced Cryptography\n3.0/2.0 VU Communicating Data\n3.0/2.0 VU Computer Numerics\nor\n6.0/4.0 VU Numerical Computation\n4.0/3.0 VU Complex Systems I (MedUni Vienna)\n4.0/3.0 VU Complex Systems II (MedUni Vienna)\n3.0/2.0 UE Data Stewardship\n3.0/2.0 VU Digital Humanism\n3.0/2.0 VU Internet Security\n3.0/2.0 VU Machine Learning Operations\n6.0/4.0 VU Sustainability in Computer Science\n6.0/4.0 VU Symmetric Cryptography\n6.0/4.0 VU Systems and Applications Security\n\n##### **MLS/FD – Machine Learning and Statistics - Foundations**\n\n\n**Standard workload:** 9.0 ECTS",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 25,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **MLS/FD – Machine Learning and Statistics - Foundations**\n\n\n**Standard workload:** 9.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n25",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 25,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- theoretical concepts of important dimensionality reduction methods and methods\nunderstand linear and nonlinear regression and classification,\n\n- understand the strengths and weaknesses of different statistical methods and tools, and\n\n- a number of machine learning methods in their functionality as well as the\nUnderstand the limits of their performance.\n\n\n\n\n- apply statistical methods for data analysis, and\n\n\n\n\n- select appropriate data mining algorithms and techniques and focus on practical ones\nApply data.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can handle complex data analysis problems and work in teams\nedit.\n\n**Content:**\n\n  - Statistical methods for linear and nonlinear regression and classification\n(Multiple Linear Regression, Logistic Regression, Regression and Classification Trees, Smoothing Splines, Generalized Additive Models)",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 26,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Machine learning approaches such as Naive Bayes, Support Vector Machines,\nDecision trees / random forests and deep learning approaches\n\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n4.5/3.0 VU Advanced Methods for Regression and Classification\n4.5/3.0 VU Machine Learning\n\n##### **MLS/CO – Machine Learning and Statistics - Core**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- how recommender systems work and the challenges in them\nunderstand and explain their design,\n\n- understand the different approaches to building a recommender system,",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 26,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- understand the different approaches to building a recommender system,\n\n\n\n\n- Understand and explain techniques such as bootstrap and cross-validation, and\n\n\n\n\n- important computer-intensive algorithms and the generation of random numbers\nunderstand and explain.\n\n\n\n26",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 26,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- apply the mathematical understanding of the methods,\n\n\n\n\n- select appropriate method based on data requirements, and\n\n\n\n\n- Apply methods to real data.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can identify data-oriented solutions for complex statistical problems\n\n**Content:**\n\n\n\n\n- Recommender system architectures and concepts\n\n\n\n\n- Content-based recommendations\n\n\n\n\n- Collaborative filtering\n\n\n\n\n- Model-based CF - Matrix Factorization\n\n\n\n\n- Evaluation methods for recommender systems\n\n\n\n\n- Parametric and non-parametric bootstrap\n\n\n\n\n- Model evaluation via cross-validation\n\n\n\n\n- EM algorithm\n\n\n\n\n- Random number generation\n\n\n\n**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 27,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:**\n3.0/2.0 VU Recommender Systems\n3.0/2.0 VU Statistical Simulation and Computer Intensive Methods\n\n##### **MLS/EX – Machine Learning and Statistics - Extension**\n\n\n**Standard workload:** max 18.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen or\nBroadening knowledge, skills and competencies in the field of mechanical engineering\nlearning and statistics.\n\n**Expected previous knowledge:** Individual courses in this module should\nare available for choice and require previous knowledge, these are defined in the course announcement.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:** The following courses are available:\n3.0/2.0 VU Advanced Modeling and Simulation\n\n\n27",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 27,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6,0/4,0 VU AI Programming\n6,0/4,0 VU AKNUM Advanced Reinforcement Learning\n6,0/4,0 VU AKNUM Reinforcement Learning\n6,0/4,0 VU Algorithmic Social Choice\n4,0/6,0 VU Applied Generative AI and LLM-based Systems\n5,0/3,0 VU Bayesian Statistics\n6,0/4,0 VU Business Intelligence\n3,0/2,0 VU Crypto Asset Analytics\n6,0/4,0 VU Deep Learning for Visual Computing\n5,0/3,0 VU General Regression Models\n6,0/4,0 VU Generative AI\n4,5/3,0 VU Intelligent Audio and Music Analysis\n6,0/4,0 VU Logic-based AI\n6,0/4,0 VU Machine Learning for Visual Computing\n3,0/2,0 VU Modeling and Simulation\n3,0/2,0 VU Modelling and Simulation in Health Technology Assessment\n4,5/3,0 VO Multivariate Statistics\n1,5/1,0 UE Multivariate Statistics\n6,0/4,0 VU Problem Solving and Search in Artificial Intelligence\n6,0/4,0 VU Processing of Declarative Knowledge\n4,5/3,0 VU Self-Organizing Systems\n3,0/2,0 VU Similarity Modelling 1\n3,0/2,0 VU Similarity Modelling 2\n3,0/2,0 VU Social Network Analysis",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 28,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "4,5/3,0 VU Self-Organizing Systems\n3,0/2,0 VU Similarity Modelling 1\n3,0/2,0 VU Similarity Modelling 2\n3,0/2,0 VU Social Network Analysis\n6,0/4,0 VU Theoretical Foundations and Research Topics in Machine Learning\n6,0/4,0 VU Theory of Graph Data",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 28,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **VAST/FD – Visual Analytics and Semantic Technologies -** **Foundations**\n\n\n**Regelarbeitsaufwand:** 9,0 ECTS\n\n**Lernergebnisse:**\n_Fachkompetenzen:_ Nach positiver Absolvierung des Moduls können die Studierenden\n\n\n\n\n- Konzepte in Bereich der Visualisierung und Kognition verstehen und beurteilen,\n\n\n\n\n- Visualisierungskonzepte kritisch bewerten,\n\n\n\n\n- die Qualität der visuellen Repräsentation, Interaktionstechniken, analytischen\nMethoden und deren Verbindungen kritisch bewerten,\n\n\n\n\n- die Relevanz von semantischen Konzepten in Data Science beschreiben, und\n\n\n\n\n- Konzepte, Techniken und Methoden von semantischen Systemen mit fachspezifischer\nTerminologie beschreiben.\n\n- Problemanalysemethodiken und Lösungskompetenzen zur Formulierung von Problemstellungen in Bereich der Visualisierung anwenden,\n\n\n\n28",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 28,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Design and implement visualizations,\n\n\n\n\n- evaluate visualization solutions,\n\n\n\n\n- semantic systems based on W3C standards and technologies (RDF,\nimplement RDF-S, OWL, SPARQL),\n\n\n\n\n- Develop linked data applications, and\n\n\n\n\n- Apply ontology engineering concepts.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n\n\n- deepen your knowledge independently,\n\n\n\n\n- formulate visualization-related positions and problem solutions,\n\n\n\n\n- exchange ideas with computer scientists and domain experts,\n\n\n\n\n- take responsibility in a team,\n\n\n\n\n- systematically criticize your own and others' work,\n\n\n\n\n- Self-organization and personal responsibility to solve problems independently\nshow tasks,\n\n\n\n\n- Identify the advantages and disadvantages of different semantic approaches, and\n\n\n\n\n- query linked open data, describe an application area semantically,\nTransform structured data into RDF and applications based on Linked\nDevelop open data.\n\n\n\n**Content:**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 29,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Content:**\n\n\n\n\n- Basics of visualization and cognitive science: General introduction with clarification of terms and historical background\n\n\n\n\n- Goals of visualization, taxonomies, models and information design\n\n\n\n\n- Information design: visual design and preparation of data and information\nand knowledge (field of tension between visualization, graphic design and cognition\nand perception/form laws of perception)\n\n- Scientific visualization, information visualization, visual analysis (visual analytics)\n\n\n\n\n- Spatial and temporal data in the visualization\n\n\n\n\n- Visualization of very large, heterogeneous amounts of data\n\n\n\n\n- Visual analysis and knowledge generation from data sets, visual data handling, processing and analysis\n\n\n\n\n- Interaction techniques\n\n\n\n\n- Evaluation methods\n\n\n\n\n- Visualization applications: healthcare and biotechnology, business,\nSecurity and risk management (fighting crime), environmental and climate research, automotive industry, etc.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 29,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- Basics of the Semantic Web\n\n\n\n\n- Semantic Web technology stack (RDF, RDF-S, OWL, SPARQL, RIF)\n\n\n\n\n- Ontologies and description logic\n\n\n\n\n- Linked Open Data\n\n\n\n29",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 29,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n6.0/4.0 VU Information Visualization\n3.0/2.0 VU Introduction to Semantic Systems\n\n##### **VAST/CO – Visual Analytics and Semantic Technologies - Core**\n\n\n**Standard workload:** 6.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- understand basic concepts of cognition and visualization, and\n\n- assess the suitability of different methods for extracting semantic information from unstructured data.\n\n- use different cognitive and visual concepts in different application areas, and",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 30,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- use different cognitive and visual concepts in different application areas, and\n\n- Natural language processing, information retrieval and machine methods\nCombine learning to extract semantic information from data.\n\n\n\n_Interdisciplinary skills:_ After successfully completing the module, students will be able to assess the suitability of various approaches to extraction, structuring and representation\ncritically evaluate information together\n\n**Content:**\n\n\n\n\n- Practical implementation of theoretical concepts in the field of visualization and\nCognition\n\n\n\n\n- Natural language processing technologies, part-of-speech tagging\n\n\n\n\n- Statistical methods for information extraction and structuring, combination\nwith ontologies\n\n- Application of machine learning methods, especially deep learning for unstructured data (e.g. text, images, audio), word embeddings\n\n\n\n**Mandatory requirements:** None.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 30,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Mandatory requirements:** None.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.\n\n**Courses of the module:**\n3.0/2.0 VU Advanced Information Retrieval\n3.0/2.0 VU Visual Data Science\n\n\n30",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 30,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **VAST/EX – Visual Analytics and Semantic Technologies - Extension**\n\n**Standard workload:** max 18.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen or\nBroadening knowledge, skills and competencies in the field of visual analytics\nand Semantic Technologies.\n\n**Expected previous knowledge:** Individual courses in this module should\nare available for choice and require previous knowledge, these are defined in the course announcement.\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:** The following courses are available:\n6.0/4.0 VU Decideable Logics for Knowledge Representation\n6.0/4.0 VU Deep Learning for Natural Language Processing\n3.0/2.0 VU Graph Data Engineering and Management\n6.0/4.0 VU Knowledge-based Systems\n6.0/4.0 VU Knowledge Graphs\n6.0/4.0 VU Medical Image Processing and Machine Learning\n3.0/2.0 VU Natural Language Processing and Information Extraction\n6.0/4.0 VO Processing of Declarative Knowledge\n3.0/2.0 VU Research Topics in Natural Language Processing\n3.0/2.0 VU Semantic Web Technologies\n3.0/2.0 VU Semi-Automatic Information and Knowledge Systems\n6.0/4.0 VU Visualization\n\n##### **DSA – Domain-Specific Aspects of Data Science**\n\n\n**Standard workload:** 9.0 ECTS\n\n**Learning outcomes:**\n_Professional skills:_ After successfully completing the module, students can\n\n\n\n\n- understand and explain the terminology of different disciplines,",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "- understand and explain the terminology of different disciplines,\n\n\n\n\n- understand the variety of challenges in applying data science methodologies in different domains, and\n\n- name and explain the tasks, data types and tools of the different disciplines.\n\n\n\n\n- Process and analyze data in the selected specialization domain,\n\n\n\n\n- select appropriate method based on data requirements,\n\n\n\n\n- Apply methods to real data, and\n\n\n\n\n- Develop solutions for domain-specific tasks.\n\n\n\n31",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 31,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "_Interdisciplinary skills:_ After successfully completing the module, students can\n\n\n\n\n- communicate efficiently with experts in other disciplines,\n\n\n\n\n- work with scientists and experts in other disciplines to develop common solutions to data science problems,\nand\n\n\n\n\n- work efficiently and goal-oriented.\n\n\n\n**Content:** The lecture series presents different types of questions as well as tools and data types and formats that occur in different disciplines.\nThe research and analysis objectives are presented to provide an introduction to a broad\nto provide a range of topics. Based on this, the students choose a specialist area,\nacquire theoretical knowledge through selected subject-specific lectures and solve problems\na practical problem in interdisciplinary project work.\n\n**Expected prior knowledge:** Basic software engineering skills\nand modeling.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 32,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Expected prior knowledge:** Basic software engineering skills\nand modeling.\n\n**Mandatory Requirements:** To complete the 5.0/4.0 PR Interdisciplinary Project\nStudents must complete at least 3 of the following courses\nhave completed:\n4.5/3.0 VU Advanced Methods for Regression and Classification\n6.0/4.0 VU Experiment Design and Execution\n4.5/3.0 VU Machine Learning\n6.0/4.0 VU Information Visualization\n3.0/2.0 VU Introduction to Semantic Systems\n6.0/3.0 VU Advanced Database Systems\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 32,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses of the module:**\n1.0/1.0 VU Interdisciplinary Lecture Series on Data Science\n5.0/4.0 PR Interdisciplinary Project in Data Science\n3.0/2.0 VO/VU/SE Subject-specific courses selected from a list\nwhich are created in coordination with the lecturers of the lecture series and by\nmanaged by the Study Commission.\n\n##### **Free Electives and Transferable Skills**\n\n\n**Standard workload:** 9.0 ECTS\n\n**Learning outcomes:** The courses in this module serve to deepen the\nsubject as well as the acquisition of non-disciplinary knowledge, skills and competencies.\n\n\n32",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 32,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "_Expertise:_\n_Interdisciplinary skills:_\n\n**Applied teaching and learning methods and appropriate performance assessment:**\nThe teaching and learning forms used are in the information system for studies and\nTeaching must be stated for each course before the start of the semester; as well as that\nExamination modalities.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 33,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Courses in the module:** The courses in this module are free\nfrom the range of scientific and artistic courses offered by the\nDeepening of the subject or the acquisition of non-disciplinary knowledge, skills and\nCompetencies are selected from all recognized domestic and foreign post-secondary educational institutions, with the restriction that at least 4.5 ECTS are required\nthe subject areas of transferable skills must be chosen. For the subject areas of\nTransferable skills are, in particular, courses from the elective catalog\n“Transferable Skills” from the Faculty of Computer Science (Appendix E) and from the central\nTU Wien elective catalog recommended for “transferable skills”.\n\n\n33",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 33,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **B Transitional provisions**\n\n1. Unless otherwise stated, the _Masterstu-_ is referred to below under studies.\n_dium Data Science (study code UE 066 645)_ understood. The term new\nStudy plan refers to this from October 1st, 2025 for this course of study at the Technical University\nUniversity of Vienna valid study plan and old study plan the one valid until then.\nAccordingly, new or old courses include those of the new one\nor old study plan (old also includes earlier study plans). With\nThe study law body is the one responsible for the Master's program in Data Science\nStudy law body at the Vienna University of Technology.\n\n2. The transitional provisions apply to students who have completed their studies\nsubmit according to the new curriculum at the Vienna University of Technology and the\nbefore July 1, 2025 for the master's degree in data science at the Technical University\nVienna were admitted. The extent of the use of the transitional provisions is\nexempt from these students.",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 34,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3. At the student's request, the study law body can modify the transitional provisions individually or to those not covered by paragraph 2\nExpand students.\n\n4. Certificates for courses that are equivalent in content are not permitted\nmust be submitted for graduation at the same time. In case of doubt, decide\nthe study law body about equivalence.\n\n5. Unless otherwise specified below, certificates from old courses can in any case be used for the degree if the\nCourse taught by the student with material semester summer semester\ncompleted in 2025 or earlier.\n\n6. Students to whom the transitional provisions apply in accordance with paragraph 2 can\nThe following courses continue to be in the respective _Extension modules_ for\nuse the degree:\n\n**FDS/EXT – Fundamentals of Data Science Extension**\n\n3.0/2.0 VU Computational Social Science\n\n3.0/2.0 VU User Research Methods\n\n3.0/2.0 PR User Research Methods\n\n**MLS/EXT – Machine Learning and Statistics Extension**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 34,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VU User Research Methods\n\n3.0/2.0 PR User Research Methods\n\n**MLS/EXT – Machine Learning and Statistics Extension**\n\n4.0/3.0 VU AI/ML in the Era of Climate Change\n(may not be used together with 6.0/4.0 VU Introduction to Computational Sustainability\nbe used.)\n\n3.0/2.0 VO Bayesian Statistics\n(Not to be used together with 5.0/3.0 VU Bayesian Statistics.)\n\n\n34",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 34,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "2.0/1.0 UE Bayesian Statistics\n(Not to be used together with 5.0/3.0 VU Bayesian Statistics.)\n\n3.0/2.0 VU Mathematical Programming\n\n**VAST/EXT – Visual Analytics and Semantic Technologies Extension**\n\n3.0/2.0 VU Document Analysis\n\n1.5/1.0 UE Information Visualization\n(Not to be used together with 6.0/4.0 VU Information Visualization.)\n\n3.0/2.0 VU Real-time Visualization\n\n3.0/2.0 VU Visual Data Science\n\n7. Students to whom the transitional provisions apply in accordance with paragraph 2 can\nThe following courses continue to apply to the area of transferable skills\nuse the degree:\n\n3.0/2.0 SE Coaching as a management tool 2\n\n3.0/2.0 VO Introduction to the Philosophy of Science I\n\n3.0/2.0 VO Introduction to technology and society\n\n3.0/2.0 SE Impact assessment of information technologies\n\n3.0/2.0 VU Research Methods\n\n3.0/2.0 VO Women in science and technology\n\n3.0/2.0 VU Italian for Engineers I\n\n3.0/2.0 VU Communication and Moderation\n\n3.0/2.0 VU Cooperative work",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 35,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VO Women in science and technology\n\n3.0/2.0 VU Italian for Engineers I\n\n3.0/2.0 VU Communication and Moderation\n\n3.0/2.0 VU Cooperative work\n\n1.5/1.0 VO Presentation, moderation and mediation\n\n3.0/2.0 UE Presentation, moderation and mediation\n\n4.0/4.0 SE Privatissimum from Computer Science Didactics\n\n3.0/2.0 SE Legal information research on the Internet\n\n3.0/2.0 VU Technical Russian I\n\n3.0/2.0 VU Technical Russian II\n\n3.0/2.0 VU Technical Spanish I\n\n3.0/2.0 VU Technical Spanish II\n\n3.0/2.0 VU Technical English Communication\n\n3.0/2.0 VU Technical English Presentation\n\n3.0/2.0 VU Sociology of Technology and Psychology of Technology\n\n3.0/2.0 VU Technical French, High Level I\n\n3.0/2.0 VO Theory and practice of group work\n\n\n35",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 35,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "8. The following list provides for each (combination of) old course(s),\nwhich no longer exists in the new curriculum or is now in a different form,\nwhat this can be used for.\n\nEach course is determined by its scope in ECTS points (first number)\nand semester hours (second number), their type and title are described. It\nWhat counts is the ECTS amount of the course actually completed. A possible surplus of completed ECTS can in any case reduce the number of credits\nECTS to be completed for _Free Electives and Transferable Skills_ are used\nbecome.\n\nApart from the options specified, a course can always also\ncan be used as a course for _Free Electives and Transferable Skills_.\nHowever, only one of the two equivalent courses can be used for each\nthe degree can be used.\n\ni Instead of 3.0/2.0 VU Data-oriented Programming Paradigms (FDS/FD) and\n3.0/2.0 VU Experiment Design for Data Science (FDS/FD) new: 6.0/4.0 VU\nExperiment Design and Execution (FDS/FD)",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "ii Instead of 3.0/2.0 UE Design and Evaluation of Visualizations (VAST/CO) new:\n3.0/2.0 VU Visual Data Science\n\niii Instead of 3.0/2.0 VO Information Visualization and 3.0/2.0 VO Cognitive Foundations of Visualization new: 6.0/4.0 VU Information Visualization\n\niv Instead of 4.5/3.0 VU Advanced Multiprocessor Programming new: 6.0/4.0 VU\nAdvanced Multiprocessor Programming\n\nv Instead of 4.5/3.0 VU Algorithmic Geometry new: 6.0/4.0 VU Algorithmic Geometry\n\nvi Instead of 3.0/2.0 VU approximation algorithms new: 6.0/4.0 VU Beyond Exact\nAlgorithms\n\nvii Instead of 3.0/2.0 VU Database Theory new: 6.0/4.0 VU Database Theory\n\nviii Instead of 4.5/3.0 VU Fixed Parameter Algorithms and Complexity new: 6.0/4.0\nVU Fixed-Parameter Algorithms and Complexity\n\nix Instead of 4.5/3.0 VU Graph Drawing Algorithms new: 6.0/4.0 VU Graph Drawing\nAlgorithms\n\nx Instead of 4.5/3.0 VU Heuristic Optimization Techniques new: 6.0/4.0 VU Heuristic\nOptimization Techniques",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "x Instead of 4.5/3.0 VU Heuristic Optimization Techniques new: 6.0/4.0 VU Heuristic\nOptimization Techniques\n\nxi Instead of 4.5/3.0 VU high performance computing, new: 6.0/4.0 VU high performance computing\n\nxii Instead of 4.5/3.0 VU Hybrid Classic/Quantum Systems new: 6.0/4.0 VU Hybrid\nClassic Quantum Systems\n\nxiii Instead of 4.0/3.0 VU Introduction To Computational Sustainability new: 6.0/4.0\nVU Introduction To Computational Sustainability\n\n\n36",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 36,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "xiv Instead of 3.0/2.0 VU Optimization in Transport and Logistics new: 6.0/4.0 VU\nMathematical Programming and Optimization in Logistics\n\nxv Instead of 3.0/2.0 VU Randomized Algorithms new: 6.0/4.0 VU Beyond Exact\nalgorithms\n\nxvi Instead of 3.0/2.0 VU Structural Decompositions new: 6.0/4.0 VU Structural\nDecompositions and Algorithmic Meta-Theorems\n\nxvii Instead of 3.0/2.0 VU Sustainability in Computer Science new: 6.0/4.0 VU Sustainability in Computer Science\n\nxviii Instead of 3.0/2.0 VU AKNUM Advanced Reinforcement Learning new: 6.0/4.0\nVU Advanced Reinforcement Learning\n\nxix Instead of 3.0/4.0 VU Applied Deep Learning new: 6.0/4.0 VU Applied Generative\nAI and LLM-based Systems\n\nxx Instead of 3.0/2.0 VU Generative AI new: 6.0/4.0 VU Generative AI\n\nxxi Instead of 3.0/2.0 VU Deep Learning for Visual Computing new: 6.0/4.0 VU Deep\nLearning for Visual Computing\n\nxxii Instead of 4.5/3.0 VU Machine Learning for Visual Computing new: 6.0/4.0 VU\nMachine Learning for Visual",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 37,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "xxii Instead of 4.5/3.0 VU Machine Learning for Visual Computing new: 6.0/4.0 VU\nMachine Learning for Visual\n\nxxiii Instead of 3.0/2.0 VU Probabilistic Programming and AI Computing new: 6.0/4.0\nVU AI Programming\n\nxxiv Instead of 3.0/2.0 VU Problem Solving and Search in Artificial Intelligence new:\n6.0/4.0 VU Problem Solving and Search in AI\n\nxxv Instead of 3.0/2.0 VU Theoretical Foundations and Research Topics in Machine\nLearning new: 6.0/4.0 VU Theoretical Foundations and Research Topics in\nMachine learning\n\nxxvi Instead of 3.0/2.0 VU Deductive Databases and/or 3.0/2.0 VU Processing of\nDeclarative Knowledge new: 6.0/4.0 VU Processing of Declarative Knowledge\n\nxxvii Instead of 3.0/2.0 VU Description Logics and Ontologies new: 6.0/4.0 VU Decidable\nLogics for Knowledge Representation\n\nxxviii Instead of 3.0/2.0 VU Knowledge Graphs new: 6.0/4.0 VU Knowledge Graphs",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 37,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "xxviii Instead of 3.0/2.0 VU Knowledge Graphs new: 6.0/4.0 VU Knowledge Graphs\n\nxxix Instead of 3.0/2.0 VO Medical Image Processing and/or 3.0/2.0 UE Medical\nImage Processing new: 6.0/4.0 VU Medical Image Processing and Machine\nLearning\n\nxxx Instead of 4.5/3.0 VU Visualization 2 new: 6.0/4.0 VU Visualization\n\n\n37",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 37,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **C Semester division of courses**\n\nIt is recommended that the courses in the compulsory modules be arranged in the following order\nto complete.\n\n\n**1. Semester (WS)**\n\n4.5 VU Advanced Methods for Regression and Classification\n6.0 VU Experiment Design and Execution\n1.0 VU Interdisciplinary Lecture Series on Data Science\n3.0 VU Introduction to Semantic Systems\n4.5 VU machine learning\n\n\n**2. Semester (SS)**\n\n6.0 VU Advanced Database Systems\n3.0 VU Data-intensive computing\n6.0 VU Information Visualization\n3.0 VU AKSTA Statistical Computing\n\n\n**3. Semester (WS)**\n\n5.0 PR Interdisciplinary Project in Data Science\n\n\n38",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 38,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **D Semester recommendation for those with a difficult start** **Students**\n\nIt is recommended that the courses in the compulsory modules be arranged in the following order\nto complete.\n\n\n**1. Semester (SS)**\n\n6.0 VU Advanced Database Systems\n3.0 VU Data-intensive computing\n6.0 VU Information Visualization\n3.0 VU AKSTA Statistical Computing\n\n\n**2. Semester (WS)**\n\n4.5 VU Advanced Methods for Regression and Classification\n6.0 VU Experiment Design and Execution\n1.0 VU Interdisciplinary Lecture Series on Data Science\n3.0 VU Introduction to Semantic Systems\n4.5 VU machine learning\n\n\n**3. Semester (SS)**\n\n5.0 PR Interdisciplinary Project in Data Science\n\n\n39",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 39,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **E Elective subject catalog “Transferable Skills”**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "The courses included in the _Free Electives and Transferable Skills_ module from the\nThe topic area “Transferable Skills” can be chosen from, among other things\nfollowing catalog can be selected.\n3.0/2.0 SE Coaching as a management tool 1\n3.0/2.0 SE Coaching as a management tool 2\n3.0/2.0 SE Didactics in Computer Science\n1.5/1.0 VO IT contract law\n3.0/2.0 VO Introduction to the Philosophy of Science I\n3.0/2.0 VO Introduction to technology and society\n3.0/2.0 SE Impact assessment of information technologies\n3.0/2.0 VU Research Methods\n3.0/2.0 VO Women in science and technology\n3.0/2.0 SE Group Dynamics\n3.0/2.0 VU Communication and Moderation\n3.0/2.0 SE Communication and Rhetoric\n1.5/1.0 SE communication technology\n3.0/2.0 VU Cooperative work\n3.0/2.0 VU Presentation and moderation\n1.5/1.0 VO Presentation, moderation and mediation\n3.0/2.0 UE Presentation, moderation and mediation\n3.0/2.0 VU Presentation and negotiation techniques\n4.0/4.0 SE Privatissimum from Computer Science Didactics",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "3.0/2.0 VU Presentation and negotiation techniques\n4.0/4.0 SE Privatissimum from Computer Science Didactics\n3.0/2.0 VU Rhetoric, body language, argumentation training\n3.0/2.0 VU Soft skills for technicians\n3.0/2.0 VU Sociology of Technology and Psychology of Technology\n3.0/2.0 VO Theory and practice of group work\n3.0/2.0 VO Between career and barrier",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "40",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 40,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **F Extension course Innovation**\n\nStudents who use the skills they acquired in their master's degree to start a business\nof a startup or in the management of a company or for project work\nIf you want to apply the skills required for these activities in a university environment\nacquire additional skills as part of the _Innovation_ extension course,\nwhich can be completed alongside the master's degree.\nThe (additional) workload for the English-language extension course _In-_\n_novation_ is 30 ECTS points (this corresponds to one semester). The conclusion of the\nThe _Innovation_ extension course can also be completed after completing the master's degree\ntake place.\n\n\n41",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 41,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "#### **G Prüfungsfächer mit den zugeordneten Pflichtmodulen** **und Lehrveranstaltungen**\n##### **Prüfungsfach „Data Science - Foundations“**\n\n**Modul „FDS/FD – Fundamentals of Data Science - Foundations“ (9,0 ECTS)**\n3,0/2,0 VU AKSTA Statistical Computing\n6,0/4,0 VU Experiment Design and Execution\n\n**Modul „MLS/FD – Machine Learning and Statistics - Foundations“ (9,0 ECTS)**\n4,5/3,0 VU Advanced Methods for Regression and Classification\n4,5/3,0 VU Machine Learning\n\n**Modul „BDHPC/FD – Big Data and High Performance Computing - Foundations“**\n**(9,0 ECTS)**\n6,0/3,0 VU Advanced Database Systems\n3,0/2,0 VU Data-intensive Computing\n\n**Modul „VAST/FD – Visual Analytics and Semantic Technologies - Foundations“**\n**(9,0 ECTS)**\n6,0/4,0 VU Information Visualization\n3,0/2,0 VU Introduction to Semantic Systems\n\n##### **Prüfungsfach „Domain-Specific Aspects of Data Science“**",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 42,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Prüfungsfach „Domain-Specific Aspects of Data Science“**\n\n\n**Modul „DSA – Domain-Specific Aspects of Data Science“ (9,0 ECTS)**\n1,0/1,0 VU Interdisciplinary Lecture Series on Data Science\n5,0/4,0 PR Interdisciplinary Project in Data Science\n\n##### **Prüfungsfach „Fundamentals of Data Science - Core and Extension** **(SB)“**\n\n\n**Modul „FDS/CO – Fundamentals of Data Science - Core“ (6,0 ECTS)**\n3,0/2,0 VU Data Acquisition and Survey Methods\n3,0/2,0 VO Data Stewardship\n\n**Modul „FDS/EX – Fundamentals of Data Science - Extension“ (max 18,0 ECTS)**\n6,0/4,0 VU Advanced Cryptography\n3,0/2,0 VU Communicating Data\n3,0/2,0 VU Computer Numerics\n6,0/4,0 VU Numerical Computation\n4,0/3,0 VU Complex Systems I (MedUni Wien)\n\n\n42",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 42,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "4,0/3,0 VU Complex Systems II (MedUni Wien)\n3,0/2,0 UE Data Stewardship\n3,0/2,0 VU Digital Humanism\n3,0/2,0 VU Internet Security\n3,0/2,0 VU Machine Learning Operations\n6,0/4,0 VU Sustainability in Computer Science\n6,0/4,0 VU Symmetric Cryptography\n6,0/4,0 VU Systems and Applications Security\n\n##### **Prüfungsfach „Machine Learning and Statistics - Core and Extension** **(SB)“**\n\n\n**Modul „MLS/CO – Machine Learning and Statistics - Core“ (6,0 ECTS)**\n3,0/2,0 VU Recommender Systems\n3,0/2,0 VU Statistical Simulation and Computer Intensive Methods",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 43,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Modul „MLS/EX – Machine Learning and Statistics - Extension“ (max 18,0 ECTS)**\n3,0/2,0 VU Advanced Modeling and Simulation\n6,0/4,0 VU AI Programming\n6,0/4,0 VU AKNUM Advanced Reinforcement Learning\n6,0/4,0 VU AKNUM Reinforcement Learning\n6,0/4,0 VU Algorithmic Social Choice\n4,0/6,0 VU Applied Generative AI and LLM-based Systems\n5,0/3,0 VU Bayesian Statistics\n6,0/4,0 VU Business Intelligence\n3,0/2,0 VU Crypto Asset Analytics\n6,0/4,0 VU Deep Learning for Visual Computing\n5,0/3,0 VU General Regression Models\n6,0/4,0 VU Generative AI\n4,5/3,0 VU Intelligent Audio and Music Analysis\n6,0/4,0 VU Logic-based AI\n6,0/4,0 VU Machine Learning for Visual Computing\n3,0/2,0 VU Modeling and Simulation\n3,0/2,0 VU Modelling and Simulation in Health Technology Assessment\n4,5/3,0 VO Multivariate Statistics\n1,5/1,0 UE Multivariate Statistics\n6,0/4,0 VU Problem Solving and Search in Artificial Intelligence\n6,0/4,0 VU Processing of Declarative Knowledge\n4,5/3,0 VU Self-Organizing Systems",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 43,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6,0/4,0 VU Problem Solving and Search in Artificial Intelligence\n6,0/4,0 VU Processing of Declarative Knowledge\n4,5/3,0 VU Self-Organizing Systems\n3,0/2,0 VU Similarity Modelling 1\n3,0/2,0 VU Similarity Modelling 2\n3,0/2,0 VU Social Network Analysis\n6,0/4,0 VU Theoretical Foundations and Research Topics in Machine Learning",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 43,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "43",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 43,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "6,0/4,0 VU Theory of Graph Data\n\n##### **Prüfungsfach „Big Data and High-Performance Computing - Core** **and Extension (SB)“**\n\n\n**Modul „BDHPC/CO – Big Data and High Performance Computing - Core“ (6,0**\n**ECTS)**\n3,0/2,0 VU Basics of Parallel Computing\n3,0/2,0 VU Efficient Programs",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 44,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Modul „BDHPC/EX – Big Data and High Performance Computing - Extension“**\n**(max 18,0 ECTS)**\n6,0/4,0 VU Advanced Multiprocessor Programming\n6,0/4,0 VU Algorithmic Geometry\n6,0/4,0 VU Algorithmics\n3,0/3,0 VO Analysis 2\n4,5/2,0 UE Analysis 2\n6,0/4,0 VU Beyond Exact Algorithms\n3,0/2,0 VU Complexity Analysis\n6,0/4,0 VU Database Theory\n6,0/4,0 VU Fixed-Parameter Algorithms and Complexity\n3,0/2,0 VU Frontiers of Algorithms and Complexity\n6,0/4,0 VU GPU Architectures and Computing\n6,0/4,0 VU Graph Drawing Algorithms\n6,0/4,0 VU Hands on Cloud Native\n6,0/4,0 VU Heuristic Optimization Techniques\n6,0/4,0 VU High Performance Computing\n3,0/2,0 VU High Performance Computing Operations\n6,0/4,0 VU Hybrid ClassicQuantum Systems\n6,0/4,0 VU Introduction to Computational Sustainability\n6,0/4,0 VU Mathematical Programming and Optimization in Logistics\n3,0/2,0 VU Nonlinear Optimization\n6,0/4,0 VU Structural Decompositions and Algorithmic Meta-Theorems",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 44,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "##### **Prüfungsfach „Visual Analytics and Semantic Technologies - Core** **and Extension (SB)“**\n\n\n**Modul „VAST/CO – Visual Analytics and Semantic Technologies - Core“ (6,0**\n**ECTS)**\n3,0/2,0 VU Advanced Information Retrieval\n3,0/2,0 VU Visual Data Science\n\n\n44",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 44,
+      "chunk_strategy": "page_recursive"
+    }
+  },
+  {
+    "content": "**Modul „VAST/EX – Visual Analytics and Semantic Technologies - Extension“ (max**\n**18,0 ECTS)**\n6,0/4,0 VU Decideable Logics for Knowledge Representation\n6,0/4,0 VU Deep Learning for Natural Language Processing\n3,0/2,0 VU Graph Data Engineering and Management\n6,0/4,0 VU Knowledge-based Systems\n6,0/4,0 VU Knowledge Graphs\n6,0/4,0 VU Medical Image Processing and Machine Learning\n3,0/2,0 VU Natural Language Processing and Information Extraction\n6,0/4,0 VO Processing of Declarative Knowledge\n3,0/2,0 VU Research Topics in Natural Language Processing\n3,0/2,0 VU Semantic Web Technologies\n3,0/2,0 VU Semi-Automatic Information and Knowledge Systems\n6,0/4,0 VU Visualization\n\n##### **Prüfungsfach „Freie Wahlfächer und Transferable Skills“**\n\n\n**Modul „Free Electives and Transferable Skills“ (9,0 ECTS)**\n\n##### **Prüfungsfach „Diplomarbeit“**\n\n1,5/1,0 SE Seminar für Diplomand_innen\n27,0 ECTS Diplomarbeit\n1,5 ECTS Kommissionelle Abschlussprüfung\n\n\n45",
+    "metadata": {
+      "program_name": "Master Data Science",
+      "degree_level": "Master",
+      "ects": null,
+      "language": "German",
+      "document_type": "Curriculum",
+      "source_url": "https://informatics.tuwien.ac.at/master/curriculum-ue066645.pdf",
+      "page_number": 45,
+      "chunk_strategy": "page_recursive"
+    }
+  }
+]
