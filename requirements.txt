@@ -1,12 +1,10 @@
-scrapy
-scrapy-playwright
 markdownify
 langchain
 langchain-core
 langchain-community
 langchain-chroma
-langchain-openai
 langchain-groq
+langchain_huggingface
 chromadb
 sentence-transformers
 jq
@@ -15,7 +13,6 @@ ftfy
 deep_translator
 bs4
 rank_bm25
-langchain_huggingface
 python-dotenv
 streamlit
 streamlit-chat
