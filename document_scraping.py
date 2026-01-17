@@ -5,13 +5,22 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import chromadb
 import re
+import os
 import requests
+import json
 from bs4 import BeautifulSoup
 from markdownify import markdownify as md
 from urllib.parse import urljoin, urlparse
 import hashlib
+from dotenv import load_dotenv
 
 from config import EMBEDDING_MODEL, CHUNK_SIZE, CHUNK_OVERLAP, CHROMADB_COLLECTION
+
+#load_dotenv()
+
+CHROMADB_HOST = os.getenv("CHROMADB_HOST", "localhost")
+CHROMADB_PORT = os.getenv("CHROMADB_PORT", 8000)
+URLS_PATH = "scrape_urls.json"
 
 # --- CONFIGURATION ---
 BASE_URLS = [
@@ -274,7 +283,7 @@ embeddings = HuggingFaceEmbeddings(
     model_name=EMBEDDING_MODEL
 )
 
-client = chromadb.HttpClient(host="localhost", port=8000)
+client = chromadb.HttpClient(host=CHROMADB_HOST, port=CHROMADB_PORT)
 
 # Delete existing collection to avoid duplicates
 try:
