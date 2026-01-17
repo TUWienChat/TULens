@@ -5,23 +5,26 @@ Connects to ChromaDB for retrieval and uses Groq for generation
 
 import os
 import tempfile
-from pathlib import Path
-from typing import List, Tuple, Optional
-from dotenv import load_dotenv
+from typing import List, Tuple
 
 import chromadb
-from langchain_community.document_loaders import PyPDFLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from dotenv import load_dotenv
 from langchain_chroma import Chroma
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_classic.chains import RetrievalQA
+from langchain_community.document_loaders import PyPDFLoader
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import PromptTemplate, ChatPromptTemplate, MessagesPlaceholder
 from langchain_groq import ChatGroq
-from langchain_core.prompts import PromptTemplate
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from config import EMBEDDING_MODEL, CHROMADB_COLLECTION, LLM_MODEL
 
 # Load environment variables
 load_dotenv()
+
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+CHROMADB_HOST = os.getenv("CHROMADB_HOST")
+CHROMADB_PORT = os.getenv("CHROMADB_PORT")
 
 
 class TUWienRAG:
@@ -29,8 +32,8 @@ class TUWienRAG:
     
     def __init__(
         self, 
-        chroma_host: str = "localhost", 
-        chroma_port: int = 8000,
+        chroma_host: str = CHROMADB_HOST,
+        chroma_port: int = CHROMADB_PORT,
         collection_name: str = CHROMADB_COLLECTION
     ):
         """
@@ -59,7 +62,7 @@ class TUWienRAG:
         self.llm = ChatGroq(
             model_name=LLM_MODEL,
             temperature=0.3,
-            api_key=os.getenv("GROQ_API_KEY")
+            api_key=GROQ_API_KEY
         )
         
         # Initialize in-memory ChromaDB for user uploads
@@ -139,26 +142,30 @@ Question: {question}
 
 Helpful Answer:"""
         
-        PROMPT = PromptTemplate(
-            template=prompt_template,
-            input_variables=["context", "question"]
-        )
+
+        prompt = ChatPromptTemplate.from_messages([
+            ("system", prompt_template),
+            MessagesPlaceholder(variable_name="chat_history"),
+            ("human", "{question}")
+        ])
         
         print("Setting up QA chain with MMR retrieval...")
-        # Use MMR (Maximal Marginal Relevance) for diverse, relevant results
-        self.qa_chain = RetrievalQA.from_chain_type(
-            llm=self.llm,
-            chain_type="stuff",
-            retriever=self.vector_store.as_retriever(
+        retriever = self.vector_store.as_retriever(
                 search_type="mmr",
                 search_kwargs={
                     "k": 8,
                     "fetch_k": 16,
                     "lambda_mult": 0.6
                 }
-            ),
-            chain_type_kwargs={"prompt": PROMPT},
-            return_source_documents=True
+            )
+        self.qa_chain = (
+                {
+                    "context": lambda x: "\n\n".join(ret_doc.page_content for ret_doc in retriever.invoke(x["question"])),
+                    "question": lambda x: x["question"]
+                }
+                | prompt
+                | self.llm
+                | StrOutputParser()
         )
         print("✅ QA chain ready")
     
