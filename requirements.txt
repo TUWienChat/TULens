@@ -15,3 +15,8 @@ ftfy
 deep_translator
 bs4
 rank_bm25
+langchain_huggingface
+python-dotenv
+streamlit
+streamlit-chat
+pydantic
