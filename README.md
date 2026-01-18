@@ -50,7 +50,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 Get a free API key from [console.groq.com](https://console.groq.com)
 
-### 3. Start ChromaDB
+### 3. Start Application on Docker
 
 ```bash
 docker-compose up -d
@@ -69,7 +69,7 @@ This will:
 - Extract and process curriculum PDFs
 - Store embeddings in ChromaDB
 
-### 5. Launch the Chat UI
+### 5. Launch the Chat UI Locally
 
 ```bash
 streamlit run app.py
