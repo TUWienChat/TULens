@@ -8,12 +8,14 @@ from config import EMBEDDING_MODEL, CHROMADB_COLLECTION
 
 # --- CONFIGURATION ---
 os.environ["GROQ_API_KEY"] = "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"
+CHROMADB_HOST = os.getenv("CHROMADB_HOST", "localhost")
+CHROMADB_PORT = os.getenv("CHROMADB_PORT", 8000)
 
 # Initialize embeddings
 embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
 
 # Connect to ChromaDB
-client = chromadb.HttpClient(host="localhost", port=8000)
+client = chromadb.HttpClient(host=CHROMADB_HOST, port=CHROMADB_PORT)
 
 vectorstore = Chroma(
     client=client,

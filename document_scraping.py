@@ -23,20 +23,78 @@ CHROMADB_PORT = os.getenv("CHROMADB_PORT", 8000)
 URLS_PATH = "scrape_urls.json"
 
 # --- CONFIGURATION ---
-BASE_URLS = [
-    {
-        "url": "https://informatics.tuwien.ac.at/master/",
-        "pattern": r"https://informatics.tuwien.ac.at/master/(data-science|business-informatics|software-engineering|embedded-computing-systems|logic-and-artificial-intelligence|media-and-human-centered-computing|medical-informatics|visual-computing)/.*"
-    },
-    {
-        "url": "https://www.tuwien.at/en/studies/admission",
-        "pattern": r"https://www.tuwien.at/en/studies/admission/(masters-programmes|academic-calendar|changing-your-degree-programme)/.+"
-    },
-    {
-        "url": "https://tiss.tuwien.ac.at/hilfe/zu/tiss",
-        "pattern": "https://tiss.tuwien.ac.at/hilfe/zu/tiss/.+"
-    }
-]
+# BASE_URLS = [
+#     {
+#         "url": "https://informatics.tuwien.ac.at/master/",
+#         "pattern": r"https://informatics.tuwien.ac.at/master/(data-science|business-informatics|software-engineering|embedded-computing-systems|logic-and-artificial-intelligence|media-and-human-centered-computing|medical-informatics|visual-computing)/.*",
+#         "depth": 2
+#     },
+#     {
+#         "url": "https://www.tuwien.at/en/studies/admission/",
+#         "pattern": r"https://www.tuwien.at/en/studies/admission/(masters-programmes|academic-calendar|changing-your-degree-programme)/.+",
+#         "depth": 2
+#     },
+#     {
+#         "url": "https://tiss.tuwien.ac.at/hilfe/zu/tiss/faq",
+#         "pattern": None,
+#         "depth": 1
+#     },
+#     {
+#         "url": "https://tiss.tuwien.ac.at/hilfe/zu/tiss/education",
+#         "pattern": None,
+#         "depth": 1
+#     },
+#     {
+#         "url": "https://tiss.tuwien.ac.at/hilfe/zu/tiss/organisation",
+#         "pattern": None,
+#         "depth": 1
+#     },
+#     {
+#         "url": "https://tiss.tuwien.ac.at/hilfe/zu/tiss/new_erste_info_stud",
+#         "pattern": None,
+#         "depth": 1
+#     }
+# ]
+
+def build_patterns_from_json(config_path=URLS_PATH):
+    # 1. Load the JSON data
+    with open(config_path, 'r') as file:
+        data = json.load(file)
+
+    processed_urls = []
+
+    # 2. Iterate and rebuild patterns
+    for entry in data:
+        base_url = entry['url']  # Remove trailing slash
+        suffix = entry.get('suffix', '')  # Default suffix if missing
+        subpages = entry.get('pages_filter', [])
+        pattern = entry.get('pattern', None)
+        depth = entry.get('depth', 1)
+
+        if subpages:
+            # Escape strings to ensure special chars don't break regex
+            # Join them: (page1|page2|page3)
+            group_pattern = "|".join([re.escape(p) for p in subpages])
+
+            # Construct: base + /(group) + suffix
+            pattern_str = f"{re.escape(base_url)}({group_pattern})/{suffix}"
+            pattern_str = re.compile(pattern_str).pattern
+        elif pattern:
+            # Fallback: If no subpages, just append suffix to url
+            pattern_str = pattern
+        else:
+            pattern_str = None
+
+        # 3. Store the compiled object
+        processed_urls.append({
+            "url": base_url,
+            "pattern": pattern_str,
+            "depth": depth
+        })
+
+    return processed_urls
+
+BASE_URLS = build_patterns_from_json()
 
 def clean_pdf_text(text: str) -> str:
     """Enhanced PDF text cleaning with better formatting preservation."""
@@ -233,7 +291,7 @@ for base_url in BASE_URLS:
     print(f"  Scraping: {base_url['url']}")
     web_loader = RecursiveUrlLoader(
         url=base_url['url'],
-        max_depth=2,
+        max_depth=base_url['depth'],
         extractor=html_extractor,
         link_regex=base_url['pattern'],
         prevent_outside=True
