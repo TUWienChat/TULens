@@ -17,14 +17,14 @@ from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-from config import EMBEDDING_MODEL, CHROMADB_COLLECTION, LLM_MODEL
+from config import EMBEDDING_MODEL, CHROMADB_COLLECTION, LLM_MODEL, CHUNK_SIZE, CHUNK_OVERLAP
 
 # Load environment variables
 load_dotenv()
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-CHROMADB_HOST = os.getenv("CHROMADB_HOST")
-CHROMADB_PORT = os.getenv("CHROMADB_PORT")
+CHROMADB_HOST = os.getenv("CHROMADB_HOST", "localhost")
+CHROMADB_PORT = int(os.getenv("CHROMADB_PORT", "8000"))
 
 
 class TUWienRAG:
@@ -339,8 +339,8 @@ Helpful Answer:"""
             
             # Split the new documents
             text_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=800,
-                chunk_overlap=150,
+                chunk_size=CHUNK_SIZE,
+                chunk_overlap=CHUNK_OVERLAP,
                 separators=["\n\n", "\n", ". ", " ", ""]
             )
             new_docs_split = text_splitter.split_documents(new_docs)

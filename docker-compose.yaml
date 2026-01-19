@@ -8,15 +8,25 @@ services:
       - IS_PERSISTENT=TRUE
     ports:
       - "8000:8000"
+    networks:
+      - tulens-network
 
   streamlit-ui:
     build:
       context: .
     ports:
       - "8501:8501"
+    environment:
+      - CHROMADB_HOST=chromadb
+      - CHROMADB_PORT=8000
+    depends_on:
+      - chromadb
+    networks:
+      - tulens-network
 
 networks:
-  bridge:
+  tulens-network:
+    driver: bridge
 
 volumes:
   chroma-data:

@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 
 from config import EMBEDDING_MODEL, CHUNK_SIZE, CHUNK_OVERLAP, CHROMADB_COLLECTION
 
-#load_dotenv()
+load_dotenv()
 
 CHROMADB_HOST = os.getenv("CHROMADB_HOST", "localhost")
 CHROMADB_PORT = os.getenv("CHROMADB_PORT", 8000)

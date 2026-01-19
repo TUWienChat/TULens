@@ -46,15 +46,26 @@ Create a `.env` file:
 
 ```env
 GROQ_API_KEY=your_groq_api_key_here
+CHROMADB_HOST=localhost
+CHROMADB_PORT=8000
 ```
 
-Get a free API key from [console.groq.com](https://console.groq.com)
+**Note:**
+- Get a free API key from [console.groq.com](https://console.groq.com)
+- `CHROMADB_HOST` and `CHROMADB_PORT` are optional (defaults to `localhost:8000`)
+- When running in Docker, `CHROMADB_HOST` should be set to `chromadb` (the service name)
 
 ### 3. Start Application on Docker
 
 ```bash
 docker-compose up -d
 ```
+
+This starts:
+- **ChromaDB** service on port 8000 (persistent data in Docker volume)
+- **Streamlit UI** service on port 8501 (connects to ChromaDB via Docker network)
+
+**Note:** When running locally (not in Docker), ensure ChromaDB is running and set `CHROMADB_HOST=localhost` in your `.env` file.
 
 ### 4. Ingest Documents
 

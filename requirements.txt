@@ -12,6 +12,7 @@ pypdf
 ftfy
 deep_translator
 bs4
+lxml
 rank_bm25
 python-dotenv
 streamlit

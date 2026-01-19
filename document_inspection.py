@@ -5,9 +5,10 @@ from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 
 from config import EMBEDDING_MODEL, CHROMADB_COLLECTION
+from dotenv import load_dotenv
 
 # --- CONFIGURATION ---
-os.environ["GROQ_API_KEY"] = "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"
+load_dotenv()
 CHROMADB_HOST = os.getenv("CHROMADB_HOST", "localhost")
 CHROMADB_PORT = os.getenv("CHROMADB_PORT", 8000)
 
