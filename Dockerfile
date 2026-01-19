@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app.py .
 COPY config.py .
 COPY rag_system.py .
-COPY .env .
+COPY .env_docker .env
 
 # Expose the port Streamlit runs on
 EXPOSE 8501
