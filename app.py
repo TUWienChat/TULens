@@ -55,10 +55,24 @@ if "rag_system" not in st.session_state:
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
+if "response_language" not in st.session_state:
+    st.session_state.response_language = "English"
+
 # Sidebar
 with st.sidebar:
     st.header("⚙️ Configuration")
     
+    st.markdown("### 🌐 Response Language")
+    st.session_state.response_language = st.toggle(
+        "German / Deutsch",
+        value=st.session_state.response_language == "German",
+        help="Toggle to switch response language between English and German"
+    )
+    st.session_state.response_language = "German" if st.session_state.response_language else "English"
+    st.caption(f"Current: **{st.session_state.response_language}**")
+
+    st.divider()
+
     st.markdown("### About")
     st.info(
         "This is a RAG-powered assistant for TU Wien informatics master programs. "
@@ -190,10 +204,11 @@ if prompt := st.chat_input("Ask about TU Wien informatics programs..."):
                 # Build conversation history
                 conversation_history = [msg for msg in st.session_state.messages[:-1]]
                 
-                # Query with conversation context
+                # Query with conversation context and language preference
                 answer, sources = st.session_state.rag_system.query(
                     prompt, 
-                    conversation_history=conversation_history
+                    conversation_history=conversation_history,
+                    response_language=st.session_state.response_language
                 )
                 st.markdown(answer)
                 

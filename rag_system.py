@@ -185,7 +185,7 @@ Alternative queries:"""
         except Exception:
             return [question]
     
-    def query(self, question: str, conversation_history: List[dict] = None) -> Tuple[str, List]:
+    def query(self, question: str, conversation_history: List[dict] = None, response_language: str = "English") -> Tuple[str, List]:
         """Query the RAG system with conversation context, searching both stores"""
         if not self.qa_chain:
             raise ValueError("QA chain not initialized. Call setup_qa_chain() first.")
@@ -210,12 +210,18 @@ Alternative queries:"""
         # Build context from combined documents
         context = "\n\n".join([doc.page_content for doc in combined_docs])
         
+        # Set language-specific instructions
+        if response_language == "German":
+            language_instruction = "Always answer in German (Deutsch), even if source documents are in English"
+        else:
+            language_instruction = "Always answer in English, even if source documents are in German"
+
         # Use LLM directly with combined context
         prompt_template = """You are a helpful assistant for TU Wien master students in informatics programs.
 You have access to information about various master programs, curricula, courses, and admission requirements.
 
 IMPORTANT GUIDELINES:
-1. Always answer in English, even if source documents are in German
+1. {language_instruction}
 2. Synthesize information across different sources when relevant
 3. Include specific details like course codes, ECTS credits, and prerequisites when available
 4. Cite the source (URL or PDF name) for key claims
@@ -231,10 +237,10 @@ Helpful Answer:"""
         
         prompt = PromptTemplate(
             template=prompt_template,
-            input_variables=["context", "question"]
+            input_variables=["context", "question", "language_instruction"]
         )
         
-        formatted_prompt = prompt.format(context=context, question=enhanced_question)
+        formatted_prompt = prompt.format(context=context, question=enhanced_question, language_instruction=language_instruction)
         response = self.llm.invoke(formatted_prompt)
         
         return response.content, combined_docs
