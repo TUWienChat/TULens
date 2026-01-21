@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ### 2. Set Environment Variables
 
-Create a `.env` file:
+Create a `.env_docker` and a `.env` file:
 
 ```env
 GROQ_API_KEY=your_groq_api_key_here
