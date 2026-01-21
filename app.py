@@ -63,13 +63,13 @@ with st.sidebar:
     st.header("⚙️ Configuration")
     
     st.markdown("### 🌐 Response Language")
-    st.session_state.response_language = st.toggle(
-        "German / Deutsch",
-        value=st.session_state.response_language == "German",
-        help="Toggle to switch response language between English and German"
+    st.session_state.response_language = st.radio(
+        "Select language",
+        options=["English", "German"],
+        index=0 if st.session_state.response_language == "English" else 1,
+        horizontal=True,
+        help="Choose the language for responses"
     )
-    st.session_state.response_language = "German" if st.session_state.response_language else "English"
-    st.caption(f"Current: **{st.session_state.response_language}**")
 
     st.divider()
 
